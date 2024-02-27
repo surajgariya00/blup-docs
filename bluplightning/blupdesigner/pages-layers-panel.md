@@ -32,7 +32,7 @@ The view showcases either all components or all pages available i.e. layer panel
 
 #### Layers Panel
 
-<figure><img src="../../.gitbook/assets/Untitled design (3).png" alt=""><figcaption><p>Layers Panel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (5).png" alt=""><figcaption><p>Layers Panel</p></figcaption></figure>
 
 Blup employs a layering approach, where each widget is constructed with multiple layers stacked atop one another. Every page or canvas has its own unique set of layers, visible within this designated section. These layers represent the composition of the current page.&#x20;
 

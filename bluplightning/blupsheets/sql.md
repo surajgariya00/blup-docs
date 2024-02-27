@@ -1,0 +1,124 @@
+---
+description: SQL in Blup is similar to traditional SQL.
+cover: ../../.gitbook/assets/Blup  - pettens (3).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# SQL
+
+SQL in blup is similar to a traditional SQL editor in the sense, that in SQL you can manage, and edit your SQL queries and, through SQL query you can modify data from the tables present in Sheets.
+
+The SQL consists of mainly 3 sections:
+
+* **SQL Queries View**
+* **SQL Bar**
+* **SQL Editor**
+
+<figure><picture><source srcset="../../.gitbook/assets/light mode.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/dark mode.png" alt=""></picture><figcaption><p>SQL</p></figcaption></figure>
+
+### **SQL Queries View**
+
+**SQL Queries View** consists of all **SQL** **Queries** that you have created. This mainly consists of three columns, the **Name** of the query, the **Description** of the query, and the **Last Modified** date of the query.&#x20;
+
+You can select any query by checking the check box on the left side of each query entry and perform operations like edit or delete.&#x20;
+
+This View helps in managing all SQL queries you have made, this can come in handy if you have a large project.
+
+<figure><picture><source srcset="../../.gitbook/assets/SQL Queries View Dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/SQL Queries View Light.png" alt="SQL Queries View"></picture><figcaption><p>SQL Querues View</p></figcaption></figure>
+
+### SQL Bar
+
+The **SQL Bar** includes several buttons designed to help you efficiently manage SQL queries. These buttons serve various purposes, such as refreshing all queries and editing query details. Let’s explore them one by one! 😊
+
+<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2024-02-14 at 11.14 2.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2024-02-14 at 11.12 3.png" alt=""></picture><figcaption></figcaption></figure>
+
+**Refresh Button**
+
+This button is used to refresh all SQL queries.
+
+<figure><picture><source srcset="../../.gitbook/assets/reload_queries_dark.gif" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/reload_queries_ligh.gif" alt="Reload Queries"></picture><figcaption><p>Refresh Button</p></figcaption></figure>
+
+#### **Search Button**
+
+On enabling this button, a search bar will appear below the **Name**, **Description,** and **Last Modified** of your queries. The SQL queries are stored in a table which is explained below, so that you can search a query based on the **Name or** **Description or Last Modified** that you provide in the search bar.
+
+<figure><picture><source srcset="../../.gitbook/assets/search_query_dark.gif" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/search_query_light.gif" alt="Search Queries"></picture><figcaption><p>Search Button</p></figcaption></figure>
+
+#### **Add Query Button**
+
+**The Add Query Button** is used to create a new query.&#x20;
+
+On clicking this button a pop-up will appear asking you to enter the **Name** and **Description** of the query which you want to make.&#x20;
+
+This is done so that you can manage different queries and keep track of what the particular query does in writing the description.
+
+<figure><picture><source srcset="../../.gitbook/assets/add_query_dark.gif" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/add_query_light.gif" alt="Add Query"></picture><figcaption><p>Add Query Button</p></figcaption></figure>
+
+#### **Delete Query Button**
+
+**The Delete Query** button is used to delete a query, this button is disabled by default if no query is selected or present.
+
+Firstly, select a query to delete it.
+
+<figure><picture><source srcset="broken-reference" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/delete_query_light.gif" alt="Delete Query"></picture><figcaption><p>Delete Query</p></figcaption></figure>
+
+> Note: You can also delete multiple queries by selecting them.
+
+#### **Edit Query Button**
+
+**The Edit Query** button is used to edit a query, the **Edit Query** is disabled by default if no query is selected.&#x20;
+
+On clicking **Edit Query,** a pop-up will appear containing the **Name** and **Description** of the query that you can edit and save.
+
+<figure><picture><source srcset="../../.gitbook/assets/edit_query_dark.gif" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/edit_query_light.gif" alt="Edit Query"></picture><figcaption><p>Edit Query</p></figcaption></figure>
+
+#### **Filter Button**
+
+On enabling the **Filter Button**, a filter option will appear on the right side of all the columns present in the **SQL Queries View**, where you can apply the filters on the data present. There are some filter options like:&#x20;
+
+* A-Z / Z-A for Text-type columns - sort by ascending or descending for text
+* Newest First / Oldest First for Date Time type columns - sort by datetime.
+
+<figure><picture><source srcset="../../.gitbook/assets/filter_query_dark-ezgif.com-video-speed.gif" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/filter_query_light-ezgif.com-crop-video.gif" alt=""></picture><figcaption><p>Filter Queries</p></figcaption></figure>
+
+
+
+**SQL Editor**
+
+The Editor is one of the most important part of the SQL section. Here you can wirte your sql queries and test them. The query which you have clicked from the SQL query table is shown here. The editor has three main parts, let's discuss each one of them.
+
+_**Top Bar**_
+
+The top bar consist of three things : &#x20;
+
+1\) Name of the query which is opened.
+
+2\) Run SQL Button - This is used to run the sql query, along with this you can also configure a test event by clicking the dropdown arrow from the run sql button.&#x20;
+
+3\) Save SQL Button -  This is used to save an edited sql query, you need to run the query or press this button in order to save the query you have written.
+
+_**Editor**_&#x20;
+
+Here you can write you sql queries, this works as a traditional code editor where you can copy, cut and paste your code along with SQL syntax highlighting
+
+_**QT AI Prompt Bar**_
+
+The SQL section has an AI powered editor called QT AI, where you can write a promt and the respective SQL query will be generated for you. For example you can give a prompt "Give me all the phone numbers from user table", it AI automatically recognizes the context and gives you a SELECT query.&#x20;
+
+_**Output Section**_
+
+This is where you get the execution results of your sql query, it shows you the error encountered if any or the success result obtained from running the query.

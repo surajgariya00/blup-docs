@@ -8,7 +8,7 @@ description: >-
 
 
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><a data-mention href="bluplightning/blupdesigner/">blupdesigner</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="bluplightning/blup-lightning/">blup-lightning</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="bluplightning/blupsheets.md">blupsheets.md</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="bluplightning/publish-to-stores-ship/">publish-to-stores-ship</a></td><td></td><td></td></tr><tr><td align="center"><a href="https://www.youtube.com/watch?v=QHQiDpPJYcQ&#x26;list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&#x26;ab_channel=Blup">Youtube Tutorials </a>▶️</td><td></td><td></td></tr><tr><td align="center"><a href="https://blup.in/downloads">Download Blup </a>⬇️</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><a data-mention href="bluplightning/blupdesigner/">blupdesigner</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="bluplightning/blup-lightning/">blup-lightning</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="bluplightning/blupsheets/">blupsheets</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="bluplightning/publish-to-stores-ship/">publish-to-stores-ship</a></td><td></td><td></td></tr><tr><td align="center"><a href="https://www.youtube.com/watch?v=QHQiDpPJYcQ&#x26;list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&#x26;ab_channel=Blup">Youtube Tutorials </a>▶️</td><td></td><td></td></tr><tr><td align="center"><a href="https://blup.in/downloads">Download Blup </a>⬇️</td><td></td><td></td></tr></tbody></table>
 
 ## Guide to Blup documentation
 
@@ -24,7 +24,7 @@ To get the most out of blup we recommend you go through the documentation in the
 
 * [BlupDesigner](bluplightning/blupdesigner/)
 * [BlupLightning](bluplightning/blup-lightning/)
-* [BlupSheets](bluplightning/blupsheets.md)
+* [BlupSheets](bluplightning/blupsheets/)
 
 ## YouTube: Complete Beginners Series to Blup. \[Playlist]
 

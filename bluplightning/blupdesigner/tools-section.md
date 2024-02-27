@@ -9,7 +9,7 @@ description: >-
 
 ## Toolkit
 
-<figure><img src="../../.gitbook/assets/Untitled design.jpg" alt=""><figcaption><p>Toolkit</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (1).jpg" alt=""><figcaption><p>Toolkit</p></figcaption></figure>
 
 This segment encompasses all the necessary tools for constructing the UI. We'll delve into each tool individually, providing detailed explanations for features like the selection cursor, rectangle, text, and more.
 
