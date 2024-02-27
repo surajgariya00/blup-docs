@@ -13,6 +13,7 @@
     * [Text Properties](bluplightning/blupdesigner/properties-panel/text-properties.md)
     * [List Properties](bluplightning/blupdesigner/properties-panel/list-properties.md)
     * [Rectangle Properties](bluplightning/blupdesigner/properties-panel/rectangle-properties.md)
+  * [Choose from Assets](bluplightning/blupdesigner/choose-from-assets.md)
 * [Blup Lightning (Logics) ⚡](bluplightning/blup-lightning/README.md)
   * [UI Nodes](bluplightning/blup-lightning/ui-nodes/README.md)
     * [Rectangle UI Node](bluplightning/blup-lightning/ui-nodes/rectangle-ui-node.md)
