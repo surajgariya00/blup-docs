@@ -6,7 +6,7 @@ description: Node to Interact with blup sheet database.
 
 ## BlupSheets Node
 
-Blupsheet node is used to interact with the [BlupSheets ](../blupsheets/)database.&#x20;
+Blupsheet node is used to interact with the [BlupSheets ](../backend/)database.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot (18) (1).png>)
 
