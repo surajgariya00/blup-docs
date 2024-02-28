@@ -7,7 +7,7 @@ How to select images from project assets
 3. When you click the Choose From Assets button, you can access the Assets widget, which displays all previously added images for a quick overview of available assets.
 4. Browse through the list of assets, and when you find the desired image, click on it to select. The selected image will be applied to the selected component in your project.
 
-<figure><img src="../../.gitbook/assets/choose from assets.gif" alt="Choose from asssets"><figcaption><p>Choose from assets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/select from asset.gif" alt="Choose from assets"><figcaption><p>Choose from assets</p></figcaption></figure>
 
 {% hint style="info" %}
 Ensure that you have added images to your project by importing from Figma or selecting images. Once your images are added, click the "Choose From Assets" button.
