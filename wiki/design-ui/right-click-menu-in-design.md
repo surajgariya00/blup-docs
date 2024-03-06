@@ -22,7 +22,7 @@ Duplicates the selected component, including its entire structure such as contai
 
 Inserts the previously copied component as a new independent instance. This allows for the creation of duplicates without affecting existing components, fostering flexibility in design.
 
-#### **Delete:**
+#### **Delete**
 
 Removes the selected component from the UI, deleting it entirely—a crucial function for component management and cleanup.
 
@@ -34,7 +34,7 @@ Removes the selected component from the UI, deleting it entirely—a crucial fun
 
 Copies all properties of the selected component, excluding height, width, and widget-specific properties. This feature is useful for transferring styles and settings between components.
 
-#### **Paste Properties:**
+#### **Paste Properties**
 
 Applies the copied properties to the selected component. This allows for the efficient transfer of styling and configuration settings.
 
@@ -42,15 +42,15 @@ Applies the copied properties to the selected component. This allows for the eff
 
 ### **Copy Page, Paste Page, and Delete Page**
 
-#### **Copy Page:**
+#### **Copy Page**
 
 Duplicates the current page, facilitating the replication of entire layouts or structures.
 
-#### **Paste Page:**
+#### **Paste Page**
 
 Inserts the copied page as a new page, allowing for the seamless duplication of entire pages within your project.
 
-#### **Delete Page:**
+#### **Delete Page**
 
 Removes the current page and opens the last page before it. Useful for page management and navigation.
 
@@ -90,13 +90,13 @@ Removes layers from the selected group, allowing for the disassociation of compo
 
 <figure><img src="../../.gitbook/assets/group-ungroup.gif" alt="Group Un-group"><figcaption><p>Group Un-group</p></figcaption></figure>
 
-#### **ScrollView/Un-ScrollView**
+### **ScrollView/Un-ScrollView**
 
-**ScrollView**
+#### **ScrollView**
 
 Converts the currently selected component into a ScrollView—a view group used to make vertically scrollable views. Useful for creating scrollable sections within your design.
 
-**Un-ScrollView**
+#### **Un-ScrollView**
 
 Undo the ScrollView operation, reverting the selected component to its original state.
 
@@ -104,13 +104,13 @@ Undo the ScrollView operation, reverting the selected component to its original 
 
 <figure><img src="../../.gitbook/assets/ScrollView-UnScorllView.gif" alt="ScrollView-UnScrollView"><figcaption><p>ScrollView-UnScrollView</p></figcaption></figure>
 
-#### **ListView/Un-ListView**
+### **ListView/Un-ListView**
 
-**ListView:**
+#### **ListView**
 
 Converts the selected components into a ListView widget, a versatile component for displaying a scrollable list of items.
 
-**Unlist view:**
+#### **Un-ListView**
 
 Undo the ListView operation, reapplying the conversion of selected components into a ListView.
 
@@ -118,9 +118,9 @@ Undo the ListView operation, reapplying the conversion of selected components in
 
 <figure><img src="../../.gitbook/assets/ListView-UnListView.gif" alt="ListView-UnListView"><figcaption><p>ListView-UnListView</p></figcaption></figure>
 
-#### **PageListView/Un-PageListView**
+### **PageListView/Un-PageListView**
 
-#### **PageListView:**
+#### **PageListView**
 
 Creates a ListView of pages, allowing you to map indexes of the pages to different components. Users can navigate through these pages using the designated components.
 
