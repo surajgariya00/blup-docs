@@ -80,7 +80,7 @@ Pushes the selected component to the bottom layer of the UI, making it the visua
 
 ### **Group/Un-group**
 
-#### **Group:**
+#### **Group**
 
 Groups one or more components together, creating a single top-level layer. Grouping facilitates the management of related elements as a unified entity.
 
