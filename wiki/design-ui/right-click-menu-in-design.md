@@ -90,14 +90,29 @@ Removes layers from the selected group, allowing for the disassociation of compo
 
 <figure><img src="../../.gitbook/assets/group-ungroup.gif" alt="Group Un-group"><figcaption><p>Group Un-group</p></figcaption></figure>
 
-10. **ScrollView:**
-    * Converts the currently selected component into a ScrollView—a view group used to make vertically scrollable views. Useful for creating scrollable sections within your design.
-11. **Unscrollview:**
-    * Undoes the ScrollView operation, reverting the selected component to its original state.
-12. **ListView:**
-    * Converts the selected components into a ListView widget, a versatile component for displaying a scrollable list of items.
-13. **Unlist view:**
-    * Redoes the ListView operation, reapplying the conversion of selected components into a ListView.
+#### **ScrollView/Un-ScrollView**
+
+**ScrollView**
+
+Converts the currently selected component into a ScrollView—a view group used to make vertically scrollable views. Useful for creating scrollable sections within your design.
+
+**Un-ScrollView**
+
+Undo the ScrollView operation, reverting the selected component to its original state.
+
+
+
+<figure><img src="../../.gitbook/assets/ScrollView-UnScorllView.gif" alt=""><figcaption></figcaption></figure>
+
+#### **ListView/Un-ListView**
+
+**ListView:**
+
+Converts the selected components into a ListView widget, a versatile component for displaying a scrollable list of items.
+
+**Unlist view:**
+
+Undo the ListView operation, reapplying the conversion of selected components into a ListView.
 
 #### **PageListView/Un-PageListView**
 
@@ -109,24 +124,10 @@ Creates a ListView of pages, allowing you to map indexes of the pages to differe
 
 Undoes the PageListView operation, reverting the selected component to its original state before the ListView of pages is applied.
 
-
-
 <figure><img src="../../.gitbook/assets/PageListView-UnPageListView.gif" alt=""><figcaption><p>PageListView-UnPageListView</p></figcaption></figure>
 
 #### Happy Learning!!
 
-
-
-{% tabs %}
-{% tab title="Music" %}
-
-
 {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
 Lofi music
 {% endembed %}
-{% endtab %}
-
-{% tab title="Second Tab" %}
-{% endembed %}
-{% endtab %}
-{% endtabs %}
