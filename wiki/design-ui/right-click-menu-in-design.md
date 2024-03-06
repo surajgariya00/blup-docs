@@ -127,6 +127,6 @@ Lofi music
 {% endtab %}
 
 {% tab title="Second Tab" %}
-{% embed url="https://2048game.com/" %}
+{% endembed %}
 {% endtab %}
 {% endtabs %}
