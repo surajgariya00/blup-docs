@@ -68,15 +68,15 @@ Pushes the selected component one layer below its current position in the layer 
 
 ### **Sent to Front/Back**
 
-#### **Send to Front**
+#### **Sent to Front**
 
 Brings the selected component to the top layer of the UI, making it visually the foremost element.
 
-#### **Send to Back**
+#### **Sent to Back**
 
 Pushes the selected component to the bottom layer of the UI, making it the visually rearmost element.
 
-<figure><img src="../../.gitbook/assets/sen_to_back_front.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sen_to_back_front.gif" alt=""><figcaption><p>Sent to Front/Back</p></figcaption></figure>
 
 ### **Group/Un-group**
 
@@ -102,7 +102,7 @@ Undo the ScrollView operation, reverting the selected component to its original 
 
 
 
-<figure><img src="../../.gitbook/assets/ScrollView-UnScorllView.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ScrollView-UnScorllView.gif" alt="ScrollView-UnScrollView"><figcaption><p>ScrollView-UnScrollView</p></figcaption></figure>
 
 #### **ListView/Un-ListView**
 
@@ -113,6 +113,10 @@ Converts the selected components into a ListView widget, a versatile component f
 **Unlist view:**
 
 Undo the ListView operation, reapplying the conversion of selected components into a ListView.
+
+
+
+<figure><img src="../../.gitbook/assets/ListView-UnListView.gif" alt="ListView-UnListView"><figcaption><p>ListView-UnListView</p></figcaption></figure>
 
 #### **PageListView/Un-PageListView**
 
