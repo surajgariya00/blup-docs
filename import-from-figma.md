@@ -36,7 +36,5 @@ Paste the copied token you got from the third step and paste it in the File ID o
 2. Select the frames you want to import and click on **Import**
 3. And the magic happens.
 
-
-
-<figure><img src=".gitbook/assets/figma_import.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/figma_import.gif" alt=""><figcaption><p>import design</p></figcaption></figure>
 
