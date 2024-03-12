@@ -15,7 +15,7 @@ This segment encompasses all the necessary tools for constructing the UI. We'll 
 
 ### Selector Cursor
 
-<figure><img src="../../.gitbook/assets/selection cursor.gif" alt=""><figcaption><p>Selection Cursor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/selection_cursor.gif" alt=""><figcaption><p>Selection Cursor</p></figcaption></figure>
 
 The Selector Cursor within the Blup is your precision powerhouse.&#x20;
 
@@ -25,7 +25,7 @@ Press '**V'** or 'Escape' for a smooth transition back to the selector cursor.
 
 ### Rectangle Toggle
 
-<figure><img src="../../.gitbook/assets/Blup _ My app 2024-02-05 17-45-34.gif" alt=""><figcaption><p>Rectangle Toogle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rectangle_toogle.gif" alt=""><figcaption><p>Rectangle Toogle</p></figcaption></figure>
 
 The versatile Rectangle Toggle is utilized to generate rectangular shapes within the canvas or pages.&#x20;
 
@@ -39,7 +39,7 @@ Thanks to Blup's seamless integration with Windows/Mac OS, any images, GIFs, or 
 
 ### Text Toggle
 
-<figure><img src="../../.gitbook/assets/Text.gif" alt=""><figcaption><p>Text Toggle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/text_toggle.gif" alt=""><figcaption><p>Text Toggle</p></figcaption></figure>
 
 Crucial for textual components, the Text Toggle feature within the Blup tool serves as your creative ally.&#x20;
 
@@ -55,7 +55,7 @@ Delve into advanced customization options in the right-side panel.
 
 ### EYE - Dynamic Content Visibility
 
-<figure><img src="../../.gitbook/assets/hide unhide.gif" alt=""><figcaption><p>Eye - Dynamic Content Visibility</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hide_unhide.gif" alt=""><figcaption><p>Eye - Dynamic Content Visibility</p></figcaption></figure>
 
 The EYE tool in the Blup tool dynamically controls content visibility.&#x20;
 
@@ -67,7 +67,7 @@ Toolkit Tact is your tool for personalized workspace within the Blup tool.&#x20;
 
 Move the toolkit palette across the canvas as per your preferences and workflow needs. It offers flexibility for an adaptable and efficient design experience.
 
-<figure><img src="../../.gitbook/assets/Blup _ My app 2024-02-06 13-25-03.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/toolkit_tact.gif" alt=""><figcaption><p>toolkit tact</p></figcaption></figure>
 
 This toolkit ensures your UI designs are not just functional but visually compelling and user-friendly. Dive in and unleash your creativity within the Blup tool!
 
