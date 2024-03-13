@@ -1,6 +1,6 @@
 ---
 description: SQL in Blup is similar to traditional SQL.
-cover: ../../.gitbook/assets/Blup  - pettens (3).png
+cover: ../../.gitbook/assets/backend_sql_cover.png
 coverY: 0
 layout:
   cover:
@@ -44,7 +44,7 @@ This View helps in managing all SQL queries you have made, this can come in hand
 
 The **SQL Bar** includes several buttons designed to help you efficiently manage SQL queries. These buttons serve various purposes, such as refreshing all queries and editing query details. Let’s explore them one by one! 😊
 
-<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2024-02-14 at 11.14 2.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2024-02-14 at 11.12 3.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/backend_sql_bar_dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/backend_sql_bar_light.png" alt=""></picture><figcaption></figcaption></figure>
 
 **Refresh Button**
 
