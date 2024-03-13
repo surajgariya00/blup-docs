@@ -1,6 +1,6 @@
 ---
 description: SQL in Blup is similar to traditional SQL.
-cover: ../../.gitbook/assets/backend_sql_cover.png
+cover: ../../.gitbook/assets/Blup  - pettens (3).png
 coverY: 0
 layout:
   cover:
@@ -32,9 +32,9 @@ The SQL consists of mainly 3 sections:
 
 ### **SQL Queries View**
 
-**SQL Queries View** consists of all **SQL** **Queries** that you have created. This mainly consists of three columns, the **Name** of the query, the **Description** of the query, and the **Last Modified** date of the query.&#x20;
+**SQL Queries View** consists of all **SQL** **Queries** that you have created. This mainly consists of three columns, the **Name** of the query, the **Description** of the query, and the **Last Modified** date of the query.
 
-You can select any query by checking the check box on the left side of each query entry and perform operations like edit or delete.&#x20;
+You can select any query by checking the check box on the left side of each query entry and perform operations like edit or delete.
 
 This View helps in managing all SQL queries you have made, this can come in handy if you have a large project.
 
@@ -44,7 +44,7 @@ This View helps in managing all SQL queries you have made, this can come in hand
 
 The **SQL Bar** includes several buttons designed to help you efficiently manage SQL queries. These buttons serve various purposes, such as refreshing all queries and editing query details. Let’s explore them one by one! 😊
 
-<figure><picture><source srcset="../../.gitbook/assets/backend_sql_bar_dark.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/backend_sql_bar_light.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2024-02-14 at 11.14 2.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2024-02-14 at 11.12 3.png" alt=""></picture><figcaption></figcaption></figure>
 
 **Refresh Button**
 
@@ -60,9 +60,9 @@ On enabling this button, a search bar will appear below the **Name**, **Descript
 
 #### **Add Query Button**
 
-**The Add Query Button** is used to create a new query.&#x20;
+**The Add Query Button** is used to create a new query.
 
-On clicking this button a pop-up will appear asking you to enter the **Name** and **Description** of the query which you want to make.&#x20;
+On clicking this button a pop-up will appear asking you to enter the **Name** and **Description** of the query which you want to make.
 
 This is done so that you can manage different queries and keep track of what the particular query does in writing the description.
 
@@ -80,7 +80,7 @@ Firstly, select a query to delete it.
 
 #### **Edit Query Button**
 
-**The Edit Query** button is used to edit a query, the **Edit Query** is disabled by default if no query is selected.&#x20;
+**The Edit Query** button is used to edit a query, the **Edit Query** is disabled by default if no query is selected.
 
 On clicking **Edit Query,** a pop-up will appear containing the **Name** and **Description** of the query that you can edit and save.
 
@@ -88,14 +88,12 @@ On clicking **Edit Query,** a pop-up will appear containing the **Name** and **D
 
 #### **Filter Button**
 
-On enabling the **Filter Button**, a filter option will appear on the right side of all the columns present in the **SQL Queries View**, where you can apply the filters on the data present. There are some filter options like:&#x20;
+On enabling the **Filter Button**, a filter option will appear on the right side of all the columns present in the **SQL Queries View**, where you can apply the filters on the data present. There are some filter options like:
 
 * A-Z / Z-A for Text-type columns - sort by ascending or descending for text
 * Newest First / Oldest First for Date Time type columns - sort by datetime.
 
 <figure><picture><source srcset="../../.gitbook/assets/filter_query_dark-ezgif.com-video-speed.gif" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/filter_query_light-ezgif.com-crop-video.gif" alt=""></picture><figcaption><p>Filter Queries</p></figcaption></figure>
-
-
 
 **SQL Editor**
 
@@ -103,21 +101,21 @@ The Editor is one of the most important part of the SQL section. Here you can wi
 
 _**Top Bar**_
 
-The top bar consist of three things : &#x20;
+The top bar consist of three things :
 
 1\) Name of the query which is opened.
 
-2\) Run SQL Button - This is used to run the sql query, along with this you can also configure a test event by clicking the dropdown arrow from the run sql button.&#x20;
+2\) Run SQL Button - This is used to run the sql query, along with this you can also configure a test event by clicking the dropdown arrow from the run sql button.
 
-3\) Save SQL Button -  This is used to save an edited sql query, you need to run the query or press this button in order to save the query you have written.
+3\) Save SQL Button - This is used to save an edited sql query, you need to run the query or press this button in order to save the query you have written.
 
-_**Editor**_&#x20;
+_**Editor**_
 
 Here you can write you sql queries, this works as a traditional code editor where you can copy, cut and paste your code along with SQL syntax highlighting
 
 _**QT AI Prompt Bar**_
 
-The SQL section has an AI powered editor called QT AI, where you can write a promt and the respective SQL query will be generated for you. For example you can give a prompt "Give me all the phone numbers from user table", it AI automatically recognizes the context and gives you a SELECT query.&#x20;
+The SQL section has an AI powered editor called QT AI, where you can write a promt and the respective SQL query will be generated for you. For example you can give a prompt "Give me all the phone numbers from user table", it AI automatically recognizes the context and gives you a SELECT query.
 
 _**Output Section**_
 
