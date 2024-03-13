@@ -5,6 +5,7 @@
 ## Wiki
 
 * [Design (UI) ✏️](wiki/design-ui/README.md)
+  * [Blup Top Bar](wiki/design-ui/blup-top-bar.md)
   * [Status Bar](wiki/design-ui/status-bar.md)
   * [Pages/Layers Panel](wiki/design-ui/pages-layers-panel.md)
   * [Toolkit](wiki/design-ui/tools-section.md)
@@ -36,7 +37,7 @@
 * [Backend 🔗](wiki/backend/README.md)
   * [Sheets](wiki/backend/sheets.md)
   * [SQL](wiki/backend/sql.md)
-* [Blup Code Editor  ](wiki/blup-code-editor.md)
+* [Blup Code Editor](wiki/blup-code-editor.md)
 * [Publish to stores 🚀(Ship)](wiki/publish-to-stores-ship/README.md)
   * [iOS Cloud Build 😮‍💨](wiki/publish-to-stores-ship/ios-cloud-build/README.md)
     * [Configure ⚙️](wiki/publish-to-stores-ship/ios-cloud-build/configure.md)
