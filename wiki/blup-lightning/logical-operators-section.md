@@ -1,5 +1,8 @@
 # Logical Operators Section
 
+![](../../.gitbook/assets/operator.jpg)
+
+
 ## Logical Operator Nodes
 
 This section encompasses all nodes for logical comparisons between values. There are three major logical operators in Blup:
