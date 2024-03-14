@@ -1,8 +1,12 @@
 # Relational Operators Section
 
+
+![](../../.gitbook/assets/relational.jpg)
+
+
 ## Relational Operator Section
 
-Relational operator nodes exist for three types of variables node:
+Relational operator nodes exist for three types of variable nodes:
 
 1. Integer relational operators
 2. Double relational operators
@@ -10,224 +14,242 @@ Relational operator nodes exist for three types of variables node:
 
 ## Integer Relational Operator Sub-Section
 
-In this sub-section all the nodes that help you apply relational comparison between the integer number are present.&#x20;
+In this sub-section, nodes facilitating relational comparison between integer numbers are presented.
 
 ### Int | Greater than
 
-There are two input nodes in this section.
-
-if A \[first number] > B \[second number] this node returns true.
-
-And if A \[first number] < B \[second number] this node returns false.
+This node compares two integer numbers and returns true if the first number (A) is greater than the second number (B).
 
 #### Components of Greater than
 
-<table><thead><tr><th width="175"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first number [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node is used to provide the second number [B].</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox is used to generate the run trigger in the node.</td></tr><tr><td><strong>A > B</strong> </td><td>This output node point provides you with the result of the relational comparison between two numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first integer number (A).                                        |
+| B                   | Input node providing the second integer number (B).                                       |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A > B               | Output node providing the result of the comparison in Boolean.                            |
 
 ### Int | Greater than or Equal To
 
-This node is used to apply greater than or equal to relational operation between two integer numbers \[A & B].&#x20;
-
-if A \[first number] >= B \[second number] this node return true, else it return false.
-
-For example, if A = 20 and B  = 20 then it returns true.
+This node performs a greater than or equal to comparison between two integer numbers (A & B).
 
 #### Components of Greater than or Equal To
 
-<table><thead><tr><th width="185"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first number [A].</td></tr><tr><td><strong>B</strong></td><td>This input node is used to provide the second number [B].</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate run trigger in the node.</td></tr><tr><td><strong>A >= B</strong></td><td> This output node point provides you with the result of the relational comparison between two numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first integer number (A).                                        |
+| B                   | Input node providing the second integer number (B).                                       |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A >= B              | Output node providing the result of the comparison in Boolean.                            |
 
 ### Int | Less than
 
-This node is used to apply Less than relational operation between two integer numbers \[A & B].&#x20;
-
-if A \[first number] < B \[second number] this node return true, else it returns false.
-
-Example if A = 10 and B  = 20 then it return true.
+This node compares two integer numbers and returns true if the first number (A) is less than the second number (B).
 
 #### Components of Less Than
 
-<table><thead><tr><th width="182"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong> </td><td>This input node point help to provide the first number [A].</td></tr><tr><td><strong>B</strong></td><td>This input node helps you to provide the second number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td> This checkbox is used to generate run trigger in the node.</td></tr><tr><td><strong>A &#x3C; B</strong></td><td>This output node point provides you with the result of the relational comparison between two numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first integer number (A).                                        |
+| B                   | Input node providing the second integer number (B).                                       |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A < B               | Output node providing the result of the comparison in Boolean.                            |
 
 ### Int | Less than or Equal To
 
-This node helps you to apply Less than equal to relational operation between two integers-\[A & B].&#x20;
-
-if A \[first number] <= B \[second number] this node return true, else it return false.
-
-Example if A = 10 and B  = 25 then it return true.
+This node performs a less than or equal to comparison between two integer numbers (A & B).
 
 #### Components of Less than or Equal To
 
-<table><thead><tr><th width="187"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first number [A].</td></tr><tr><td><strong>B</strong></td><td>This input node helps to provide the second number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate run trigger in the node.</td></tr><tr><td><strong>A &#x3C;= B</strong></td><td>This output node point provides the result of the relational comparison between two numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first integer number (A).                                        |
+| B                   | Input node providing the second integer number (B).                                       |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A <= B              | Output node providing the result of the comparison in Boolean.                            |
 
 ### Int | Is Equal To
 
-This node is used to apply Is equal to relational operation between two integer numbers \[A & B].&#x20;
+This node checks whether two integer numbers (A & B) are equal.
 
-if A \[first number] == B \[second number] this node return true, else it will return false.
+#### Components of Is Equal To
 
-Example if A = 10 and B  = 10 then it returns true.
-
-#### Components of Blup
-
-<table><thead><tr><th width="221"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td> This input node point is used to provide the first number [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node helps to provide the second number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate a run trigger in the node.</td></tr><tr><td><strong>A == B</strong></td><td>This output node point provides you with the result of the relational comparison between two numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first integer number (A).                                        |
+| B                   | Input node providing the second integer number (B).                                       |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A == B              | Output node providing the result of the comparison in Boolean.                            |
 
 ### Int | Not Equal To
 
-This node is used to apply Not equal to relational operation between two integer numbers \[A & B].&#x20;
-
-if A \[first number] != B \[second number] this node returns true, else it will return false.
-
-For example if A = 20 and B  = 10 then it returns true. \[because numbers are not Equal ]
+This node checks whether two integer numbers (A & B) are not equal.
 
 #### Components of Not Equal To
 
-<table><thead><tr><th width="187"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point helps to provide the first number [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node helps to provide the second number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate a run trigger in the node.</td></tr><tr><td><strong>A != B</strong></td><td>This output node point provides you with the result of the relational comparison between two numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first integer number (A).                                        |
+| B                   | Input node providing the second integer number (B).                                       |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A != B              | Output node providing the result of the comparison in Boolean.                            |
 
 ## Double Relational Operator Sub-Section
 
 ### Double | Greater than
 
-There are two input nodes in this section.
-
-if A \[first decimal number] > B \[second decimal number] this node returns true.
-
-And if A \[first decimal number] < B \[second decimal number] this node returns false.
+This node compares two decimal numbers and returns true if the first number (A) is greater than the second number (B).
 
 #### Components of Greater than
 
-<table><thead><tr><th width="175"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first decimal number [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node is used to provide the second decimal number [B].</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox is used to generate the run trigger in the node.</td></tr><tr><td><strong>A > B</strong> </td><td>This output node point provides you with the result of the relational comparison between two decimal numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first decimal number (A).                                         |
+| B                   | Input node providing the second decimal number (B).                                        |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A > B               | Output node providing the result of the comparison in Boolean.                            |
 
 ### Double | Greater than or Equal To
 
-This node is used to apply greater than or equal to relational operation between two decimal numbers \[A & B].&#x20;
-
-if A \[first decimal number] >= B \[second decimal number] this node return true, else it return false.
-
-For example, if A = 20 and B  = 20 then it returns true.
+This node performs a greater than or equal to comparison between two decimal numbers (A & B).
 
 #### Components of Greater than or Equal To
 
-<table><thead><tr><th width="187"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first decimal number [A].</td></tr><tr><td><strong>B</strong></td><td>This input node is used to provide the second decimal number [B].</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate run trigger in the node.</td></tr><tr><td><strong>A >= B</strong></td><td> This output node point provides you with the result of the relational comparison between two decimal numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first decimal number (A).                                         |
+| B                   | Input node providing the second decimal number (B).                                        |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A >= B              | Output node providing the result of the comparison in Boolean.                            |
 
 ### Double | Less than
 
-This node is used to apply Less than relational operation between two decimal numbers \[A & B].&#x20;
-
-if A \[first decimal number] < B \[second decimal number] this node return true, else it returns false.
-
-Example if A = 10 and B  = 20 then it return true.
+This node compares two decimal numbers and returns true if the first number (A) is less than the second number (B).
 
 #### Components of Less Than
 
-<table><thead><tr><th width="207"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong> </td><td>This input node point helps to provide the first decimal number [A].</td></tr><tr><td><strong>B</strong></td><td>This input node helps you to provide the second decimal number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td> This checkbox is used to generate run trigger in the node.</td></tr><tr><td><strong>A &#x3C; B</strong></td><td>This output node point provides you with the result of the relational comparison between two decimal numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first decimal number (A).                                         |
+| B                   | Input node providing the second decimal number (B).                                        |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A < B               | Output node providing the result of the comparison in Boolean.                            |
 
 ### Double | Less than or Equal To
 
-This node helps you to apply Less than or equal to relational operation between two integers-\[A & B].&#x20;
-
-if A \[first decimal number] <= B \[second decimal number] this node return true, else it return false.
-
-Example if A = 10 and B  = 25 then it return true.
+This node performs a less than or equal to comparison between two decimal numbers (A & B).
 
 #### Components of Less than or Equal To
 
-<table><thead><tr><th width="211"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first decimal number [A].</td></tr><tr><td><strong>B</strong></td><td>This input node helps to provide the second decimal number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate run trigger in the node.</td></tr><tr><td><strong>A &#x3C;= B</strong></td><td>This output node point provides the result of the relational comparison between two decimal numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first decimal number (A).                                         |
+| B                   | Input node providing the second decimal number (B).                                        |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A <= B              | Output node providing the result of the comparison in Boolean.                            |
 
 ### Double | Is Equal To
 
-This node is used to apply Is equal to relational operation between two decimal numbers \[A & B].&#x20;
-
-if A \[first decimal number] == B \[second decimal number] this node return true, else it will return false.
-
-Example if A = 10 and B  = 10 then it returns true.
+This node checks whether two decimal numbers (A & B) are equal.
 
 #### Components of Is Equal To
 
-<table><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td> This input node point is used to provide the first decimal number [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node helps to provide the second decimal number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate a run trigger in the node.</td></tr><tr><td><strong>A == B</strong></td><td>This output node point provides you with the result of the relational comparison between two decimal numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first decimal number (A).                                         |
+| B                   | Input node providing the second decimal number (B).                                        |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A == B              | Output node providing the result of the comparison in Boolean.                            |
 
-### Double| Not Equal To
+### Double | Not Equal To
 
-This node is used to apply Not equal to relational operation between two decimal numbers \[A & B].&#x20;
-
-if A \[first decimal number] != B \[second decimal number] this node returns true, else it will return false.
-
-For example if A = 20 and B  = 10 then it returns true. \[because the numbers are not Equal ]
+This node checks whether two decimal numbers (A & B) are not equal.
 
 #### Components of Not Equal To
 
-<table><thead><tr><th width="182"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point helps to provide the first decimal number [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node helps to provide the second decimal number [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate a run trigger in the node.</td></tr><tr><td><strong>A != B</strong></td><td>This output node point provides you with the result of the relational comparison between two decimal numbers in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first decimal number (A).                                         |
+| B                   | Input node providing the second decimal number (B).                                        |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A != B              | Output node providing the result of the comparison in Boolean.                            |
 
 ## Duration Relational Operator Sub-Section
 
-### Duration| Greater than
+### Duration | Greater than
 
-There are two input nodes in this section.
-
-if A \[first duration] > B \[second duration] this node returns true.
-
-And if A \[first duration] < B \[second duration] this node returns false.
+This node compares two durations and returns true if the first duration (A) is greater than the second duration (B).
 
 #### Components of Greater than
 
-<table><thead><tr><th width="175"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first duration[A].</td></tr><tr><td><strong>B</strong> </td><td>This input node is used to provide the second duration[B].</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox is used to generate the run trigger in the node.</td></tr><tr><td><strong>A > B</strong> </td><td>This output node point provides you with the result of the relational comparison between two durations in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first duration (A).                                               |
+| B                   | Input node providing the second duration (B).                                              |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A > B               | Output node providing the result of the comparison in Boolean.                            |
 
-### Duration| Greater than or Equal To
+### Duration | Greater than or Equal To
 
-This node is used to apply greater than or equal to relational operation between two durations \[A & B].&#x20;
-
-if A \[first duration] >= B \[second duration] this node return true, else it return false.
-
-For example, if A = 20 and B  = 20 then it returns true.
+This node performs a greater than or equal to comparison between two durations (A & B).
 
 #### Components of Greater than or Equal To
 
-<table><thead><tr><th width="206"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first duration[A].</td></tr><tr><td><strong>B</strong></td><td>This input node is used to provide the second duration[B].</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate run trigger in the node.</td></tr><tr><td><strong>A >= B</strong></td><td> This output node point provides you with the result of the relational comparison between two durations in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first duration (A).                                               |
+| B                   | Input node providing the second duration (B).                                              |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A >= B              | Output node providing the result of the comparison in Boolean.                            |
 
-### Duration| Less than
+### Duration | Less than
 
-This node is used to apply Less than relational operation between two integer durations\[A & B].&#x20;
-
-if A \[first durations] < B \[second durations] this node returns true, else it returns false.
-
-Example if A = 10 and B  = 20 then it return true.
+This node compares two durations and returns true if the first duration (A) is less than the second duration (B).
 
 #### Components of Less Than
 
-<table><thead><tr><th width="192"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong> </td><td>This input node point help to provide the first duration[A].</td></tr><tr><td><strong>B</strong></td><td>this input node helps you to provide the second duration[B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td> This checkbox is used to generate run trigger in the node.</td></tr><tr><td><strong>A &#x3C; B</strong></td><td>This output node point provides you with the result of the relational comparison between two durations in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first duration (A).                                               |
+| B                   | Input node providing the second duration (B).                                              |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A < B               | Output node providing the result of the comparison in Boolean.                            |
 
 ### Duration | Less than or Equal To
 
-This node helps you to apply Less than equal to relational operation between two durations-\[A & B].&#x20;
-
-if A \[first duration] <= B \[second duration] this node return true, else it return false.
-
-Example if A = 10 and B  = 25 then it return true.
+This node performs a less than or equal to comparison between two durations (A & B).
 
 #### Components of Less than or Equal To
 
-<table><thead><tr><th width="175"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point is used to provide the first duration[A].</td></tr><tr><td><strong>B</strong></td><td>This input node helps to provide the second duration[B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate run trigger in the node.</td></tr><tr><td><strong>A &#x3C;= B</strong></td><td>This output node point provides the result of the relational comparison between two durations in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first duration (A).                                               |
+| B                   | Input node providing the second duration (B).                                              |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A <= B              | Output node providing the result of the comparison in Boolean.                            |
 
-### Duration| Is Equal To
+### Duration | Is Equal To
 
-This node is used to apply Is equal to relational operation between two integer durations \[A & B].&#x20;
+This node checks whether two durations (A & B) are equal.
 
-if A \[first duration] == B \[second duration] this node returns true, else it will return false.
+#### Components of Is Equal To
 
-Example if A = 10 and B  = 10 then it returns true.
-
-#### Components of Blup
-
-<table><thead><tr><th width="201"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td> This input node point is used to provide the first duration [A].</td></tr><tr><td><strong>B</strong> </td><td>This input node helps to provide the second duration [B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate a run trigger in the node.</td></tr><tr><td><strong>A == B</strong></td><td>This output node point provides you with the result of the relational comparison between two durations in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first duration (A).                                               |
+| B                   | Input node providing the second duration (B).                                              |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A == B              | Output node providing the result of the comparison in Boolean.                            |
 
 ### Duration | Not Equal To
 
-This node is used to apply Not equal to relational operation between two integer durations \[A & B].&#x20;
-
-if A \[first duration] != B \[second duration] this node returns true, else it will return false.
-
-For example if A = 20 and B  = 10 then it returns true. \[because numbers are not Equal ]
+This node checks whether two durations (A & B) are not equal.
 
 #### Components of Not Equal To
 
-<table><thead><tr><th width="185"></th><th></th></tr></thead><tbody><tr><td><strong>A</strong></td><td>This input node point helps to provide the first duration[A].</td></tr><tr><td><strong>B</strong> </td><td>This input node helps to provide the second duration[B] against which you want to apply relational operators.</td></tr><tr><td><strong>Use run trigger Checkbox</strong></td><td>This checkbox helps to generate a run trigger in the node.</td></tr><tr><td><strong>A != B</strong></td><td>This output node point provides you with the result of the relational comparison between two duration in Boolean.</td></tr></tbody></table>
+| Component           | Description                                                                              |
+|---------------------|------------------------------------------------------------------------------------------|
+| A                   | Input node providing the first duration (A).                                               |
+| B                   | Input node providing the second duration (B).                                              |
+| Use Run Trigger     | Checkbox to generate a run trigger in the node.                                           |
+| A != B              | Output node providing the result of the comparison in Boolean.                            |
