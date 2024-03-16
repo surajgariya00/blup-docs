@@ -2,15 +2,14 @@
 
 ## Maths Section
 
-This section consists of nodes that help you apply various types of arithmetic operations on different types of variables like integer, double, duration.
+The Maths section of this tool provides various nodes designed to perform arithmetic operations on different types of variables such as integers, doubles, and durations. Let's explore each node in detail.
 
-![](../../.gitbook/assets/maths-nodes.gif)
+![](../../.gitbook/assets/math-function.gif)
 
-Let's go over each node one by one.
 
 ## SuperMaths | Int Node
 
-![](../../.gitbook/assets/supermaths-int.png)
+![](../../.gitbook/assets/int.png)
 
 This node is used to perform arithmetic operations like addition, subtraction, multiplication etc. on integers \[which do not have a decimal point].
 
@@ -20,7 +19,7 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 
 ## SuperMaths | Double Node
 
-![](../../.gitbook/assets/superMaths-double.png)
+![](../../.gitbook/assets/double1.png)
 
 This node is used to perform arithmetic operations like addition, subtraction, multiplication etc. on double numbers \[which has decimal a point].
 
@@ -36,7 +35,7 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 
 ## SuperMaths | Duration Node
 
-![](../../.gitbook/assets/superMaths-duration.png)
+![](../../.gitbook/assets/duration1.png)
 
 This node is used to perform arithmetic operations like addition, subtraction, multiplication on Duration. For example, you want to add 6 hours 32 mins and 10 hours 25 min such types of arithmetic operations can be performed with this node.
 
@@ -49,3 +48,11 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 | **"B" node point**                 | This input point helps you to input the second duration and similar to A node point, you can provide the number either by node point or directly through the input box.                                      |
 | **Use run trigger**                | This check box helps you to add a run trigger to the node.                                                                                                                                                   |
 | **Results**                        |  This node point provides you with the result of the arithmetic operation on the two numbers.                                                                                                                |
+
+
+{% tab title="Music" %}
+{% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
+Lofi music
+{% endembed %}
+{% endtab %}
+{% endtabs %}
