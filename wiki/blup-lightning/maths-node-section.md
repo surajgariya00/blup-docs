@@ -27,37 +27,7 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 
 ### Components Of Node
 
-<table>
-  <thead>
-    <tr>
-      <th>Component</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Operation Type Dropdown</strong></td>
-      <td>This menu helps you to define the arithmetic operation which you want to perform on the integer numbers. For example, if you want to perform division then choose division from the drop-down option.</td>
-    </tr>
-    <tr>
-      <td><strong>"A" Node Point</strong></td>
-      <td>This input node point helps to input the first integer number, you can provide the number either by node point or directly through the input box.</td>
-    </tr>
-    <tr>
-      <td><strong>"B" Node Point</strong></td>
-      <td>This input point helps to input the second integer number and similar to "A" node point you can provide the number either by node point or directly through the input box.</td>
-    </tr>
-    <tr>
-      <td><strong>Use Run Trigger Checkbox</strong></td>
-      <td>This check box is used to add run trigger to the node.</td>
-    </tr>
-    <tr>
-      <td><strong>Results Output</strong></td>
-      <td>This node point provides you with the result of the arithmetic operation on the two numbers.</td>
-    </tr>
-  </tbody>
-</table>
-
+<table><thead><tr><th width="124"></th><th></th></tr></thead><tbody><tr><td><strong>Operation Type</strong></td><td>This menu allows you to specify the arithmetic operation you wish to perform on integer numbers. For instance, if you intend to perform division, select "division" from the drop-down menu.</td></tr><tr><td><strong>"A" node point</strong></td><td>Input for the first integer number.</td></tr><tr><td><strong>"B" Node Point</strong></td><td>Input for the second integer number.</td></tr><tr><td> <strong>Use Run Trigger</strong></td><td>Checkbox to add a run trigger to the node.</td></tr><tr><td> <strong>Results</strong></td><td>Output providing the result of the arithmetic operation.</td></tr></tbody></table>
 
 ## SuperMaths | Duration Node
 
@@ -67,18 +37,15 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 
 ### Components Of Node
 
-|                                    |                                                                                                                                                                                                              |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Operation type drop-down menu**  | This menu helps you to define the arithmetic operation which you want to perform on the duration For example if you want to perform division on the duration then choose division from the drop-down option. |
-| **"A" node point**                 | This input node point helps to input the first duration, you can provide the duration either by node point or directly through the input box.                                                                |
-| **"B" node point**                 | This input point helps you to input the second duration and similar to A node point, you can provide the number either by node point or directly through the input box.                                      |
-| **Use run trigger**                | This check box helps you to add a run trigger to the node.                                                                                                                                                   |
-| **Results**                        |  This node point provides you with the result of the arithmetic operation on the two numbers.                                                                                                                |
+<table><thead><tr><th width="124"></th><th></th></tr></thead><tbody><tr><td><strong>Operation Type</strong></td><td>This menu allows you to specify the arithmetic operation you wish to perform on integer numbers. For instance, if you intend to perform division, select "division" from the drop-down menu.</td></tr><tr><td><strong>"A" node point</strong></td><td>Input for the first integer number.</td></tr><tr><td><strong>"B" Node Point</strong></td><td>Input for the second integer number.</td></tr><tr><td> <strong>Use Run Trigger</strong></td><td>Checkbox to add a run trigger to the node.</td></tr><tr><td> <strong>Results</strong></td><td>Output providing the result of the arithmetic operation.</td></tr></tbody></table>
 
 
-{% tab title="Music" %}
-{% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
-Lofi music
-{% endembed %}
-{% endtab %}
-{% endtabs %}
+
+<div class="container">
+  {% tab title="Music" %}
+  {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
+  Lofi music
+  {% endembed %}
+  {% endtab %}
+  {% endtabs %}
+</div>
