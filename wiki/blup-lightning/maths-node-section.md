@@ -27,13 +27,37 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 
 ### Components Of Node
 
-|                                   |                                                                                                                                                                            |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Operation type drop-down menu** | This menu helps to define the arithmetic operation which you want to perform. For example, if you want to perform division then choose division from the drop-down option. |
-| **"A" node point**                | This input node point helps to input the first decimal number, you can provide the number either by node point or directly through the input box.                          |
-| **"B" node point**                | This input point helps to input the second decimal number and similar to "A" node point you can provide the number either by node point or directly through the input box. |
-| **Use run trigger**               | This check box helps you to add a run trigger to the node.                                                                                                                 |
-| **Results**                       |  This node point provides you with the result of the arithmetic operation on the two numbers.                                                                              |
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Operation Type Dropdown</strong></td>
+      <td>This menu helps you to define the arithmetic operation which you want to perform on the integer numbers. For example, if you want to perform division then choose division from the drop-down option.</td>
+    </tr>
+    <tr>
+      <td><strong>"A" Node Point</strong></td>
+      <td>This input node point helps to input the first integer number, you can provide the number either by node point or directly through the input box.</td>
+    </tr>
+    <tr>
+      <td><strong>"B" Node Point</strong></td>
+      <td>This input point helps to input the second integer number and similar to "A" node point you can provide the number either by node point or directly through the input box.</td>
+    </tr>
+    <tr>
+      <td><strong>Use Run Trigger Checkbox</strong></td>
+      <td>This check box is used to add run trigger to the node.</td>
+    </tr>
+    <tr>
+      <td><strong>Results Output</strong></td>
+      <td>This node point provides you with the result of the arithmetic operation on the two numbers.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## SuperMaths | Duration Node
 
