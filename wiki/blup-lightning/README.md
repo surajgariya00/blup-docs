@@ -25,56 +25,56 @@ In Blup, the Logics module allows you to create and manage logic for different w
 
 ![](<../../.gitbook/assets/blup 1.png>)
 
-#### 1.Logic Button
+### 1.Logic Button
 
 When click on Logic button it will open a Logic Console at the bottom for implementing your logics accordingly.
 
 
-#### 2.Logic Tab
+### 2.Logic Tab
 
 Each tab corresponds to an individual page and encompasses all the logic associated with that specific page. These tabs can be likened to the tabs in the Chrome browser, where each tab corresponds to a particular website.
 
-#### 3.Add Node
+### 3.Add Node
 
 Add node allow you to choose which node you want to imply on to your widget either you want apply function to your desgins or want that design to do some mathematical expressions or many more. You can also open that add node by right clicking on logic console.
 
-#### 4.Search
+### 4.Search
 
 On search you can find your widget or Designs that you have applied to your Design Screen.
 
-#### 5.Debug
+### 5.Debug
 
 On debug, it will run your design and check if everthing is working as expected or not. It shows you all the errors and print node output that you have placed in your logic.
 
-#### 6.Zoomer
+### 6.Zoomer
 
 It allow your Logic console to zoom out or zoom in for better view if your logic nodes increases or decreases.
 
-#### 7.Maximizer
+### 7.Maximizer
 
 It take the necessary spaces in blup for Logic screen so you can work on your logics clearly.
 
-#### 8.Ellipsis
+### 8.Ellipsis
 
 On clicking ellipsis you will see 4 components Refresh Logic, Help in Logic, Mini map, and Debug console.
 
-##### Refresh Logic
+#### Refresh Logic
 
 It will refresh the logics if something is not working correctly.
 
-##### Help in Logic
+#### Help in Logic
 
 It will open a small box with logics on it, for your help how to use logics and which color is situated to what thing.
 
-##### Mini map
+#### Mini map
 
 It will open a mini map of your Logic console on bottom left, from this map you can go any where in your console just by clicking at that part in map. It will help when u have so many logics and you want to go from one point to another in logic console.
 
-##### Debug console
+#### Debug console
 
 It will open a debug console next to your Logic console so you can check the errors or the process in real time.
 
-#### 9.Logic Console
+### 9.Logic Console
 
 Its a console where you create and connect all your logics. 
 
