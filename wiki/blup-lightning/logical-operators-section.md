@@ -20,11 +20,29 @@ This node facilitates the implementation of logical AND between two boolean valu
 
 ### Components of Node
 
-| Component            | Description                                                                                        |
-|----------------------|----------------------------------------------------------------------------------------------------|
-| A                    | Input node point for the first boolean value.                                                      |
-| B                    | Input node point for the second boolean value.                                                     |
-| Use Run Trigger      | Checkbox to add a run function node point to the node. Checking this box displays the function node.|
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>A</strong></td>
+      <td>Input node point for the first boolean value.</td>
+    </tr>
+    <tr>
+      <td><strong>B</strong></td>
+      <td>Input node point for the second boolean value.</td>
+    </tr>
+    <tr>
+      <td><strong>Use Run Trigger</strong></td>
+      <td>Checkbox to add a run function node point to the node. Checking this box displays the function node.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## OR Node
 
@@ -35,12 +53,32 @@ This node implements logical OR between two boolean values. It returns true if e
 
 ### Components of Node
 
-| Component            | Description                                                                                        |
-|----------------------|----------------------------------------------------------------------------------------------------|
-| A                    | Input node point for the first boolean value.                                                      |
-| B                    | Input node point for the second boolean value.                                                     |
-| Use Run Trigger      | Checkbox to add a run function node point to the node. Checking this box displays the function node.|
-| A OR B               | Output node providing the result.                                                                  |
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>A</strong></td>
+      <td>Input node point for the first boolean value.</td>
+    </tr>
+    <tr>
+      <td><strong>B</strong></td>
+      <td>Input node point for the second boolean value.</td>
+    </tr>
+    <tr>
+      <td><strong>Use Run Trigger</strong></td>
+      <td>Checkbox to add a run function node point to the node. Checking this box displays the function node.</td>
+    </tr>
+    <tr>
+      <td><strong>A OR B</strong></td>
+      <td>Output node providing the result.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## NOT Node
 
@@ -51,11 +89,29 @@ This node applies logical NOT to a provided boolean value. It negates the provid
 
 ### Components of Node
 
-| Component            | Description                                                                                        |
-|----------------------|----------------------------------------------------------------------------------------------------|
-| A                    | Input node point for the boolean value.                                                            |
-| Use Run Trigger      | Checkbox to add a run function node point to the node. Checking this box displays the function node.|
-| NOT A                | Output node providing the result.                                                                  |
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>A</strong></td>
+      <td>Input node point for the boolean value.</td>
+    </tr>
+    <tr>
+      <td><strong>Use Run Trigger</strong></td>
+      <td>Checkbox to add a run function node point to the node. Checking this box displays the function node.</td>
+    </tr>
+    <tr>
+      <td><strong>NOT A</strong></td>
+      <td>Output node providing the result.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <div class="container">
