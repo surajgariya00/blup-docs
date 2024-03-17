@@ -1,9 +1,14 @@
 # Variables Node Section
 
-\
-The nodes in this section are used to store/hold some data. you can find all the literal nodes like string \[for storing the sequence of characters], double \[for storing the decimal number], integer \[for storing the whole numbers].
+
+\
+
+The nodes in this section are used to store/hold some data. you can find all the literal nodes like string \[for storing the sequence of characters], double \[for storing the decimal number], integer \[for storing the whole numbers].
 
 ### Common Functionality In All Variables Nodes
+
+![](../../.gitbook/assets/variable.png)
+
 
 **1.** **Input node point –** This node point is used to give the data dynamically instead of hardcoding them into the node.
 

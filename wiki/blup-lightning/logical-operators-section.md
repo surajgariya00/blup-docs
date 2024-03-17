@@ -56,3 +56,13 @@ This node applies logical NOT to a provided boolean value. It negates the provid
 | A                    | Input node point for the boolean value.                                                            |
 | Use Run Trigger      | Checkbox to add a run function node point to the node. Checking this box displays the function node.|
 | NOT A                | Output node providing the result.                                                                  |
+
+
+<div class="container">
+  {% tab title="Music" %}
+  {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
+  Lofi music
+  {% endembed %}
+  {% endtab %}
+  {% endtabs %}
+</div>
