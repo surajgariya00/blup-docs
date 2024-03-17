@@ -1,7 +1,7 @@
 # Relational Operators Section
 
 
-![](../../.gitbook/assets/relational.jpg)
+![](../../.gitbook/assets/relational.png)
 
 
 ## Relational Operator Section
@@ -15,6 +15,9 @@ Relational operator nodes exist for three types of variable nodes:
 ## Integer Relational Operator Sub-Section
 
 In this sub-section, nodes facilitating relational comparison between integer numbers are presented.
+
+![](../../.gitbook/assets/relational-int.png)
+
 
 ### Int | Greater than
 
@@ -95,6 +98,9 @@ This node checks whether two integer numbers (A & B) are not equal.
 | A != B              | Output node providing the result of the comparison in Boolean.                            |
 
 ## Double Relational Operator Sub-Section
+
+![](../../.gitbook/assets/relational-double.png)
+
 
 ### Double | Greater than
 
@@ -179,6 +185,9 @@ This node checks whether two decimal numbers (A & B) are not equal.
 ### Duration | Greater than
 
 This node compares two durations and returns true if the first duration (A) is greater than the second duration (B).
+
+![](../../.gitbook/assets/relational-duration.png)
+
 
 #### Components of Greater than
 
