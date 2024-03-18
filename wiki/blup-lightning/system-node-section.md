@@ -1,4 +1,4 @@
-# System Section
+# System Node Section
 
 ![](../../.gitbook/assets/system.gif)
 
