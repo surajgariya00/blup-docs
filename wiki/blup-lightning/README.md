@@ -16,19 +16,71 @@ Lofi music
 {% endtab %}
 {% endtabs %}
 
-BlupLightning is a Blup module/feature where you can design the various logics associated with the corresponding widgets of our app through blup lightning. To open BlupLightning in BlupStudio, press the Lightning icon on the left-hand side panel named BlupLightning.
+In Blup, the Logics module allows you to create and manage logic for different widgets within your app. To access Logics in BlupStudio, click on the Logics icon located on the top-left side, next to the Design panel, labeled Logics.
 
-![](<../../.gitbook/assets/bluplightning (1).gif>)
-
-### Overview of BlupLightning \[aka, BL].
-
-BlupLightning provides several components like debug console, swap panel, etc. which can assist the user in interconnecting several nodes of a particular page together.
-
-<table><thead><tr><th width="124"></th><th></th></tr></thead><tbody><tr><td><strong>Lightning Tabs</strong></td><td>Each tab on the BL represents an individual page. Each tab contains all the logic for that particular page. These tabs are comparable to the tabs in the Chrome browser, where each tab contains a website.</td></tr><tr><td><strong>Zoom Slider</strong></td><td>It is used to zoom in and out in BlupLightning. When the number of nodes increases or decreases in a tab you can zoom in or zoom out to get a close-up or clearer view.</td></tr><tr><td><strong>Debug Console</strong></td><td>Here, you can debug your app to check whether everything is working as expected or not. It shows you all the errors and print node output that you have placed in your logic.</td></tr><tr><td> <strong>Swap Panel</strong></td><td>It is used when to switch quickly between  BlueSheets and BlupLightning panels.</td></tr><tr><td> <strong>Arsenal</strong></td><td><p>Arsenal is a BlupLightning finder, used to find nodes. In BlupLightning, right-click on the open space to open the arsenal.</p><p>Nodes in Arsenal are grouped into sections, with every section including nodes of comparable sorts. For example, in the variable nodes section, you can find literal nodes such as integer, strings, double, Boolean, and so on. Arsenal comes with tiny descriptions when you hover over any node or navigate with the arrow keys. There is also a search box at the top of the Arsenal where you may find nodes by their name. </p></td></tr></tbody></table>
+![](<../../.gitbook/assets/blup.gif>)
 
 
+## Dashboard
 
-## List Of Nodes Available in BL \[Cheat Sheet]
+![](<../../.gitbook/assets/blup 1.png>)
+
+### 1.Logic Button
+
+When click on Logic button it will open a Logic Console at the bottom for implementing your logics accordingly.
+
+
+### 2.Logic Tab
+
+Each tab corresponds to an individual page and encompasses all the logic associated with that specific page. These tabs can be likened to the tabs in the Chrome browser, where each tab corresponds to a particular website.
+
+### 3.Add Node
+
+Add node allow you to choose which node you want to imply on to your widget either you want apply function to your desgins or want that design to do some mathematical expressions or many more. You can also open that add node by right clicking on logic console.
+
+### 4.Search
+
+On search you can find your widget or Designs that you have applied to your Design Screen.
+
+### 5.Debug
+
+On debug, it will run your design and check if everthing is working as expected or not. It shows you all the errors and print node output that you have placed in your logic.
+
+### 6.Zoomer
+
+It allow your Logic console to zoom out or zoom in for better view if your logic nodes increases or decreases.
+
+### 7.Maximizer
+
+It take the necessary spaces in blup for Logic screen so you can work on your logics clearly.
+
+### 8.Ellipsis
+
+On clicking ellipsis you will see 4 components Refresh Logic, Help in Logic, Mini map, and Debug console.
+
+#### Refresh Logic
+
+It will refresh the logics if something is not working correctly.
+
+#### Help in Logic
+
+It will open a small box with logics on it, for your help how to use logics and which color is situated to what thing.
+
+#### Mini map
+
+It will open a mini map of your Logic console on bottom left, from this map you can go any where in your console just by clicking at that part in map. It will help when u have so many logics and you want to go from one point to another in logic console.
+
+#### Debug console
+
+It will open a debug console next to your Logic console so you can check the errors or the process in real time.
+
+### 9.Logic Console
+
+Its a console where you create and connect all your logics. 
+
+
+
+## List Of Nodes Available in Logics \[Cheat Sheet]
 
 ![](../../.gitbook/assets/cheat-sheet-helper-functiom.png)
 
