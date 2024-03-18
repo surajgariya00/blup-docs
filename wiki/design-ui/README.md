@@ -2,7 +2,7 @@
 description: User Interface Designer of Blup.
 ---
 
-# Blup Designer (UI) ✏️
+# Design (UI) ✏️
 
 {% tabs %}
 {% tab title="Video" %}
@@ -25,7 +25,7 @@ BlupDesigner has multiple panels, namely.
 * The[ Status Bar](status-bar.md) is present at the top.
 * [Tools Bar](tools-section.md), present on the left side.
 * The [Properties panel](properties-panel/) is present on the right side.
-* [Pages(Mobile Canvas) ](../blup-lightning/ui-nodes/pages.md)is present in the center.
+* [Pages(Mobile Canvas) ](../logics/ui-nodes/pages.md)is present in the center.
 
 In the coming sections we will take a deep dive into these sections separately
 

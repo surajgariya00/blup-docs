@@ -61,7 +61,7 @@ This button helps you to show all the page hooks (if the components of one page 
 When the navigate button is activated, all the existing page hooks will be visible to the user. To add new page hooks, select the widgets(rectangle, or any other components of the page) stretch and drag the node point to the target page.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**Note:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">To learn more about the setting up page hooks refer</mark>[ <mark style="color:blue;">Blup Lightning</mark>](../blup-lightning/)
+<mark style="color:blue;">**Note:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">To learn more about the setting up page hooks refer</mark>[ <mark style="color:blue;">Blup Lightning</mark>](../logics/)
 {% endhint %}
 
 
