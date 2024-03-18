@@ -6,7 +6,7 @@ description: Create logic visually.
 
 {% tabs %}
 {% tab title="Video" %}
-{% embed url="https://www.youtube.com/watch?v=HovF-MHPVU8&list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&index=5&t=394s&ab_channel=Blup" %}
+{% embed url="https://youtu.be/CzMR5dQC5HA?feature=shared" %}
 {% endtab %}
 
 {% tab title="Music" %}
