@@ -97,26 +97,45 @@ On enabling the **Filter Button**, a filter option will appear on the right side
 
 **SQL Editor**
 
-The Editor is one of the most important part of the SQL section. Here you can wirte your sql queries and test them. The query which you have clicked from the SQL query table is shown here. The editor has three main parts, let's discuss each one of them.
+The **SQL Editor** is one of the most important parts of the SQL section. Here you can write your SQL queries and test them. The query that you have clicked from the SQL query table is shown here.
 
-_**Top Bar**_
+<figure><img src="../../.gitbook/assets/sql_editor.png" alt="sql-editor"><figcaption><p>SQL Editor</p></figcaption></figure>
 
-The top bar consist of three things :
+The SQL Editor has mainly 4 parts:
 
-1\) Name of the query which is opened.
+### **1.**  SQL Editor **Top Bar**
 
-2\) Run SQL Button - This is used to run the sql query, along with this you can also configure a test event by clicking the dropdown arrow from the run sql button.
+The top bar consists of three things :
 
-3\) Save SQL Button - This is used to save an edited sql query, you need to run the query or press this button in order to save the query you have written.
+1\) **SQL Query Name** - Name of the query that is opened.
 
-_**Editor**_
+2\) **Run SQL Button** - This is used to run the SQL query, along with this you can also configure a test event by clicking the dropdown arrow from the Run SQL button.
 
-Here you can write you sql queries, this works as a traditional code editor where you can copy, cut and paste your code along with SQL syntax highlighting
+3\) **Save SQL Button** - This is used to save an edited SQL query, you need to run the query or press this button in order to save the query you have written.
 
-_**QT AI Prompt Bar**_
+<figure><img src="../../.gitbook/assets/sql_top_bar.png" alt="sql-editor-top-bar"><figcaption><p>SQL Editor Top Bar</p></figcaption></figure>
 
-The SQL section has an AI powered editor called QT AI, where you can write a promt and the respective SQL query will be generated for you. For example you can give a prompt "Give me all the phone numbers from user table", it AI automatically recognizes the context and gives you a SELECT query.
+### _**2.  Editor**_
 
-_**Output Section**_
+Here you can write your SQL queries, this works as a traditional code editor where you can copy, cut, and paste your code along with SQL syntax highlighting
 
-This is where you get the execution results of your sql query, it shows you the error encountered if any or the success result obtained from running the query.
+<figure><img src="../../.gitbook/assets/sql_editor.gif" alt="sql-editor"><figcaption><p>sql-editor</p></figcaption></figure>
+
+### _**3.  QT AI Prompt Bar**_
+
+The SQL section has an AI-powered editor called QT AI, where you can write a prompt and the respective SQL query will be generated for you. For example, you can give a prompt "Give me all the phone numbers from the user table", it AI automatically recognizes the context and gives you a SELECT query.
+
+<figure><img src="../../.gitbook/assets/qt-ai-prompt.png" alt="qt-ai-prompt"><figcaption><p>qt-ai-prompt</p></figcaption></figure>
+
+### _**4.  Output Section**_
+
+This is where you get the execution results of your sql query, it shows you the error encountered if any, or the success result obtained from running the query.
+
+<figure><img src="../../.gitbook/assets/sql-result.png" alt="sql-output"><figcaption><p>sql-output</p></figcaption></figure>
+
+## Music to go with.
+
+{% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
+Lofi music
+{% endembed %}
+
