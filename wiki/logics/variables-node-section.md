@@ -1,8 +1,6 @@
 # Variables Node Section
 
 
-\
-
 The nodes in this section are used to store/hold some data. you can find all the literal nodes like string \[for storing the sequence of characters], double \[for storing the decimal number], integer \[for storing the whole numbers].
 
 ![](../../.gitbook/assets/variable.png)
