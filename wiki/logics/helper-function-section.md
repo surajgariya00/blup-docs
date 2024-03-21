@@ -439,7 +439,7 @@ For example – list = \[1,2,3], values to be added = 4, 5, 6, then the node ret
 
 ### List | Add List
 
-![](../../.gitbook/assets/list-hf-addList.png)
+![](../../.gitbook/assets/list-addlist.png)
 
 This node combines two lists into a single list. The length of the resultant list is the sum of the length of the first and second lists.
 
@@ -447,7 +447,7 @@ For example, Input list1 = \[1,2,3] and Input list2 = \[4,5,6] and the Output li
 
 ### List | Insert At
 
-![](../../.gitbook/assets/list-hf-insertAt.png)
+![](../../.gitbook/assets/list-insertat.png)
 
 This node helps you to insert at a particular position or index in the list, inserting an item into the list can cause the increase in the length of the list by one and shifts all objects at or after the index towards the end of the list.
 
@@ -465,7 +465,7 @@ For example, Input list = \[1,2,3,4,5,6] , start index: 0, end index:  2 and the
 
 ### List | Clear
 
-![](../../.gitbook/assets/list-hf-clear.png)
+![](../../.gitbook/assets/list-clear.png)
 
 This node helps you to Removes all objects from this list; the length of the list becomes zero.
 
@@ -475,7 +475,7 @@ For example Input list: \[1,2,3,4,5], Output list: \[].
 
 ### List | Length
 
-![](../../.gitbook/assets/list-hf-length.png)
+![](../../.gitbook/assets/list-length.png)
 
 This node calculates the length of the list, indicating how many elements are present.
 
@@ -503,7 +503,7 @@ For example, Input list: \[1,2,3,4], element: 3, then node Output index: 2.&#x20
 
 ### List | Element At
 
-![](../../.gitbook/assets/list-hf-elementAt.png)
+![](../../.gitbook/assets/list-elementat.png)
 
 This node helps you to get the element at a particular index. This node returns the value of the item or element present at the given index.
 
@@ -525,7 +525,7 @@ For example, map {“athul”: “chaudhary”}, key = “atul”, so node remov
 
 ### Map | Clear
 
-![](<../../.gitbook/assets/map-hf-clear (1).png>)
+![](<../../.gitbook/assets/map-clear.png>)
 
 This node removes all the values that are present in the provided map, and then it returns the empty map.
 
@@ -549,7 +549,7 @@ For example, map = {“CSE”: “atul”}, key = “CSE”, then the node retur
 
 ### Map | Contains Value
 
-![](../../.gitbook/assets/map-hf-containsValue.png)
+![](../../.gitbook/assets/map-containsvalue.png)
 
 This node checks if the provided value is present in the map.
 
@@ -562,7 +562,7 @@ Output: false
 
 ### Map | Is Empty
 
-![](../../.gitbook/assets/map-hf-isEmpty.png)
+![](../../.gitbook/assets/map-isempty.png)
 
 This node checks if the provided map is empty or not if empty then it return true, if not then it returns false.
 
@@ -573,7 +573,7 @@ Output: false \[because map consists of some value ].
 
 ### Map | Length
 
-![](../../.gitbook/assets/map-hf-length.png)
+![](../../.gitbook/assets/map-length.png)
 
 This node calculates the number of key-value pairs in the map.
 
@@ -582,7 +582,7 @@ Output length: 2 \[because two key-values pairs are present].
 
 ### Map | Add Key Value
 
-![](../../.gitbook/assets/map-hf-addKeyValue.png)
+![](../../.gitbook/assets/map-addkeyvalu.png)
 
 This node adds a new key-value pair to the map to the existing map.
 
@@ -598,7 +598,7 @@ Output map: {"atul": "chaudhary", "sahaj": "rana", "ashutosh": "agarwal"}
 
 ### Map | Get Value
 
-![](../../.gitbook/assets/map-hf-getValues.png)
+![](../../.gitbook/assets/map-getvalue.png)
 
 This node retrieves the value associated with a specified key from the map.
 
@@ -607,7 +607,7 @@ Output value: "atul"
 
 ### Map | Get All Keys
 
-![](../../.gitbook/assets/map-hf-GetAllKyes.png)
+![](../../.gitbook/assets/map-getallkey.png)
 
 This node retrieves all the keys present in the map.
 
@@ -616,7 +616,7 @@ Output keys: ["CSE", "IT"]
 
 ### Map | Get All Values
 
-![](../../.gitbook/assets/map-hf-getAllValues.png)
+![](../../.gitbook/assets/map-getallvalue.png)
 
 This node retrieves all the values present in the map.
 
@@ -740,3 +740,11 @@ This node returns true if the duration provided is negative. If the duration is 
 
 This node helps you to convert the duration into the required format for example, hours into minutes.&#x20;
 
+<div class="container">
+  {% tab title="Music" %}
+  {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
+  Lofi music
+  {% endembed %}
+  {% endtab %}
+  {% endtabs %}
+</div>
