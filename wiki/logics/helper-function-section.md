@@ -22,7 +22,7 @@ This node checks if the given integer number is even.
 
 #### Components Of Node
 
-1. **Value** – Input node to provide the integer number to be checked. You can directly input the number into the box.
+1\. **Value** – Input node to provide the integer number to be checked. You can directly input the number into the box.
 
 2\.   **Result** –  Output node that returns true if the input integer is even; otherwise, it returns false.
 
@@ -34,7 +34,7 @@ This node helps you to check the given integer number is odd or not.
 
 #### Components of Node
 
-1. **Value** – Input node to provide the integer number to be checked for odd. You can directly input the number into the box.&#x20;
+1\. **Value** – Input node to provide the integer number to be checked for odd. You can directly input the number into the box.&#x20;
 
 2\.   **Result** – Output node that returns true if the input integer is odd; otherwise, it returns false.
 
@@ -46,7 +46,7 @@ This node converts a number to its absolute form, meaning negative numbers are c
 
 #### Components of Node
 
-1. **Value** – Input node providing the integer number to be converted to its absolute form. You can also directly input the value into the box.
+1\. **Value** – Input node providing the integer number to be converted to its absolute form. You can also directly input the value into the box.
 
 2\. **Result** – Output node providing the positive number as output, regardless of whether the input number was negative or positive.
 
@@ -58,7 +58,7 @@ This node checks whether the provided number is negative or not.
 
 #### Components Of Node
 
-1. **Value** – Input node providing the integer number to be checked. You can also directly input the number into the box.
+1\. **Value** – Input node providing the integer number to be checked. You can also directly input the number into the box.
 
 2\.   **Result** – Output node returning true if the provided number is negative; otherwise, it returns false.
 
@@ -74,7 +74,7 @@ This node returns the largest integer that is smaller than or equal to the input
 
 #### Components of Node
 
-1. **Value** – Input node providing the double number to apply the floor operation on. You can also directly input the number into the box.&#x20;
+1\. **Value** – Input node providing the double number to apply the floor operation on. You can also directly input the number into the box.&#x20;
 
 2\. **Result** – Output node returning the integer number after applying the floor operation on the double number.
 
@@ -86,7 +86,7 @@ This node returns the smallest integer that is greater than or equal to the inpu
 
 Components of Node
 
-1. **Value** – Input node providing the double number to apply the ceil operation on. You can also directly input the number into the box.
+1\. **Value** – Input node providing the double number to apply the ceil operation on. You can also directly input the number into the box.
 
 2\.   **Result** –  Output node returning the integer number after applying the ceil operation on the double number.
 
@@ -98,7 +98,7 @@ This node applies rounding to decimal numbers, simplifying them while keeping th
 
 #### Components of Node
 
-1. **Value** – Input node providing the double number to apply the rounding operation on. You can also directly input the number into the box.
+1\. **Value** – Input node providing the double number to apply the rounding operation on. You can also directly input the number into the box.
 
 2\. **Result** – Output node returning the double number after applying the rounding operation.
 
@@ -112,7 +112,7 @@ For example, if the input number is -12.5123, the output is 12.5123.&#x20;
 
 #### Components of Node
 
-1. **Value** –   Input node providing the double number to convert to its absolute form (positive). You can also directly input the number into the box.
+1\. **Value** –   Input node providing the double number to convert to its absolute form (positive). You can also directly input the number into the box.
 
 2\. **Result** – Output node returning the positive number after applying the absolute value operation.
 
@@ -125,7 +125,7 @@ This node helps you to check whether the provided number \[decimal number] is ne
 
 #### Components of Node
 
-1. **Value** – This input node provides the double number that you want to check for negativity. You can either connect another node to provide the number or directly enter the number in the input box.
+1\. **Value** – This input node provides the double number that you want to check for negativity. You can either connect another node to provide the number or directly enter the number in the input box.
 
 2\.   **Result** – This output node gives true if the provided number is negative, otherwise it returns false.
 
@@ -137,7 +137,7 @@ This node converts a decimal number into an integer. For example, if the input n
 
 #### Components of Node
 
-1. **Value** – This input node provides the double number that you want to convert to an integer. You can either connect another node to provide the number or directly enter the number in the input box.
+1\. **Value** – This input node provides the double number that you want to convert to an integer. You can either connect another node to provide the number or directly enter the number in the input box.
 
 2\.   **Result** – This output node gives the integer number after the conversion.
 

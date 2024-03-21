@@ -1,5 +1,5 @@
 ---
-description: Bridge between the Design [blup designer] and logics [Blup Lightning].
+description: Bridge between the Design [blup designer] and logics [Blup Logics].
 ---
 
 # UI Nodes
