@@ -10,7 +10,7 @@ This section provides helper functions for variables, assisting in performing sp
 
 ## Integer Helper Function&#x20;
 
-![](../../.gitbook/assets/int-helper-function.gif)
+![](../../.gitbook/assets/helper-int.gif)
 
 This subsection includes helper function nodes related to integers.
 
@@ -64,7 +64,7 @@ This node checks whether the provided number is negative or not.
 
 ## Double Helper Function Sub-Section
 
-![](../../.gitbook/assets/double-helper-function.gif)
+![](../../.gitbook/assets/helper-double.gif)
 
 ### Double | Floor Node
 
@@ -143,7 +143,7 @@ This node converts a decimal number into an integer. For example, if the input n
 
 ## String Helper Function Sub-Section
 
-![](../../.gitbook/assets/string-help-function.gif)
+![](../../.gitbook/assets/helper-string.gif)
 
 This sub-section consists of all the helper functions related to strings.
 
@@ -359,7 +359,7 @@ For example&#x20;
 
 ## Boolean Helper Function Sub-Section
 
-![](../../.gitbook/assets/bool-help-function.gif)
+![](../../.gitbook/assets/helper-boolean.gif)
 
 This sub-section provides helper functions related to boolean values.
 
@@ -373,7 +373,7 @@ This node checks whether the provided boolean value is null or not. A variable i
 
 This sub-section provides helper functions related to lists.
 
-![](../../.gitbook/assets/list-help-function.gif)
+![](../../.gitbook/assets/helper-list.gif)
 
 ### List | First Item
 
@@ -401,7 +401,7 @@ For example, list = \[1,2,3,4,5] , node result = \[5,4,3,2,1].
 
 ### List | Remove At
 
-![](../../.gitbook/assets/list-hf-removeAt.png)
+![](../../.gitbook/assets/list-removeat.png)
 
 This node removes the element at the provided index from the list.
 
@@ -429,14 +429,6 @@ This node adds a value to the end of the list, extending the length by one.
 
 For example, list = \[1,2,3,4,5] and value = 6, so the node return = \[1,2,3,4,5,6].
 
-### List | Add Multiple Values
-
-![](../../.gitbook/assets/list-hf-addMultipleValues.png)
-
-This node adds multiple values to a list at the same time, extending the length of the list.
-
-For example – list = \[1,2,3], values to be added = 4, 5, 6, then the node retrun = \[1,2,3,4,5,6].
-
 ### List | Add List
 
 ![](../../.gitbook/assets/list-addlist.png)
@@ -455,7 +447,7 @@ For example, Input list: [1, 2, 3, 4], index: 2, element: 10 Output list: [1, 2,
 
 ### List | Remove Range
 
-![](../../.gitbook/assets/list-hf-removeRange.png)
+![](../../.gitbook/assets/list-removerange.png)
 
 This node helps you to remove multiple sets of consecutive elements from the list at once.
 
@@ -511,7 +503,7 @@ For example, list = \[1,2,3,4,5,6] , index =2, then the node return 3, as indexi
 
 ## Map Helper Function Sub-Section
 
-![](../../.gitbook/assets/map-help-function.gif)
+![](../../.gitbook/assets/helper-map.gif)
 
 This section consists of all the helper function nodes of map.
 
@@ -685,7 +677,7 @@ Online evaluator, please visit: [https://jsonpath.com/](https://jsonpath.com/)
 
 ## DateTime Helper Function Sub-Section
 
-![](../../.gitbook/assets/datetime-help-function.gif)
+![](../../.gitbook/assets/helper-datetime.gif)
 
 This section helps you to get helper nodes related to date and time.
 
@@ -702,7 +694,7 @@ For instance, if you want to display only the hours and minutes from a DateTime,
 
 ## Duration Helper Function Sub-Section
 
-![](../../.gitbook/assets/duration-help-function.gif)
+![](../../.gitbook/assets/helper-duration.gif)
 
 ### Duration | Abs
 
