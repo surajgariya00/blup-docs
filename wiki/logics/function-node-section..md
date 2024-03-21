@@ -101,7 +101,7 @@ This sub-section provides nodes for storing data (key-value pairs) in system mem
 
 ### SPF| Store Data node
 
-![](../../.gitbook/assets/spf-store-data1.png)
+![](../../.gitbook/assets/spf-store-data-.png)
 
 This node allows you to store key-value pairs in system memory, ensuring preservation even if the user closes or removes the app from the background.
 
@@ -184,6 +184,37 @@ These components facilitate the retrieval of stored data, allowing you to access
 
 ![](../../.gitbook/assets/social-login.png)
 
+IN this node you get a mulitple login option from which you can choose which login funcitionality you want to add to your node either you want to login with google, facebook  or twitter. and also you can save that user details by marking on Auto Save User.
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Dropdown Menu</strong></td>
+      <td>Allow you to select the social media that you want to apply on your node and it will add that social media functionality for the login on your application</td>
+    </tr>
+    <tr>
+      <td><strong>Auto Save User</strong></td>
+      <td>Saves the user details for future login directly.</td>
+    </tr>
+    <tr>
+      <td><strong>On Success</strong></td>
+      <td>Allow user to move on to next node when success.</td>
+    </tr>
+     <tr>
+      <td><strong>On Failure</strong></td>
+      <td>Dont Allow user to move on to next node when Failure.</td>
+    </tr> <tr>
+      <td><strong>Use run trigger Checkbox</strong></td>
+      <td>Allows adding a run trigger to the node.</td>
+    </tr>
+  </tbody>
+</table>
 ### Social Logout 
 
 ![](../../.gitbook/assets/social-logout.png)

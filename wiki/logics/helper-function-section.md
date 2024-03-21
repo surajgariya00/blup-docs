@@ -6,79 +6,61 @@
 
 ## Helper Function Section
 
-This section consists of the helper function of variables which helps you to perform certain actions on the variable nodes.
+This section provides helper functions for variables, assisting in performing specific actions on variable nodes.
 
 ## Integer Helper Function&#x20;
 
 ![](../../.gitbook/assets/int-helper-function.gif)
 
-This subsection consists of all the helper function nodes related to the integer.
+This subsection includes helper function nodes related to integers.
 
 ### Integer | Is Even Node
 
-![](../../.gitbook/assets/hf-int-iseven.png)
+![](../../.gitbook/assets/integer-iseven.png)
 
-This node helps you to check the given integer number is even or not.
+This node checks if the given integer number is even.
 
 #### Components Of Node
 
-1. **Value** – This input node point provides the integer number to be checked.
+1. **Value** – Input node to provide the integer number to be checked. You can directly input the number into the box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note:</mark> <mark style="color:blue;">Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-
-
-2\.   **Result** – This output node point returns true if the input integer is even else it returns false if the number is not even.
+2\.   **Result** –  Output node that returns true if the input integer is even; otherwise, it returns false.
 
 ### Integer | Is Odd Node
 
-![](../../.gitbook/assets/hf-int-isodd.png)
+![](../../.gitbook/assets/integer-isodd.png)
 
 This node helps you to check the given integer number is odd or not.
 
 #### Components of Node
 
-1. **Value** – this input node point help to provide the integer number which you want to check for odd.&#x20;
+1. **Value** – Input node to provide the integer number to be checked for odd. You can directly input the number into the box.&#x20;
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point gives you true if the input integer is odd else it returns false if the number is not odd.
+2\.   **Result** – Output node that returns true if the input integer is odd; otherwise, it returns false.
 
 ### Integer | Abs Node
 
-![](../../.gitbook/assets/hf-int-abs.png)
+![](../../.gitbook/assets/integer-abs.png)
 
-This node helps to convert the number to its absolute form \[which means that a negative number will be converted to positive but the positive numbers will remain the same].
+This node converts a number to its absolute form, meaning negative numbers are converted to positive, while positive numbers remain the same.
 
 #### Components of Node
 
-1. **Value** – This input node point provides the integer number to be converted to absolute form \[negative number to positive].&#x20;
+1. **Value** – Input node providing the integer number to be converted to its absolute form. You can also directly input the value into the box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the value.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point gives you a positive number as an output if the number that you have is either negative or positive.
+2\. **Result** – Output node providing the positive number as output, regardless of whether the input number was negative or positive.
 
 ### Integer | IsNegative Node
 
-![](../../.gitbook/assets/hf-int-isnegative.png)
+![](../../.gitbook/assets/integer-isnegative.png)
 
 This node checks whether the provided number is negative or not.
 
 #### Components Of Node
 
-1. **Value** – This input node point provide the integer number to be checked.
+1. **Value** – Input node providing the integer number to be checked. You can also directly input the number into the box.
 
-{% hint style="info" %}
-&#x20;<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point returns true if the provided number is negative else it returns false.
+2\.   **Result** – Output node returning true if the provided number is negative; otherwise, it returns false.
 
 ## Double Helper Function Sub-Section
 
@@ -86,147 +68,126 @@ This node checks whether the provided number is negative or not.
 
 ### Double | Floor Node
 
-![](../../.gitbook/assets/hf-double-ceil.png)
+![](../../.gitbook/assets/double-floor.png)
 
-This node helps you to get the largest integer that is smaller than or equal to x (i.e. rounds down the nearest integer). For example, if the input is number = 2.31 ceiling becomes 2.
+This node returns the largest integer that is smaller than or equal to the input double number (i.e., rounds down to the nearest integer). For example, if the input number is 2.31, the result is 2.
 
 #### Components of Node
 
-1. **Value** – This input node point provides the double number on which you want to apply ceil operation.&#x20;
+1. **Value** – Input node providing the double number to apply the floor operation on. You can also directly input the number into the box.&#x20;
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point gives you an integer number after applying the ceil operation on a double number.
+2\. **Result** – Output node returning the integer number after applying the floor operation on the double number.
 
 ### Double | Ceil Node
 
-![](../../.gitbook/assets/hf-double-floor.png)
+![](../../.gitbook/assets/double-ceil.png)
 
-This node helps you to get the smallest integer that is greater than or equal to the input number (i.e. rounds up the nearest integer). For example, if the input is number = 2.31 ceiling becomes 3.
+This node returns the smallest integer that is greater than or equal to the input number (i.e., rounds up to the nearest integer). For example, if the input number is 2.31, the result is 3.
 
 Components of Node
 
-1. **Value** – This input node point provides the double number on which you wanted to apply ceil operation.
+1. **Value** – Input node providing the double number to apply the ceil operation on. You can also directly input the number into the box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point returns an integer number after applying the ceil operation on a double number.
+2\.   **Result** –  Output node returning the integer number after applying the ceil operation on the double number.
 
 ### Double | Round Node
 
-![](../../.gitbook/assets/hf-double-round.png)
+![](../../.gitbook/assets/double-round.png)
 
-This node helps you to apply rounding of the decimal numbers \[Rounding means making a number simpler but keeping its value close to what it was]. For example, if the input is number = 12.3124 round becomes 12 and if number = 12.5123 output is 13.
+This node applies rounding to decimal numbers, simplifying them while keeping their value close to the original. For example, if the input number is 12.3124, the output is 12, and if the input is 12.5123, the output is 13.
 
 #### Components of Node
 
-1. **Value** – This input node point provides the double number on which you want to apply ceil operation.
+1. **Value** – Input node providing the double number to apply the rounding operation on. You can also directly input the number into the box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point returns a double number after applying the rounding operation on a double number.
+2\. **Result** – Output node returning the double number after applying the rounding operation.
 
 ### Double | Abs Node
 
-![](../../.gitbook/assets/hf-double-abs.png)
+![](../../.gitbook/assets/double-abs.png)
 
-This node helps to convert the double \[decimal point numbers] to its absolute form \[which means, a negative number is converted to positive with the help of this node].
+This node converts double (decimal point numbers) to their absolute form, ensuring that negative numbers are converted to positive.
 
-For example, if input number = -12.5123 it returns 12.5123 as result.&#x20;
+For example, if the input number is -12.5123, the output is 12.5123.&#x20;
 
 #### Components of Node
 
-1. **Value** – this input node point help to provide the double number which you wanted to convert to absolute form \[negative number to positive].
+1. **Value** –   Input node providing the double number to convert to its absolute form (positive). You can also directly input the number into the box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
+2\. **Result** – Output node returning the positive number after applying the absolute value operation.
 
-
-
-1. **Result** – This output node point gives you a positive number as an output if the number that you have is either negative or positive.
 
 ### Double | Is Negative Node
 
-![](../../.gitbook/assets/hf-double-isnegative.png)
+![](../../.gitbook/assets/double-isnavigative.png)
 
 This node helps you to check whether the provided number \[decimal number] is negative or not.
 
 #### Components of Node
 
-1. **Value** – This input node point provides the double number which you want to check for negative.
+1. **Value** – This input node provides the double number that you want to check for negativity. You can either connect another node to provide the number or directly enter the number in the input box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point gives you true if the provided number is negative else it returns false.
+2\.   **Result** – This output node gives true if the provided number is negative, otherwise it returns false.
 
 ### Double|To Int Node
 
-![](../../.gitbook/assets/hf-double-toint.png)
+![](../../.gitbook/assets/double-toint.png)
 
-This node helps you to convert a decimal number into an integer number. For example, if the input number is 1.253 this node returns 1 as result.
+This node converts a decimal number into an integer. For example, if the input number is '1.253', this node returns 1 as the result.
 
 #### Components of Node
 
-1. **Value** – This input node point provides the double number which you want to convert to an integer.
+1. **Value** – This input node provides the double number that you want to convert to an integer. You can either connect another node to provide the number or directly enter the number in the input box.
 
-{% hint style="info" %}
-<mark style="color:blue;">Note: Input box can also be used to directly provide the number.</mark>
-{% endhint %}
-
-2\.   **Result** – This output node point gives an integer number after the conversion.
+2\.   **Result** – This output node gives the integer number after the conversion.
 
 ## String Helper Function Sub-Section
 
 ![](../../.gitbook/assets/string-help-function.gif)
 
-This sub-section consists of all the helper functions related to the String.
+This sub-section consists of all the helper functions related to strings.
 
 ### String | Split
 
-![](../../.gitbook/assets/string-hf-split.png)
+![](../../.gitbook/assets/string-split.png)
 
-This node Splits the string at matches of pattern and returns a list of substrings. Finds all the matches of pattern in this string, and returns the list of the substrings between the matches.&#x20;
+This node splits the string at matches of a pattern and returns a list of substrings. It finds all the matches of the pattern in the string and returns the list of substrings between the matches.&#x20;
 
 For example If the value in string node is = "Hello world!" and Pattern value = “ ” Then it returns the list consisting of \['Hello', 'world!'];
 
 ### String | ToLowerCase
 
-This node converts all characters in the string to lower case.&#x20;
+![](../../.gitbook/assets/string-tolowerxase.png)
+
+This node converts all characters in the string to lowercase.&#x20;
 
 ### String | ToUpperCase
 
-This node converts all characters in this string to the upper case.
+![](../../.gitbook/assets/string-touppercase.png)
+
+This node converts all characters in the string to uppercase.
 
 ### String | Trim
 
-![](../../.gitbook/assets/string-hf-trim.png)
+![](../../.gitbook/assets/string-trim.png)
 
-This node returns the string without any leading and trailing whitespace. If the string contains leading or trailing whitespace, a new string with no leading and no trailing whitespace is returned:
+This node returns the string without any leading and trailing whitespace. It removes leading and trailing whitespace from the string.
 
 For example, if the string provided is “ Dart is fun ” this node return “Dart is fun”.
 
 ### String | Replace All
 
-![](../../.gitbook/assets/string-hf-replaceAll.png)
+![](../../.gitbook/assets/string-replaceallstrings.png)
 
-This node Replaces all substrings that match from with replace.
+This node replaces all substrings that match a specified pattern with a replacement string.
 
 For example, if the string provided is “resume” and the pattern is “e” and replaces it with is “E” then it returns “rEsumE” as result.
 
 ### String | SubString
 
-![](../../.gitbook/assets/string-hf-subString.png)
+![](../../.gitbook/assets/string-substring.png)
 
-This node helps you to get a portion of the provided string.
+This node helps you get a portion of the provided string by specifying start and end indices.
 
 Note Indexing in a string starts from 0 instead of 1.
 
@@ -234,9 +195,9 @@ For example, strings “hello World” and you wanted to get only “hello” fr
 
 ### String | Replace Range
 
-![](../../.gitbook/assets/string-hf-replaceRange.png)
+![](../../.gitbook/assets/string-replacerange.png)
 
-This node helps you to replace a portion of the string with a new provided string.
+This node replaces a portion of the string with a new provided string, specified by start and end indices.
 
 {% hint style="info" %}
 <mark style="color:blue;">Note: Indexing in a string starts from 0 instead of 1.</mark>
@@ -246,9 +207,9 @@ For example, you have a string Hello World” and you wanted to replace it with 
 
 ### String | Concat
 
-![](../../.gitbook/assets/string-hf-concat.png)
+![](../../.gitbook/assets/string-concat.png)
 
-This node helps you to combine two Strings.
+This node combines two strings into a single string.
 
 For example, string1 is ”Hello” and String2 is “World”, then it returns “HelloWorld”,
 
@@ -256,23 +217,23 @@ To give space between both of the pass string 2 as ” World” \[with space] in
 
 ### String | Contains
 
-![](../../.gitbook/assets/string-hf-contains.png)
+![](../../.gitbook/assets/string-contains.png)
 
-This is used to determine whether the given string contains a given word or not, if the words exist in the string it returns true otherwise it will return false.
+This node checks whether a given word or substring is present in the string and returns 'true' if it exists, otherwise 'false'.
 
 ### String | Equal
 
-![](../../.gitbook/assets/string-hf-equal.png)
+![](../../.gitbook/assets/string-equals.png)
 
-This node checks whether the two strings are equal or not, if they are equal, it returns true otherwise it returns false.
+This node checks whether two strings are equal or not and returns 'true' if they are equal, otherwise 'false'.
 
 For example, string1 = "hello" and string2 = "hello" ,it return true.
 
 ### String | IsEmpty
 
-![](../../.gitbook/assets/string-hf-isEmpty.png)
+![](../../.gitbook/assets/string-isempty.png)
 
-This node checks whether the provided string is empty or not, if the string is empty this node returns true otherwise it returns false.
+This node checks whether the provided string is empty (including blank spaces) and returns 'true' if it is empty, otherwise 'false'.
 
 For example, if provided string ="", this node will return true.
 
@@ -282,25 +243,23 @@ For example, if provided string ="", this node will return true.
 
 ### String | ToString
 
-![](../../.gitbook/assets/string-hf-toString.png)
+![](../../.gitbook/assets/string-tostring.png)
 
-This node converts other variables and collections like list or map into a string.
+This node converts other variables and collections like lists or maps into a string.
 
 ### String | Length
 
-![](../../.gitbook/assets/string-hf-length.png)
+![](../../.gitbook/assets/string-length.png)
 
-This node gives you the length of the provided string.
+This node returns the length of the provided string, indicating how many characters it contains.
 
 For example, the string is “Hello” – length is 5.
 
 ### String | Index Of
 
-![](../../.gitbook/assets/string-hf-indexOF.png)
+![](../../.gitbook/assets/string-indexof.png)
 
-
-
-This node helps you to find out the index of any character present in the provided string. if the character is not present in the String then this node return -1, but if the character is already present in the string it returns the index of the first occurrence of that character.
+This node helps you find out the index of a character or substring present in the provided string. It returns the index of the first occurrence of that character or substring.
 
 {% hint style="info" %}
 <mark style="color:blue;">Note - index starts from 0 in string.</mark>
@@ -310,9 +269,9 @@ For example, String = “resume” and character = “e”, node will return 1 \
 
 ### String | Last Index Of
 
-![](../../.gitbook/assets/string-hf-lastIndexOf.png)
+![](../../.gitbook/assets/string-lastindexof.png)
 
-This node helps to find out the index of the last character present in the provided string. If a string consists of multiple same characters this node returns the index of the last character.
+This node helps you find out the index of the last character or substring present in the provided string. If the string consists of multiple occurrences of the same character or substring, it returns the index of the last occurrence.
 
 If no matching character is present in the provided string the node return -1.
 
@@ -322,7 +281,7 @@ For example, string = “resume” pattern is “e” Result = 5 \[index of last
 
 ### String | Json to String
 
-![](../../.gitbook/assets/string-hf-jsonToString.png)
+![](../../.gitbook/assets/string-jsontostring.png)
 
 This node converts the JSON \[Javascript Object Notion] into the string.
 
@@ -330,23 +289,23 @@ This node is mostly used when you are dealing with JSON responses from any web s
 
 ### String | String to JSON
 
-![](../../.gitbook/assets/string-hf-stringToJson.png)
+![](../../.gitbook/assets/string-stringtojson.png)
 
 This node helps to convert the string into JSON \[Javascript object notion], similar to the above node, this node is also used when you are dealing with responses from web servers, so in such scenarios, you need to convert the JSON into the string.
 
 ### String | Parse String To
 
-![](../../.gitbook/assets/string-hf-parseStringTo.png)
+![](../../.gitbook/assets/string-parsestringto.png)
 
-This node helps to convert some variables like integer, double, Boolean back to String.
+This node converts variables like integers, doubles, or Booleans values back to strings.
 
 For example, integer = 10 is convert into string = “10”, or Boolean = true is converted into “true”.
 
 ### String | Compare To
 
-![](../../.gitbook/assets/string-hf-compareTo.png)
+![](../../.gitbook/assets/string-compareto.png)
 
-This node Returns an integer representing the relationship between two strings.
+This node returns an integer representing the relationship between two strings:
 
 0 − if the strings are equal.&#x20;
 
@@ -356,17 +315,17 @@ This node Returns an integer representing the relationship between two strings.
 
 ### String | Ends With
 
-![](../../.gitbook/assets/string-hf-endsWith.png)
+![](../../.gitbook/assets/string-endwith.png)
 
-This node return true of the provided string ends with a particular string otherwise it returns false.
+This node returns 'true' if the provided string ends with a particular substring, otherwise 'false'.
 
 for example 1. string = “hello” pattern = “llo” , result = true; 2. string “hello” pattern =”e” , result = false.
 
 ### String | Starts With
 
-![](<../../.gitbook/assets/string-hs-startsWith (1).png>)
+![](<../../.gitbook/assets/string-startwith.png>)
 
-This node returns true of the provided string starts with a particular string otherwise it returns false.
+This node returns 'true' if the provided string starts with a particular substring, otherwise 'false'.
 
 for example&#x20;
 
@@ -376,47 +335,49 @@ for example&#x20;
 
 ### String | Trim Left
 
-![](../../.gitbook/assets/string-hf-trimleft.png)
+![](../../.gitbook/assets/string-trimleft.png)
 
-This node returns the string without any leading white space.&#x20;
+This node returns the string without any leading whitespace on the left.&#x20;
 
 For example&#x20;
 
-1\. string =” Hello” result = “Hello”.
+1\. Input =” Hello” Output = “Hello”.
 
-2\. string =” Resume ”, result = “Resume ”.
+2\. Input =” Resume ”, Output = “Resume ”.
 
 ### String | Trim Right
 
-![](../../.gitbook/assets/string-hf-trimRight.png)
+![](../../.gitbook/assets/string-trimright.png)
 
-This node returns the string without any leading white space.&#x20;
+This node returns the string without any trailing whitespace on the right.&#x20;
 
 For example&#x20;
 
-1\. string =” Hello” result = “Hello”.
+1\. Input =”Hello ” Output = “Hello”.
 
-2\. string =” Resume ”, result = “Resume ”.
+2\. Input =” Resume ”, Output = “ Resume”.
 
 ## Boolean Helper Function Sub-Section
 
 ![](../../.gitbook/assets/bool-help-function.gif)
 
-This sub-section provides you the helper function related to boolean.
+This sub-section provides helper functions related to boolean values.
 
 ### Boolean | Is Null
 
-![](../../.gitbook/assets/boolean-hf-isNUll.png)
+![](../../.gitbook/assets/boolean-isnull.png)
 
-This node helps you to check whether the provided boolean is null or not. \[a variable is said to be null if there is no value present in it].
+This node checks whether the provided boolean value is null or not. A variable is considered null if there is no value present in it.
 
 ## List Helper Function Sub-Section
+
+This sub-section provides helper functions related to lists.
 
 ![](../../.gitbook/assets/list-help-function.gif)
 
 ### List | First Item
 
-![](../../.gitbook/assets/list-hf-firstTime.png)
+![](../../.gitbook/assets/list-firstitem.png)
 
 This node returns the first element of the provided list \[the first element is the element which is stored at 0 index in list].
 
@@ -424,7 +385,7 @@ For example – list = \[1,2,3,4,5] then this node return result = 1.
 
 ### List | Last Item
 
-![](../../.gitbook/assets/list-hf-lastItem.png)
+![](../../.gitbook/assets/list-lastitem.png)
 
 This node returns the last element of the provided list.
 
@@ -432,9 +393,9 @@ For example, list = \[1,2,3,4,5] then this node return result = 5.
 
 ### List | Reverse
 
-![](../../.gitbook/assets/list-hf-reverse.png)
+![](../../.gitbook/assets/list-reverse.png)
 
-This node as the name suggest reverses the provided list.
+This node reverses the provided list.
 
 For example, list = \[1,2,3,4,5] , node result = \[5,4,3,2,1].
 
@@ -442,7 +403,7 @@ For example, list = \[1,2,3,4,5] , node result = \[5,4,3,2,1].
 
 ![](../../.gitbook/assets/list-hf-removeAt.png)
 
-This node removes the element present at the provided index, thereby reducing the length of the list by one and moves all succeeding objects down by one position.
+This node removes the element at the provided index from the list.
 
 The provided index should be between 0 <= index < list Length.
 
@@ -454,17 +415,17 @@ For example, list = \[1,2,3,4,5], index = 1 result list = \[1,3,4,5];
 
 ### List | Remove Value
 
-![](../../.gitbook/assets/list-hf-removevalue.png)
+![](../../.gitbook/assets/list-removevalue.png)
 
-This node helps you to remove the first occurrence of the given value from this list.
+This node removes the first occurrence of the given value from the list.
 
 For example, list = \[1,2,3,4,5,1], and value = 1, so this node will return: \[2,3,4,5,1].
 
 ### List | Add Value
 
-![](../../.gitbook/assets/list-hf-addvalue.png)
+![](../../.gitbook/assets/list-addvalue.png)
 
-This node helps you to Adds value to the end of this list, extending the length by one.
+This node adds a value to the end of the list, extending the length by one.
 
 For example, list = \[1,2,3,4,5] and value = 6, so the node return = \[1,2,3,4,5,6].
 
@@ -472,7 +433,7 @@ For example, list = \[1,2,3,4,5] and value = 6, so the node return = \[1,2,3,4,5
 
 ![](../../.gitbook/assets/list-hf-addMultipleValues.png)
 
-This node helps you to add multiple values to a list at the same time. This operation extends the length of the list by the number of values to add to the list.
+This node adds multiple values to a list at the same time, extending the length of the list.
 
 For example – list = \[1,2,3], values to be added = 4, 5, 6, then the node retrun = \[1,2,3,4,5,6].
 
@@ -480,9 +441,9 @@ For example – list = \[1,2,3], values to be added = 4, 5, 6, then the node ret
 
 ![](../../.gitbook/assets/list-hf-addList.png)
 
-This node helps you to combine two lists as a single list. The length of the resultant list is the sum of the length of the first and second lists.
+This node combines two lists into a single list. The length of the resultant list is the sum of the length of the first and second lists.
 
-For example, list1 = \[1,2,3] and list2 = \[4,5,6] and the result = \[1,2,3,4,5,6].
+For example, Input list1 = \[1,2,3] and Input list2 = \[4,5,6] and the Output list: \[1,2,3,4,5,6].
 
 ### List | Insert At
 
@@ -490,7 +451,7 @@ For example, list1 = \[1,2,3] and list2 = \[4,5,6] and the result = \[1,2,3,4,5,
 
 This node helps you to insert at a particular position or index in the list, inserting an item into the list can cause the increase in the length of the list by one and shifts all objects at or after the index towards the end of the list.
 
-For example, list = \[1,2,3,4] and insert at index = 2, new element = 10, the the result list = \[1,2,10,3,4].
+For example, Input list: [1, 2, 3, 4], index: 2, element: 10 Output list: [1, 2, 10, 3, 4].
 
 ### List | Remove Range
 
@@ -500,7 +461,7 @@ This node helps you to remove multiple sets of consecutive elements from the lis
 
 Removes the elements with positions greater than or equal to start and less than the end, from the list. This reduces the list's length by the end - start.
 
-For example, list = \[1,2,3,4,5,6] , start = 0, end = 2 and the result = \[3,4,5,6] because end is not included.
+For example, Input list = \[1,2,3,4,5,6] , start index: 0, end index:  2 and the Output list: \[3,4,5,6] because end is not included.
 
 ### List | Clear
 
@@ -510,31 +471,31 @@ This node helps you to Removes all objects from this list; the length of the lis
 
 This node returns the empty list which can be used again for adding items or elements.
 
-For example list = \[1,2,3,4,5], result = \[].
+For example Input list: \[1,2,3,4,5], Output list: \[].
 
 ### List | Length
 
 ![](../../.gitbook/assets/list-hf-length.png)
 
-This node helps you to calculate the length of the list which gives you how many elements or items are available in the list.
+This node calculates the length of the list, indicating how many elements are present.
 
-For example, list = \[1,2,3,4,5], length of list = 5 total 5 elements are present.
+For example, Input list: \[1,2,3,4,5], Output length: 5 total 5 elements are present.
 
 ### List | Is Empty
 
-![](../../.gitbook/assets/list-hf-isEmpty.png)
+![](../../.gitbook/assets/list-isempty.png)
 
 This node helps you to check whether the provided list is empty or not, if the provided list is empty then the node returns True else it returns false.
 
-For example, list = \[1,2,3,4], the node return false, if list = \[], then node returns true.
+For example, Input list: \[1,2,3,4], Output: false, if Input list: \[], Output: true.
 
 ### List | Index Of
 
-![](../../.gitbook/assets/list-hf-indexOf.png)
+![](../../.gitbook/assets/list-indexof.png)
 
-This node helps you find out the index of a particular element or item present in the list. It returns the index of the first occurrence of the element.
+This node finds the index of a particular element in the list. It returns the index of the first occurrence of the element.
 
-For example, list = \[1,2,3,4], element = 3, then node result = 2.&#x20;
+For example, Input list: \[1,2,3,4], element: 3, then node Output index: 2.&#x20;
 
 {% hint style="info" %}
 <mark style="color:blue;">Note: The index in the list starts from zero.</mark>
@@ -556,9 +517,9 @@ This section consists of all the helper function nodes of map.
 
 ### Map | Remove
 
-![](<../../.gitbook/assets/map-hf-remove (1).png>)
+![](<../../.gitbook/assets/map-remove.png>)
 
-This node removes the key and its associated value, if present, from the map. If the key mentioned is not present then no value is removed from the map.
+This node removes the key and its associated value from the map, if present. If the key is not found, no changes are made to the map.
 
 For example, map {“athul”: “chaudhary”}, key = “atul”, so node removes the key-value pairs that have key matching with the provided key. In this case, the node returns an empty map because there is only one value in the map.
 
@@ -572,7 +533,7 @@ For example, map = {“atul” : “chaudhary”}, this node return the map ={} 
 
 ### Map | Add All
 
-![](../../.gitbook/assets/map-hf-addAll.png)
+![](../../.gitbook/assets/map-andall.png)
 
 This node helps you to Add all key/value pairs of others to this map. And If a key of other is already in the provided map, its value is overwritten \[make sure that both map have unique keys].
 
@@ -580,9 +541,9 @@ For example, map = {“CSE”:”atul”}, other map = {“IT”: “ashutosh”
 
 ### Map | Contains Key
 
-![](<../../.gitbook/assets/map-hf-containsKey (1).png>)
+![](<../../.gitbook/assets/map-containskey.png>)
 
-This node returns true if the provided key is present in the map, if not then it returns false.
+This node checks if the provided key is present in the map.
 
 For example, map = {“CSE”: “atul”}, key = “CSE”, then the node return true. If the key = “IT”, then the node return false.
 
@@ -590,71 +551,86 @@ For example, map = {“CSE”: “atul”}, key = “CSE”, then the node retur
 
 ![](../../.gitbook/assets/map-hf-containsValue.png)
 
-This node returns true if the map contains the provided value, if no it returns false.
+This node checks if the provided value is present in the map.
 
-For example, map = {“CSE”: “athul”}, value = “athul”, then the node return true. If the value = “ashutosh”, then the node return false.
+For example,
+Input map: {"CSE": "atul"}, value: "atul"
+Output: true
+
+Input map: {"CSE": "atul"}, value: "ashutosh"
+Output: false
 
 ### Map | Is Empty
 
 ![](../../.gitbook/assets/map-hf-isEmpty.png)
 
-This node returns true if the provided map is empty, if not then it returns false.
+This node checks if the provided map is empty or not if empty then it return true, if not then it returns false.
 
-For example, map = {}, then the node retrun true. If the map = {“CSE”: “atul”}, then it returns false \[because map consists of some value ].
+For example,Input map: {}
+Output: true
+Input map: {"CSE": "atul"}
+Output: false \[because map consists of some value ].
 
 ### Map | Length
 
 ![](../../.gitbook/assets/map-hf-length.png)
 
-This node helps you to calculate the length of the map \[length is the number of key-value pairs are present in the map].
+This node calculates the number of key-value pairs in the map.
 
-For example, map = {“CSE”: “atul”, “IT”: “ashutosh”}, length = 2 \[because two key-values pairs are present].
+For example,Input map: {"CSE": "atul", "IT": "ashutosh"}
+Output length: 2 \[because two key-values pairs are present].
 
 ### Map | Add Key Value
 
 ![](../../.gitbook/assets/map-hf-addKeyValue.png)
 
-This node helps you to add key-value pairs to the existing map and return the updated map.
+This node adds a new key-value pair to the map to the existing map.
 
-For example, map = {“CSE”: “atul”}, key = “IT”, value = “ashutosh”, then the node return new map = {“CSE”: “atul”, “IT”: “ashutosh”}.
+For example,Input map: {"CSE": "atul"}, key: "IT", value: "ashutosh"
+Output map: {"CSE": "atul", "IT": "ashutosh"}
 
 ### Map | Add Multiple Key Value
 
 This node helps you to add multiple key-value pairs in a single go, this node returns the updated mao with all the newly added key-value pairs.
 
-For example, map = {“atul”: “chaudhary”}, key1 = “sahaj” value1 = “rana”, key2 = “ashutosh” value2 = “agarwal”, the the node returns new map = {“atul” : ”chaudhary”, “sahaj”: “rana”, “ashutosh”: “agarwal”}.
+For example, Input map: {"atul": "chaudhary"}, keys: "sahaj", "ashutosh", values: "rana", "agarwal"
+Output map: {"atul": "chaudhary", "sahaj": "rana", "ashutosh": "agarwal"}
 
 ### Map | Get Value
 
 ![](../../.gitbook/assets/map-hf-getValues.png)
 
-This node returns the value associated with the key passed in the node.
+This node retrieves the value associated with a specified key from the map.
 
-For example, map = {“CSE”: “atul”}, key = “atul”, then the result = “atul” \[value associated with the key “CSE” is “atul”].
+For example, Input map: {"CSE": "atul"}, key: "CSE"
+Output value: "atul"
 
 ### Map | Get All Keys
 
 ![](../../.gitbook/assets/map-hf-GetAllKyes.png)
 
-This node gives you all the keys that are present in the map.
+This node retrieves all the keys present in the map.
 
-For example, map = {“CSE”: “atul”, “IT”: ”ashutosh”}, then node return the list = \[“CSE”, “IT”].
+For example, Input map: {"CSE": "atul", "IT": "ashutosh"}
+Output keys: ["CSE", "IT"]
 
 ### Map | Get All Values
 
 ![](../../.gitbook/assets/map-hf-getAllValues.png)
 
-This node gives you all the values that are present in the map.
+This node retrieves all the values present in the map.
 
-For example, map = {“CSE”: “atul”, “IT”: ”ashutosh”}, then node return list = \[“atul”, “ashutosh”].
+For example, Input map: {"CSE": "atul", "IT": "ashutosh"}
+Output values: ["atul", "ashutosh"]
 
 ## Json Helper Functions
 
 ### JSON | Get Value
+This node retrieves values from JSON data based on a specified filter.
 
 Parameters
 
-**Input:** Requires a JSON input. (mainly from `Response Body` field of `Simple Http`'s `On Success` function.)\
+**Input:** JSON data (e.g., from the Response Body field of a Simple Http's On Success function).\
 \
 _Var Type_: String, Map, List.\
 \
@@ -715,12 +691,14 @@ This section helps you to get helper nodes related to date and time.
 
 ### DateTime | Formatter
 
-![](../../.gitbook/assets/dateTime-hf-formatter.png)
+![](../../.gitbook/assets/date-time-formatter.png)
 
-\
-This node helps you to convert the date time into any specific format that you want.
 
-For example, if you want only time to display just the hours and minutes from DateTime choose the Hours\_minutes option from the dropdown, or if you wanted to show only the date from DateTime in the format of day/month/year choose the option year\_month\_day from the drop-down.
+\
+This node converts a DateTime into a specific format.
+
+Example
+For instance, if you want to display only the hours and minutes from a DateTime, you can choose the 'Hours_minutes' option from the dropdown. If you want to display only the date in the format of day/month/year, you can choose the 'year_month_day' option from the dropdown.
 
 ## Duration Helper Function Sub-Section
 
@@ -728,25 +706,23 @@ For example, if you want only time to display just the hours and minutes from Da
 
 ### Duration | Abs
 
-![](../../.gitbook/assets/duration-hf-abs.png)
+![](../../.gitbook/assets/duration-abs.png)
 
-This node helps you returned Duration has the same length as provided one, but is always positive.
-
-If after performing some logic duration turns out to be negative then, this node converts the negative duration to positive duration.
+This node returns a Duration that has the same length as the provided one but is always positive. If the duration is negative, this node converts it to a positive duration.
 
 ### Duration | Compare To
 
-![](../../.gitbook/assets/duration-hf-comapreTo.png)
+![](../../.gitbook/assets/duration-compareto.png)
 
-This node helps you to compare the two durations.
+This node compares two durations and returns:
 
 This node returns -&#x20;
 
-1\. zero if both the duration provided in the node are the same.&#x20;
+1\. Zero if both durations are the same.&#x20;
 
-2\. Returns a negative integer if this Duration is shorter than the other.&#x20;
+2\. A negative integer if the first duration is shorter than the second.&#x20;
 
-3\. Returns a positive integer if this Duration is greater than other.
+3\. A positive integer if the first duration is greater than the second.
 
 {% hint style="info" %}
 <mark style="color:blue;">Note - A negative Duration is always considered shorter than a positive one.</mark>
@@ -754,13 +730,13 @@ This node returns -&#x20;
 
 ### Duration | Is Negative
 
-![](../../.gitbook/assets/duration-hf-isNegative.png)
+![](../../.gitbook/assets/duration-isnegative.png)
 
 This node returns true if the duration provided is negative. If the duration is negative then this node returns true, if the duration is not negative then this node returns false.
 
 ### Duration | Conversion
 
-![](../../.gitbook/assets/duration-hf-conversion.png)
+![](../../.gitbook/assets/duration-conversion.png)
 
 This node helps you to convert the duration into the required format for example, hours into minutes.&#x20;
 
