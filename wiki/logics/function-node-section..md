@@ -137,7 +137,7 @@ This node allows you to store key-value pairs in system memory, ensuring preserv
 
 ### SPF| Get Data Node
 
-![](../../.gitbook/assets/spf-get-data.png)
+![](../../.gitbook/assets/spf-get-data-.png)
 
 This node, as the name suggests, retrieves the data (key-value pairs) stored in system memory using the SPF | Store Data node.
 

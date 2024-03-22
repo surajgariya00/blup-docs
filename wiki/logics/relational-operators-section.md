@@ -23,6 +23,8 @@ In this sub-section, nodes facilitating relational comparison between integer nu
 
 This node compares two integer numbers and returns true if the first number (A) is greater than the second number (B).
 
+![](../../.gitbook/assets/Int-greaterthan.png)
+
 #### Components of Greater than
 
 <table>
@@ -55,6 +57,8 @@ This node compares two integer numbers and returns true if the first number (A) 
 ### Int | Greater than or Equal To
 
 This node performs a greater than or equal to comparison between two integer numbers (A & B).
+
+![](../../.gitbook/assets/int-greaterthan-equalto.png)
 
 #### Components of Greater than or Equal To
 
@@ -89,6 +93,8 @@ This node performs a greater than or equal to comparison between two integer num
 
 This node compares two integer numbers and returns true if the first number (A) is less than the second number (B).
 
+![](../../.gitbook/assets/int-lessthan.png)
+
 #### Components of Less Than
 
 <table>
@@ -121,6 +127,8 @@ This node compares two integer numbers and returns true if the first number (A) 
 ### Int | Less than or Equal To
 
 This node performs a less than or equal to comparison between two integer numbers (A & B).
+
+![](../../.gitbook/assets/int-lessthan-equalto.png)
 
 #### Components of Less than or Equal To
 
@@ -156,6 +164,8 @@ This node performs a less than or equal to comparison between two integer number
 
 This node checks whether two integer numbers (A & B) are equal.
 
+![](../../.gitbook/assets/int-isequalto.png)
+
 #### Components of Is Equal To
 
 <table>
@@ -189,6 +199,8 @@ This node checks whether two integer numbers (A & B) are equal.
 ### Int | Not Equal To
 
 This node checks whether two integer numbers (A & B) are not equal.
+
+![](../../.gitbook/assets/int-notequalto.png)
 
 #### Components of Not Equal To
 
@@ -229,6 +241,8 @@ This node checks whether two integer numbers (A & B) are not equal.
 
 This node compares two decimal numbers and returns true if the first number (A) is greater than the second number (B).
 
+![](../../.gitbook/assets/double-greaterthan.png)
+
 #### Components of Greater than
 
 <table>
@@ -262,6 +276,8 @@ This node compares two decimal numbers and returns true if the first number (A) 
 ### Double | Greater than or Equal To
 
 This node performs a greater than or equal to comparison between two decimal numbers (A & B).
+
+![](../../.gitbook/assets/double-greaterthan-equalto.png)
 
 #### Components of Greater than or Equal To
 
@@ -297,6 +313,9 @@ This node performs a greater than or equal to comparison between two decimal num
 
 This node compares two decimal numbers and returns true if the first number (A) is less than the second number (B).
 
+![](../../.gitbook/assets/double-less-than.png)
+
+
 #### Components of Less Than
 
 <table>
@@ -330,6 +349,8 @@ This node compares two decimal numbers and returns true if the first number (A) 
 ### Double | Less than or Equal To
 
 This node performs a less than or equal to comparison between two decimal numbers (A & B).
+
+![](../../.gitbook/assets/double-lessthan-equalto.png)
 
 #### Components of Less than or Equal To
 
@@ -365,6 +386,8 @@ This node performs a less than or equal to comparison between two decimal number
 
 This node checks whether two decimal numbers (A & B) are equal.
 
+![](../../.gitbook/assets/double-equalto.png)
+
 #### Components of Is Equal To
 
 <table>
@@ -398,6 +421,8 @@ This node checks whether two decimal numbers (A & B) are equal.
 
 This node checks whether two decimal numbers (A & B) are not equal.
 
+![](../../.gitbook/assets/double-notequalto.png)
+
 #### Components of Not Equal To
 
 <table>
@@ -429,11 +454,14 @@ This node checks whether two decimal numbers (A & B) are not equal.
 
 ## Duration Relational Operator Sub-Section
 
+![](../../.gitbook/assets/relational-duration.png)
+
+
 ### Duration | Greater than
 
 This node compares two durations and returns true if the first duration (A) is greater than the second duration (B).
 
-![](../../.gitbook/assets/relational-duration.png)
+![](../../.gitbook/assets/duration-greater-than.png)
 
 
 #### Components of Greater than
@@ -470,6 +498,9 @@ This node compares two durations and returns true if the first duration (A) is g
 
 This node performs a greater than or equal to comparison between two durations (A & B).
 
+![](../../.gitbook/assets/duration-greater-than-equal-to.png.png)
+
+
 #### Components of Greater than or Equal To
 
 <table>
@@ -503,6 +534,8 @@ This node performs a greater than or equal to comparison between two durations (
 ### Duration | Less than
 
 This node compares two durations and returns true if the first duration (A) is less than the second duration (B).
+
+![](../../.gitbook/assets/duration-less-than.png)
 
 #### Components of Less Than
 
@@ -539,6 +572,8 @@ This node compares two durations and returns true if the first duration (A) is l
 
 This node performs a less than or equal to comparison between two durations (A & B).
 
+![](../../.gitbook/assets/duration-lessthan-equalto.png)
+
 #### Components of Less than or Equal To
 
 <table>
@@ -573,6 +608,8 @@ This node performs a less than or equal to comparison between two durations (A &
 
 This node checks whether two durations (A & B) are equal.
 
+![](../../.gitbook/assets/duration-isequal-to.png)
+
 #### Components of Is Equal To
 
 <table>
@@ -605,6 +642,8 @@ This node checks whether two durations (A & B) are equal.
 ### Duration | Not Equal To
 
 This node checks whether two durations (A & B) are not equal.
+
+![](../../.gitbook/assets/duration-not-equalto.png)
 
 #### Components of Not Equal To
 
