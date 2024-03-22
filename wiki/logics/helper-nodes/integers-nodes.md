@@ -1,12 +1,12 @@
 # Integer Helper Function
 
-![](../../.gitbook/assets/helper-int.gif)
+![](../../../.gitbook/assets/helper-int.gif)
 
 This subsection includes helper function nodes related to integers.
 
 ### Integer | Is Even Node
 
-![](../../.gitbook/assets/integer-iseven.png)
+![](../../../.gitbook/assets/integer-iseven.png)
 
 This node checks if the given integer number is even.
 
@@ -18,7 +18,7 @@ This node checks if the given integer number is even.
 
 ### Integer | Is Odd Node
 
-![](../../.gitbook/assets/integer-isodd.png)
+![](../../../.gitbook/assets/integer-isodd.png)
 
 This node helps you to check the given integer number is odd or not.
 
@@ -30,7 +30,7 @@ This node helps you to check the given integer number is odd or not.
 
 ### Integer | Abs Node
 
-![](../../.gitbook/assets/integer-abs.png)
+![](../../../.gitbook/assets/integer-abs.png)
 
 This node converts a number to its absolute form, meaning negative numbers are converted to positive, while positive numbers remain the same.
 
@@ -42,7 +42,7 @@ This node converts a number to its absolute form, meaning negative numbers are c
 
 ### Integer | IsNegative Node
 
-![](../../.gitbook/assets/integer-isnegative.png)
+![](../../../.gitbook/assets/integer-isnegative.png)
 
 This node checks whether the provided number is negative or not.
 

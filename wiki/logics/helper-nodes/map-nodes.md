@@ -1,12 +1,12 @@
 # Map Helper Function Sub-Section
 
-![](../../.gitbook/assets/helper-map.gif)
+![](../../../.gitbook/assets/helper-map.gif)
 
 This section consists of all the helper function nodes of map.
 
 ### Map | Remove
 
-![](<../../.gitbook/assets/map-remove.png>)
+![](<../../../.gitbook/assets/map-remove.png>)
 
 This node removes the key and its associated value from the map, if present. If the key is not found, no changes are made to the map.
 
@@ -14,7 +14,7 @@ For example, map {“athul”: “chaudhary”}, key = “atul”, so node remov
 
 ### Map | Clear
 
-![](<../../.gitbook/assets/map-clear.png>)
+![](<../../../.gitbook/assets/map-clear.png>)
 
 This node removes all the values that are present in the provided map, and then it returns the empty map.
 
@@ -22,7 +22,7 @@ For example, map = {“atul” : “chaudhary”}, this node return the map ={} 
 
 ### Map | Add All
 
-![](../../.gitbook/assets/map-andall.png)
+![](../../../.gitbook/assets/map-andall.png)
 
 This node helps you to Add all key/value pairs of others to this map. And If a key of other is already in the provided map, its value is overwritten \[make sure that both map have unique keys].
 
@@ -30,7 +30,7 @@ For example, map = {“CSE”:”atul”}, other map = {“IT”: “ashutosh”
 
 ### Map | Contains Key
 
-![](<../../.gitbook/assets/map-containskey.png>)
+![](<../../../.gitbook/assets/map-containskey.png>)
 
 This node checks if the provided key is present in the map.
 
@@ -38,7 +38,7 @@ For example, map = {“CSE”: “atul”}, key = “CSE”, then the node retur
 
 ### Map | Contains Value
 
-![](../../.gitbook/assets/map-containsvalue.png)
+![](../../../.gitbook/assets/map-containsvalue.png)
 
 This node checks if the provided value is present in the map.
 
@@ -51,7 +51,7 @@ Output: false
 
 ### Map | Is Empty
 
-![](../../.gitbook/assets/map-isempty.png)
+![](../../../.gitbook/assets/map-isempty.png)
 
 This node checks if the provided map is empty or not if empty then it return true, if not then it returns false.
 
@@ -62,7 +62,7 @@ Output: false \[because map consists of some value ].
 
 ### Map | Length
 
-![](../../.gitbook/assets/map-length.png)
+![](../../../.gitbook/assets/map-length.png)
 
 This node calculates the number of key-value pairs in the map.
 
@@ -71,7 +71,7 @@ Output length: 2 \[because two key-values pairs are present].
 
 ### Map | Add Key Value
 
-![](../../.gitbook/assets/map-addkeyvalu.png)
+![](../../../.gitbook/assets/map-addkeyvalu.png)
 
 This node adds a new key-value pair to the map to the existing map.
 
@@ -87,7 +87,7 @@ Output map: {"atul": "chaudhary", "sahaj": "rana", "ashutosh": "agarwal"}
 
 ### Map | Get Value
 
-![](../../.gitbook/assets/map-getvalue.png)
+![](../../../.gitbook/assets/map-getvalue.png)
 
 This node retrieves the value associated with a specified key from the map.
 
@@ -96,7 +96,7 @@ Output value: "atul"
 
 ### Map | Get All Keys
 
-![](../../.gitbook/assets/map-getallkey.png)
+![](../../../.gitbook/assets/map-getallkey.png)
 
 This node retrieves all the keys present in the map.
 
@@ -105,7 +105,7 @@ Output keys: ["CSE", "IT"]
 
 ### Map | Get All Values
 
-![](../../.gitbook/assets/map-getallvalue.png)
+![](../../../.gitbook/assets/map-getallvalue.png)
 
 This node retrieves all the values present in the map.
 

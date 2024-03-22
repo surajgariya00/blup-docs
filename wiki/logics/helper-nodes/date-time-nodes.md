@@ -1,12 +1,12 @@
 # DateTime Helper Function Sub-Section
 
-![](../../.gitbook/assets/helper-datetime.gif)
+![](../../../.gitbook/assets/helper-datetime.gif)
 
 This section helps you to get helper nodes related to date and time.
 
 ### DateTime | Formatter
 
-![](../../.gitbook/assets/date-time-formatter.png)
+![](../../../.gitbook/assets/date-time-formatter.png)
 
 
 \

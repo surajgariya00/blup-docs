@@ -1,6 +1,9 @@
 # Json Helper Functions
 
 ### JSON | Get Value
+
+![](../../../.gitbook/assets/json.png)
+
 This node retrieves values from JSON data based on a specified filter.
 
 Parameters

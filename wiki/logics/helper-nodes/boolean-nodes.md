@@ -6,7 +6,7 @@ This sub-section provides helper functions related to boolean values.
 
 ### Boolean | Is Null
 
-![](../../.gitbook/assets/boolean-isnull.png)
+![](../../../.gitbook/assets/boolean-isnull.png)
 
 This node checks whether the provided boolean value is null or not. A variable is considered null if there is no value present in it.
 

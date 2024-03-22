@@ -1,10 +1,10 @@
 # Double Helper Function Sub-Section
 
-![](../../.gitbook/assets/helper-double.gif)
+![](../../../.gitbook/assets/helper-double.gif)
 
 ### Double | Floor Node
 
-![](../../.gitbook/assets/double-floor.png)
+![](../../../.gitbook/assets/double-floor.png)
 
 This node returns the largest integer that is smaller than or equal to the input double number (i.e., rounds down to the nearest integer). For example, if the input number is 2.31, the result is 2.
 
@@ -16,7 +16,7 @@ This node returns the largest integer that is smaller than or equal to the input
 
 ### Double | Ceil Node
 
-![](../../.gitbook/assets/double-ceil.png)
+![](../../../.gitbook/assets/double-ceil.png)
 
 This node returns the smallest integer that is greater than or equal to the input number (i.e., rounds up to the nearest integer). For example, if the input number is 2.31, the result is 3.
 
@@ -28,7 +28,7 @@ Components of Node
 
 ### Double | Round Node
 
-![](../../.gitbook/assets/double-round.png)
+![](../../../.gitbook/assets/double-round.png)
 
 This node applies rounding to decimal numbers, simplifying them while keeping their value close to the original. For example, if the input number is 12.3124, the output is 12, and if the input is 12.5123, the output is 13.
 
@@ -40,7 +40,7 @@ This node applies rounding to decimal numbers, simplifying them while keeping th
 
 ### Double | Abs Node
 
-![](../../.gitbook/assets/double-abs.png)
+![](../../../.gitbook/assets/double-abs.png)
 
 This node converts double (decimal point numbers) to their absolute form, ensuring that negative numbers are converted to positive.
 
@@ -55,7 +55,7 @@ For example, if the input number is -12.5123, the output is 12.5123.&#x20;
 
 ### Double | Is Negative Node
 
-![](../../.gitbook/assets/double-isnavigative.png)
+![](../../../.gitbook/assets/double-isnavigative.png)
 
 This node helps you to check whether the provided number \[decimal number] is negative or not.
 
@@ -67,7 +67,7 @@ This node helps you to check whether the provided number \[decimal number] is ne
 
 ### Double|To Int Node
 
-![](../../.gitbook/assets/double-toint.png)
+![](../../../.gitbook/assets/double-toint.png)
 
 This node converts a decimal number into an integer. For example, if the input number is '1.253', this node returns 1 as the result.
 
