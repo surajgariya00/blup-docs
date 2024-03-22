@@ -82,6 +82,13 @@ The Get Global Variable Node retrieves global data set by making a variable glob
 
 You can consume the value on the same page as well, as soon as you create any variable node global by checking the make me global checkbox, it is reflected in the Page | Get global.
 
+### How to use Get Global Var Node:
+
+![](../../.gitbook/assets/get-global.gif)
+
+First, declare your variable in one page to make it global. Then, in any other page, use the "get global" node to access that variable. This node facilitates accessing your global variable from anywhere in your application.
+
+
 ### Components of Get Global Var Node
 
 <table><thead><tr><th width="160"></th><th></th></tr></thead><tbody><tr><td><strong>Page name</strong></td><td>Specifies the page name where global variables are defined. You can choose from a dropdown menu containing all pages in your project or use a node point to pass the value. The dropdown displays options only if global variables exist; otherwise, it remains empty.</td></tr><tr><td><strong>Name of variables</strong></td><td> Specifies the name of the global variable. Similar to the Page name field, you can select from a dropdown menu or use a node point to pass the value. The dropdown displays options only if global variables exist; otherwise, it remains empty.</td></tr><tr><td><strong>Output</strong></td><td>Provides the value of the selected global variable.</td></tr></tbody></table>
@@ -92,6 +99,12 @@ You can consume the value on the same page as well, as soon as you create any va
 
 
 Use the Set Global Variable Node in Flutter to update or set the value of global variables across different parts of your app.
+
+### How to use Set Global Var Node:
+
+![](../../.gitbook/assets/set-global.gif)
+
+This node serves a similar purpose to the "get global var" node, with the added capability of allowing you to both get and set your global variables according to your needs. While the "get global var" node only allows you to retrieve global variables, this node provides the flexibility to both retrieve and update them as required.
 
 ### Components of blup
 
