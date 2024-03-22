@@ -1,6 +1,5 @@
 # Integer Helper Function
 
-
 ![](../../.gitbook/assets/helper-int.gif)
 
 This subsection includes helper function nodes related to integers.

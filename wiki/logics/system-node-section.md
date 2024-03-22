@@ -69,6 +69,10 @@ For example:– if you have changed the value of variables which is already pres
 
 This node only consists of a run input node point which can be attached with any function node point where you want to rebuild the UI.
 
+How you can use it:
+
+
+
 ## Page | Get Global Var Node
 
 ![](../../.gitbook/assets/get-global-var.png)

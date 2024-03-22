@@ -38,7 +38,6 @@
   * [Function Node Section](wiki/logics/function-node-section..md)
   * [Maths Node Section](wiki/logics/maths-node-section.md)
   * [Flow Control Section](wiki/logics/flow-control-section.md)
-  * [Helper Function Section](wiki/logics/helper-function-section.md)
   * [Relational Operators Section](wiki/logics/relational-operators-section.md)
   * [Logical Operators Section](wiki/logics/logical-operators-section.md)
   * [System Node Section](wiki/logics/system-node-section.md)
