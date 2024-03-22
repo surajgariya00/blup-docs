@@ -498,7 +498,7 @@ This node compares two durations and returns true if the first duration (A) is g
 
 This node performs a greater than or equal to comparison between two durations (A & B).
 
-![](../../.gitbook/assets/duration-greater-than-equal-to.png.png)
+![](../../.gitbook/assets/duration-greaterthanequalto.png)
 
 
 #### Components of Greater than or Equal To

@@ -1,6 +1,6 @@
 # Boolean Helper Function Sub-Section
 
-![](.gitbook/assets/helper-boolean.gif)
+![](../../.gitbook/assets/helper-boolean.gif)
 
 This sub-section provides helper functions related to boolean values.
 
