@@ -69,6 +69,9 @@ For example:– if you have changed the value of variables which is already pres
 
 This node only consists of a run input node point which can be attached with any function node point where you want to rebuild the UI.
 
+
+
+
 ## Page | Get Global Var Node
 
 ![](../../.gitbook/assets/get-global-var.png)
@@ -77,6 +80,13 @@ This node only consists of a run input node point which can be attached with any
 The Get Global Variable Node retrieves global data set by making a variable global in Flutter. Global variables facilitate data transfer between different parts of your app, making it easier to manage state.
 
 You can consume the value on the same page as well, as soon as you create any variable node global by checking the make me global checkbox, it is reflected in the Page | Get global.
+
+### How to use Get Global Var Node:
+
+![](../../.gitbook/assets/get-global.gif)
+
+First, declare your variable in one page to make it global. Then, in any other page, use the "get global" node to access that variable. This node facilitates accessing your global variable from anywhere in your application.
+
 
 ### Components of Get Global Var Node
 
@@ -88,6 +98,12 @@ You can consume the value on the same page as well, as soon as you create any va
 
 
 Use the Set Global Variable Node in Flutter to update or set the value of global variables across different parts of your app.
+
+### How to use Set Global Var Node:
+
+![](../../.gitbook/assets/set-global.gif)
+
+This node serves a similar purpose to the "get global var" node, with the added capability of allowing you to both get and set your global variables according to your needs. While the "get global var" node only allows you to retrieve global variables, this node provides the flexibility to both retrieve and update them as required.
 
 ### Components of blup
 

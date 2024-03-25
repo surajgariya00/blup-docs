@@ -101,7 +101,7 @@ This sub-section provides nodes for storing data (key-value pairs) in system mem
 
 ### SPF| Store Data node
 
-![](../../.gitbook/assets/spf-store-data1.png)
+![](../../.gitbook/assets/spf-store-data-.png)
 
 This node allows you to store key-value pairs in system memory, ensuring preservation even if the user closes or removes the app from the background.
 
@@ -137,7 +137,7 @@ This node allows you to store key-value pairs in system memory, ensuring preserv
 
 ### SPF| Get Data Node
 
-![](../../.gitbook/assets/spf-get-data.png)
+![](../../.gitbook/assets/spf-get-data-.png)
 
 This node, as the name suggests, retrieves the data (key-value pairs) stored in system memory using the SPF | Store Data node.
 
@@ -174,6 +174,42 @@ These components facilitate the retrieval of stored data, allowing you to access
 
 ![](../../.gitbook/assets/audio-player-init.png)
 
+This node offers an audio player functionality, enabling you to add audio songs or any audio files to your device. You can then process these audio files to the screen based on your specific functionality requirements. 
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Run input node point</strong></td>
+      <td>It initiates the node's functionality.</td>
+    </tr>
+    <tr>
+      <td><strong>File path</strong></td>
+      <td>Here you provide the file path from another node like file picker or file uploder, etc.</td>
+    </tr>
+    <tr>
+      <td><strong>Properties</strong></td>
+      <td>It will show the properties of the audio.</td>
+    </tr> <tr>
+      <td><strong>On loading</strong></td>
+      <td>What it will show on loading</td>
+    </tr> <tr>
+      <td><strong>On Buffering</strong></td>
+      <td>Show the buffering.</td>
+    </tr> <tr>
+      <td><strong>On Ready</strong></td>
+      <td>When audio is ready.</td>
+    </tr> <tr>
+      <td><strong>On Completed</strong></td>
+      <td>On complition of the audio.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Audio Player | Props
 
 ![](../../.gitbook/assets/audio-player-props.png)
@@ -184,9 +220,70 @@ These components facilitate the retrieval of stored data, allowing you to access
 
 ![](../../.gitbook/assets/social-login.png)
 
+This node provides multiple login options, allowing you to choose between logging in with Google, Facebook, or Twitter. Additionally, users can opt to save their login details for future use by enabling the "Auto Save User" feature.
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Dropdown Menu</strong></td>
+      <td>This component enables users to select the social media platform they wish to use for login. Upon selection, the chosen social media functionality will be integrated into the application's login process.</td>
+    </tr>
+    <tr>
+      <td><strong>Auto Save User</strong></td>
+      <td>Enabling this option will automatically save the user's login details for future use, streamlining the login process.</td>
+    </tr>
+    <tr>
+      <td><strong>On Success</strong></td>
+      <td>This option allows users to proceed to the next node upon successful login.</td>
+    </tr>
+     <tr>
+      <td><strong>On Failure</strong></td>
+      <td> If the login attempt fails, users will not be able to progress to the next node until the issue is resolved.</td>
+    </tr> <tr>
+      <td><strong>Use run trigger Checkbox</strong></td>
+      <td>Users can utilize this checkbox to add a run trigger to the node, enhancing its functionality.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Social Logout 
 
 ![](../../.gitbook/assets/social-logout.png)
+
+This node provides the logout feature for your social media from the device.
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Run input node point</strong></td>
+      <td>It initiates the node's functionality.</td>
+    </tr>
+    <tr>
+      <td><strong>Drop down menu</strong></td>
+      <td>Select the social media that you want to logout from.</td>
+    </tr>
+    <tr>
+      <td><strong>On Success</strong></td>
+      <td>This option allows users to proceed to the next node upon successful login.</td>
+    </tr>
+     <tr>
+      <td><strong>On Failure</strong></td>
+      <td> If the login attempt fails, users will not be able to progress to the next node until the issue is resolved.</td>
+    </tr> 
+  </tbody>
+</table>
 
 ## Page Navigator
 
@@ -329,9 +426,79 @@ This node is utilized to encode a URI. By passing the URI you wish to encode, yo
 
 ![](../../.gitbook/assets/firebase.png)
 
+This Firebase node allow you to connect with firebase for login, so that you can login trough firebase.
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Run input node point</strong></td>
+      <td>It initiates the node's functionality.</td>
+    </tr>
+    <tr>
+      <td><strong>Login provider</strong></td>
+      <td>Here you need to provide the login service.</td>
+    </tr>
+    <tr>
+      <td><strong>Auth Credentials</strong></td>
+      <td>Add Credentials of the firebase trough this point.</td>
+    </tr>
+   <tr>
+      <td><strong>On Sign In Success</strong></td>
+      <td>This option allows users to proceed to the next node upon successful Sign In.</td>
+    </tr>
+     <tr>
+      <td><strong>On Sign In Failure</strong></td>
+      <td> If the Sign In attempt fails, users will not be able to progress to the next node until the issue is resolved.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## Payments
 
 ![](../../.gitbook/assets/payments.png)
+
+This node allow you to use the payment functionality through it So that you can accept the payments on your device.
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Dropdown Menu</strong></td>
+      <td>Select which payment service you want to use for your application</td>
+    </tr>
+    <tr>
+      <td><strong>Api Key </strong></td>
+      <td>Add the Api key that you get from that payment service.</td>
+    </tr>
+    <tr>
+      <td><strong>Secret Key</strong></td>
+      <td>Add Secret key so for the security.</td>
+    </tr>
+     <tr>
+      <td><strong>Payment Methods</strong></td>
+      <td> Use payment that you want to use in your application like, online paymetn, Upi or something else.</td>
+    </tr> <tr>
+      <td><strong>On Success</strong></td>
+      <td>This option allows users to proceed to the next node upon successful Payment.</td>
+    </tr> <tr>
+      <td><strong>On Failure</strong></td>
+      <td> If the Payment attempt fails, users will not be able to progress to the next node until the issue is resolved.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Share Node
@@ -339,6 +506,33 @@ This node is utilized to encode a URI. By passing the URI you wish to encode, yo
 ![](../../.gitbook/assets/share-.png)
 
 This node is used to share files with other apps.
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Run input node point</strong></td>
+      <td>It initiates the node's functionality.</td>
+    </tr>
+    <tr>
+      <td><strong>Text</strong></td>
+      <td>Put the text you want to display.</td>
+    </tr>
+    <tr>
+      <td><strong>File paths</strong></td>
+      <td>Show you the path of the file.</td>
+    </tr>
+     <tr>
+      <td><strong>Mime Types</strong></td>
+      <td>It indicates the nature and format of a document, file, or assortment of bytes.</td>
+    </tr> 
+  </tbody>
+</table>
 
 ## Comment Node
 
