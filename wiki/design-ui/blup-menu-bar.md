@@ -163,15 +163,44 @@ To enable the app to run or build successfully, it is essential to address all e
 
 ## **Run Button**
 
-This is used to build the current app in development.
+This functionality enables the user to run the app on their physical/virtual devices.
+
+To run your app on a physical device you have to enable the developer option in your phone and also enable the USB debugging mode inside the settings of the phone.
+
+If you are using or installed blup for the first time then first you have to download the required components that blup needs to run the app on your mobile phone via USB cable. To download these components hover over the run button, and a dialog box pops up having a download button, click on the download button to start downloading \[dialog box is only shown if the required components are not enabled].
+
+If you have already installed the necessary components the button shows you a couple of options.
+
+* Restart Button - This button restarts the app with all the new changes. You can use this button when you have made some changes in the logic that you have kept in the init state node.
+* Hot Reload Button –This button hot reloads your apps instantly with all the new changes. This functionality is extremely fast and takes only a fraction of a second to reflect the changes
+
+{% hint style="info" %}
+Hot reload functionality works only after the app's build is run on the phone at least once.
+{% endhint %}
+
+* Stop button - this button helps you to stop the apps running on your phone instantly.
+
+<figure><img src="../../.gitbook/assets/Run Button.gif" alt="Run Button"><figcaption><p>Run Button</p></figcaption></figure>
 
 ## **Select Device Button**
 
 Allows the user to switch between the available devices.
 
+
+
+<figure><img src="../../.gitbook/assets/Select a device.png" alt="select a device"><figcaption><p>select a device</p></figcaption></figure>
+
 ## **Publish Button**
 
 It allows the user to publish the app.
+
+Users can publish their apps in AppStore or PlayStore or generate web builds for deploying.
+
+By clicking on it, It will show a dialog showing generate build for Android/iOS/Web.
+
+We will get to the specifics of publishing the [app in publish-to-stores-ship](../publish-to-stores-ship/).
+
+<figure><img src="../../.gitbook/assets/publish.gif" alt=""><figcaption></figcaption></figure>
 
 ## **Blup Docs Button**
 
