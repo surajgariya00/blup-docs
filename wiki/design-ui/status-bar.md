@@ -78,6 +78,10 @@ When clicked on the Import from Figma button, it allows users to import their Fi
 
 <figure><img src="../../.gitbook/assets/Import Menu Button.png" alt="Import Button"><figcaption><p>Import Button</p></figcaption></figure>
 
+{% hint style="info" %}
+You can import all your designs using [Import from Figma](../../import-from-figma.md).
+{% endhint %}
+
 ### Help Button
 
 When clicked on the Help button, a menu with options for the Help Center, Keyboard Shortcuts, Video Tutorials, and Support appears.
@@ -107,17 +111,23 @@ When clicked on the Blup button, a menu with the option to Remove SDK Binaries a
 
 <figure><img src="../../.gitbook/assets/Blup Button.png" alt="Blup Button"><figcaption><p>Blup Button</p></figcaption></figure>
 
-**New Page Button**
+## **New Page Button**
 
 As the name suggests, the user can add new pages to their project using this button. By default, one page \[mobile canvas] will be present on the designer.
 
-**Insert Button**
+<figure><img src="../../.gitbook/assets/New Page Button.gif" alt="New Page Button"><figcaption><p>New Page Button</p></figcaption></figure>
 
-It opens the Insert widget which has pre-built BLUP widgets and templates ready to go that can be directly used by the user to enhance the user experience.
+## **Insert Button**
 
-**Import from Figma Button**
+It opens the Insert widget which has pre-built Blup widgets and templates ready to go that can be directly used by the user to enhance the user experience.
 
-Import your Figma files directly in BLUP. (Add the points you have described above about import from Figma).
+<figure><img src="../../.gitbook/assets/Insert Button.gif" alt="Insert Button"><figcaption><p>Insert Button</p></figcaption></figure>
+
+## **Import from Figma Button**
+
+Import your[ Figma Designs ](status-bar.md#import-from-figma-button)directly in Blup.
+
+<figure><img src="../../.gitbook/assets/Import Figma.png" alt="Import from Figma"><figcaption><p>Import From Figma</p></figcaption></figure>
 
 **Dev Menu Button**
 
@@ -159,7 +169,7 @@ This button opens the YouTube channel of BLUP where users can view all the YouTu
 
 #### Remove All SDK’s and Binaries
 
-![](../../.gitbook/assets/bd-deleteRunComponents.gif)
+![](broken-reference)
 
 This option helps you to delete all the SDKs and binaries which you had installed when the app was run on a physical device through USB cable.
 
