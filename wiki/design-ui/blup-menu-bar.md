@@ -10,14 +10,14 @@ description: Menu Bar in Blup
 
 As soon as you click or hover on the menu button, a drop-down list pops up containing the following options:
 
-1. **File Button**
-2. **Edit Button**
-3. **View Button**
-4. **Export Button**
-5. **Import Button**
-6. **Help Button**
-7. **Account Settings Button**
-8. **BLUP Button**
+1. File Button
+2. Edit Button
+3. View Button
+4. Export Button
+5. Import Button
+6. Help Button
+7. Account Settings Button
+8. Blup Button
 
 <figure><img src="../../.gitbook/assets/Menu Button.png" alt="menu button"><figcaption><p>Menu Button</p></figcaption></figure>
 
@@ -106,7 +106,11 @@ When clicked on the Account Settings button, a menu with options for Manage Acco
 
 When clicked on the Blup button, a menu with the option to Remove SDK Binaries appears.
 
-1. **Remove SDK Binaries**: It removes all the SDK binaries installed within Blup.
+1.  **Remove SDK Binaries**: It removes all the SDK binaries installed within Blup, that you had installed when the app was run on a physical device through a USB cable.
+
+    If you delete these components you will no longer be able to run apps for testing on your mobile phone via USB cable.
+
+    To delete them click on Remove All SDKs and Binaries then a dialog box pops up at the center of the screen. Click on delete and you are done.
 2. **Settings:** It opens the Settings widget where users can customize app settings, splash screen, Google Maps API key, and more.
 
 <figure><img src="../../.gitbook/assets/Blup Button.png" alt="Blup Button"><figcaption><p>Blup Button</p></figcaption></figure>
@@ -125,57 +129,61 @@ It opens the Insert widget which has pre-built Blup widgets and templates ready 
 
 ## **Import from Figma Button**
 
-Import your[ Figma Designs ](status-bar.md#import-from-figma-button)directly in Blup.
+Import your[ Figma Designs ](blup-menu-bar.md#import-from-figma-button)directly in Blup.
 
 <figure><img src="../../.gitbook/assets/Import Figma.png" alt="Import from Figma"><figcaption><p>Import From Figma</p></figcaption></figure>
 
-**Dev Menu Button**
+## **Developers Menu Button**
 
 As soon as you click on the Dev menu button, a drop-down list pops up containing the following options:
 
-### Edit Code:
+### Edit Code
 
 It allows the user to edit the code directly in the inbuilt code editor of BLUP.
 
-### Download Code:
+### Download Code
 
-This feature allows the user to download and view the internal BLUP code for better understanding.
+This feature allows the user to download this project as a Flutter project.
 
-**Analyser Button**
+{% hint style="info" %}
+It allows users to edit that code and update it as a Flutter project.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Developer Menu.png" alt="Developers Menu"><figcaption><p>Developers Menu</p></figcaption></figure>
+
+## **Analyzer Button**
 
 This allows the users to view the warnings and errors in the app.
 
-**Run Button**
+<figure><img src="../../.gitbook/assets/Analyzer Button.png" alt="analyzer button"><figcaption><p>Analyzer Button</p></figcaption></figure>
+
+{% hint style="info" %}
+To enable the app to run or build successfully, it is essential to address all errors.
+{% endhint %}
+
+## **Run Button**
 
 This is used to build the current app in development.
 
-**Select Device Button**
+## **Select Device Button**
 
 Allows the user to switch between the available devices.
 
-**Publish Button**
+## **Publish Button**
 
 It allows the user to publish the app.
 
-**BLUP Docs Button**
+## **Blup Docs Button**
 
-This button opens the link to the BLUP Documentation where users can get in-depth documentation about BLUP and learn more about BLUP.
+This button opens the link to the BLUP Documentation where users can get in-depth documentation about Blup and learn more about BLUP.
 
-**Learn Button**
+<figure><img src="../../.gitbook/assets/Blup Docs Button.png" alt="Blup Docs"><figcaption><p>Blup Docs</p></figcaption></figure>
 
-This button opens the YouTube channel of BLUP where users can view all the YouTube videos and learn more about BLUP.
+## **Learn Button**
 
+This button opens the YouTube channel of Blup where users can view all the YouTube videos and learn more about Blup.
 
-
-#### Remove All SDK’s and Binaries
-
-![](broken-reference)
-
-This option helps you to delete all the SDKs and binaries which you had installed when the app was run on a physical device through USB cable.
-
-If you delete these components you will no longer be able to run apps for testing on your mobile phone via USB cable.
-
-To delete them click on the Remove All SDK’s and Binaries then a dialog box pops up at the centre of the screen. Click on delete and you are done.
+<figure><img src="../../.gitbook/assets/Learn Button.png" alt="learn button"><figcaption><p>Learn Button</p></figcaption></figure>
 
 ## Music to go with.
 
