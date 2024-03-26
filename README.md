@@ -17,7 +17,7 @@ This section is an overview of Blup documentation .&#x20;
 Blup consists of three major sections that are as follows:
 
 1. **BlupDesigner** – This is where you create your designs or UI(user interface), with complete flexibility. It is the heart of your Blup apps.
-2. **BlupLightning** – It is a logic system where you can create your logic around the designs and interactions created in BlupDesigner and the backend. It supports a wide range of [nodes ](wiki/logics/blup-sheet-node.md)from variables like strings, integers to SDKs hosted on [`pub.dev`](https://www.pub.dev).
+2. **BlupLightning** – It is a logic system where you can create your logic around the designs and interactions created in BlupDesigner and the backend. It supports a wide range of [nodes ](broken-reference)from variables like strings, integers to SDKs hosted on [`pub.dev`](https://www.pub.dev).
 3. **BlupSheets** – It is a pre-built backend system built on top of AWS. It provides powerful SQL-type queries that are easy to understand and super fast to use. It supports real-time queries to build real-time applications like chat apps or collaboration tools.
 
 To get the most out of blup we recommend you go through the documentation in the following order:&#x20;

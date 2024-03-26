@@ -1,139 +1,161 @@
 ---
-description: Top Panel In Blup
+description: Menu Bar in Blup
 ---
 
-# Status Bar
+# Blup Menu Bar
 
-## Status Bar
+<figure><img src="../../.gitbook/assets/Blup Menu Bar.png" alt="Blup Menu Bar"><figcaption><p>Blup Menu Bar</p></figcaption></figure>
 
-![](../../.gitbook/assets/bd-statusbar.png)
+## Menu Button
 
-Some of the most important features that enable users to design interactive UI rapidly are housed in the status bar at the top of the screen. Let's look  into the different components of the Status Bar.
+As soon as you click or hover on the menu button, a drop-down list pops up containing the following options:
+
+1. **File Button**
+2. **Edit Button**
+3. **View Button**
+4. **Export Button**
+5. **Import Button**
+6. **Help Button**
+7. **Account Settings Button**
+8. **BLUP Button**
+
+<figure><img src="../../.gitbook/assets/Menu Button.png" alt="menu button"><figcaption><p>Menu Button</p></figcaption></figure>
+
+Now, when click or hover on any of the 8 buttons, a right menu containing available options appears.
 
 ### File Button
 
-![](../../.gitbook/assets/bd-filebutton.gif)
+When clicked on the File button, a menu with options for new, open, save as, and duplicate appears.
 
-As soon as you click on the file button a drop-down list pops up containing the following options:
+1. **New**: The users can create a new **Blup** project using this option. Once you click on the **New,** you will redirected to the **Create New Project** screen.
+2. **Open**: This option helps you to open an existing **Blup** project from local storage.
+3. **Save As**: This option helps you to save the current project as a Blup file and save it at your desired location.
 
-#### New
+<figure><img src="../../.gitbook/assets/File Button.png" alt="File Button"><figcaption><p>File Button</p></figcaption></figure>
 
-![](../../.gitbook/assets/bd-openNewProject.gif)
+### Edit Button
 
-The users can create a new blup project using this option. Once you click on the link you will be introduced to a pop-up window where you will be propmted to enter the project name. Click on create and you will be directed to a blank project.
+When clicked on the Edit button, a menu with options for undo, redo (Design), undo, redo (Logics), copy, paste, delete, copy page, paste page, delete page (Design), copy node, paste node, delete node (Logics), and select all appears.
 
-#### Open
+1. **Undo (Design)**: This option undoes the changes in the BLUP designer.
+2. **Redo (Design)**: This option redoes the changes in the BLUP designer.
+3. **Undo (Logics)**: This option undoes the changes in the BLUP logic panel.
+4. **Redo (Logics)**: This option redoes the changes in the BLUP logic panel.
+5. **Copy (Design)**: It is used to copy the currently selected component in the BLUP designer.
+6. **Paste (Design)**: It is used to paste the copied component in the BLUP designer at the current location.
+7. **Delete (Design)**: It is used to delete the currently selected component in the BLUP designer.
+8. **Copy Page (Design)**: It is used to copy the currently selected page in the BLUP designer.
+9. **Paste Page (Design)**: It is used to paste the copied page in the BLUP designer.
+10. **Delete Page (Design)**: It is used to delete the currently selected page in the BLUP designer.
+11. **Copy Node (Logics)**: It is used to copy the currently selected node in the BLUP logics panel.
+12. **Paste Node (Logics)**: It is used to paste the copied node in the BLUP logics panel.
+13. **Delete Node (Logics)**: It is used to delete the currently selected node in the BLUP logics panel.
+14. **Select All**: It is used to select all the components/nodes in a single click.
 
-![](../../.gitbook/assets/bd-loadExistingProject.gif)
+<figure><img src="../../.gitbook/assets/Edit Menu Button.png" alt="Edit Button"><figcaption><p>Edit Button</p></figcaption></figure>
 
-This option helps you to open an existing Blup project from local storage.
+### View Button
 
-#### Export
+When clicked on the View button, a menu with options for full screen, minimize screen, show/hide UI, zoom in/out/100% (Design), and zoom in/out/100% (Logics) appears.
 
-Blup aids the user to transfer the project to another desktop without risking the loss of project-related assets like images, fonts, JSON files, etc. By clicking on “Export” a (project).blupx file will be generated. The user can share this (project).blupx with anyone.
+1. **Full Screen**: It is used to enter Blup into full-screen mode.
+2. **Minimize Screen**: It is used to minimize the app.
+3. **Show/Hide UI**: It is used to toggle between showing or hiding the UI.
+4. **Zoom In/Out/100% (Design)**: These options are used to zoom in, zoom out, or set the zoom to 100% in the Design.
+5. **Zoom In/Out/100% (Logics)**: These options are used to zoom in, zoom out, or set the zoom to 100% in the Logics panel.
 
-{% hint style="info" %}
-<mark style="color:blue;">**Note**</mark><mark style="color:blue;">: The receiver can open the shared file via File->Open->(Project).BlupX</mark>
-{% endhint %}
+<figure><img src="../../.gitbook/assets/View Menu Button.png" alt="View Button"><figcaption><p>View Button</p></figcaption></figure>
 
-#### Import from Figma
+### Export Button
 
-Blup enables users to import designs from Figma to their specific projects if they have already created their UI in [Figma](https://www.figma.com/). Users can incorporate their creations into the Blup app with just the File ID and the Personal Access Token.
+The Export Button in Blup creates a .blupx file, preserving project assets and configurations. It facilitates easy sharing and transfer of projects while maintaining integrity.
 
-#### Help
+<figure><img src="../../.gitbook/assets/Export Menu Button.png" alt="Export Button"><figcaption><p>Export Button</p></figcaption></figure>
 
-![](../../.gitbook/assets/bd-helpCommunity.gif)
+### Import Button
 
-This option helps you to make the most of the exponentially growing Blup community. You can help find answers to any problem that you are facing, or you can share what you are building with Blup and other thoughts on something you discovered about Blup. Blup prides itself of being a community driven platform.
+When clicked on the Import from Figma button, it allows users to import their Figma files directly into Blup.
 
-### New Page
+<figure><img src="../../.gitbook/assets/Import Menu Button.png" alt="Import Button"><figcaption><p>Import Button</p></figcaption></figure>
 
-![](../../.gitbook/assets/bd-createNewPage.gif)
+### Help Button
+
+When clicked on the Help button, a menu with options for the Help Center, Keyboard Shortcuts, Video Tutorials, and Support appears.
+
+1. **Help Center**: This option helps you to make the most of the exponentially growing Blup community. You can find answers to any problem that you are facing, or you can share what you are building with Blup and other thoughts on something you discovered about Blup. Blup prides itself on being a community-driven platform.
+2. **Keyboard Shortcuts**: Opens a widget displaying keyboard shortcuts.
+3. **Video Tutorials**: Plays all available videos on the Blup YouTube channel directly in the app.
+4. **Support**: Facilitates collaboration with fellow Blup users on Discord.
+
+<figure><img src="../../.gitbook/assets/Help Button.png" alt="Help Button"><figcaption><p>Help Button</p></figcaption></figure>
+
+### Account Settings Button
+
+When clicked on the Account Settings button, a menu with options for Manage Account and Logout appears.
+
+1. **Manage Account**: It opens the Account Details widget where the user can view and update their details.
+2. **Logout**: It logs out the user from Blup.
+
+<figure><img src="../../.gitbook/assets/Account Settings.png" alt="Account Settings"><figcaption><p>Account Settings</p></figcaption></figure>
+
+### Blup Button
+
+When clicked on the Blup button, a menu with the option to Remove SDK Binaries appears.
+
+1. **Remove SDK Binaries**: It removes all the SDK binaries installed within Blup.
+2. **Settings:** It opens the Settings widget where users can customize app settings, splash screen, Google Maps API key, and more.
+
+<figure><img src="../../.gitbook/assets/Blup Button.png" alt="Blup Button"><figcaption><p>Blup Button</p></figcaption></figure>
+
+**New Page Button**
 
 As the name suggests, the user can add new pages to their project using this button. By default, one page \[mobile canvas] will be present on the designer.
 
-### Navigate
+**Insert Button**
 
-![](../../.gitbook/assets/bd-showPageHooks.gif)
+It opens the Insert widget which has pre-built BLUP widgets and templates ready to go that can be directly used by the user to enhance the user experience.
 
-This button helps you to show all the page hooks (if the components of one page enables navigation to another page the two pages are said to be hooked) that are present on the different pages in the Blup Designer \[this can be achieved with the help of a couple of nodes in Blup Lightning, but navigate button is an easier alternative].
+**Import from Figma Button**
 
-When the navigate button is activated, all the existing page hooks will be visible to the user. To add new page hooks, select the widgets(rectangle, or any other components of the page) stretch and drag the node point to the target page.&#x20;
+Import your Figma files directly in BLUP. (Add the points you have described above about import from Figma).
 
-{% hint style="info" %}
-<mark style="color:blue;">**Note:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">To learn more about the setting up page hooks refer</mark>[ <mark style="color:blue;">Blup Lightning</mark>](../logics/)
-{% endhint %}
+**Dev Menu Button**
+
+As soon as you click on the Dev menu button, a drop-down list pops up containing the following options:
+
+### Edit Code:
+
+It allows the user to edit the code directly in the inbuilt code editor of BLUP.
+
+### Download Code:
+
+This feature allows the user to download and view the internal BLUP code for better understanding.
+
+**Analyser Button**
+
+This allows the users to view the warnings and errors in the app.
+
+**Run Button**
+
+This is used to build the current app in development.
+
+**Select Device Button**
+
+Allows the user to switch between the available devices.
+
+**Publish Button**
+
+It allows the user to publish the app.
+
+**BLUP Docs Button**
+
+This button opens the link to the BLUP Documentation where users can get in-depth documentation about BLUP and learn more about BLUP.
+
+**Learn Button**
+
+This button opens the YouTube channel of BLUP where users can view all the YouTube videos and learn more about BLUP.
 
 
-
-### UnHide Widget of the Current Page
-
-![](../../.gitbook/assets/bd-unhideWidgets.gif)
-
-This is used to temporarily unhide all the widgets that were opted to be hidden by the user.
-
-{% hint style="info" %}
-<mark style="color:blue;">Note: To hide any widget see the documentation of</mark> [<mark style="color:blue;">Properties Panel.</mark>](properties-panel/)
-{% endhint %}
-
-
-
-### Show Keyboard Keys
-
-Displays the current key being tapped, comes in handy when recording the coding sessions.
-
-### Export Code – Flutter/dart
-
-![](../../.gitbook/assets/bd-exportCode.gif)
-
-Users can download the raw code of the apps they've designed in blup using this option
-
-The code generated is in the flutter format.
-
-{% hint style="info" %}
-<mark style="color:blue;">Note: Whatever you have created with the help of blup always belongs to you, Blup doesn't own the code generated using blup.</mark>&#x20;
-{% endhint %}
-
-### Analyzer
-
-Notifies the user if there are any errors in the logics.
-
-### Run On Device
-
-This functionality enables the user to run the app in their android devices.
-
-{% hint style="info" %}
-<mark style="color:blue;">**Note:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">To run your app on a physical device you have to enable the developer option in your phone and also enable the USB debugging mode inside the settings of the phone.</mark>&#x20;
-{% endhint %}
-
-![Using Run on Device Functionality for First Time](../../.gitbook/assets/bd-firstTimeRun.gif)
-
-If you are using or installed blup for the first time then first you have to download the required components that blup needs to run the app on your mobile phone via USB cable. To download these components hover over the run button, a dialog box pops up having a download button, click on the download button to start downloading \[dialog box is only shown if the required components are not enabled].
-
-If you have already installed the necessary components the button shows you a couple of options.
-
-1. Restart Button - This button restarts the app with all the new changes. You can use this button when you have done some changes in the logics that you have kept in the init state node.
-2. Hot reload Button –This button  hot reloads your apps instantly with all the new changes that . This functionality extremely fast and takes only a fraction of a second to reflect the changes.
-
-{% hint style="info" %}
-<mark style="color:blue;">**Note:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Hot reload functionality works only after the apps build is run on the phone atleast once.</mark>
-{% endhint %}
-
-3\.   Stop button - this button helps you to stop the apps running on your phone instantly.
-
-### Publish Button
-
-Users can publish their apps in AppStore or PlayStore using this button. We will get to the specifics of publishing the app in [publish-to-stores-ship](../publish-to-stores-ship/ "mention")
-
-### Edit Setting
-
-This button provides extra functionalities which can be used to change the several features available in blup.
-
-Upon clicking the Edit Settings button the user will be introduced to a dialog box housing two options.
-
-#### Project Details
-
-Upon clicking this option  a dialog box pops up consisting of several input boxes where you can provide the required information like organization name and app name , to change the icon just click on the blup images and a file explorer window pops up from which you can choose any image for your icon.
 
 #### Remove All SDK’s and Binaries
 

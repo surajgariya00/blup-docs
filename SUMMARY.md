@@ -6,7 +6,7 @@
 
 * [Design (UI) ✏️](wiki/design-ui/README.md)
   * [Blup Top Bar](wiki/design-ui/blup-top-bar.md)
-  * [Status Bar](wiki/design-ui/status-bar.md)
+  * [Blup Menu Bar](wiki/design-ui/status-bar.md)
   * [Pages/Layers Panel](wiki/design-ui/pages-layers-panel.md)
   * [Toolkit](wiki/design-ui/tools-section.md)
   * [Properties Panel](wiki/design-ui/properties-panel/README.md)
