@@ -175,7 +175,7 @@ It allows the user to publish the app.
 
 ## **Blup Docs Button**
 
-This button opens the link to the BLUP Documentation where users can get in-depth documentation about Blup and learn more about BLUP.
+This button opens the link to the Blup Documentation where users can get in-depth documentation about Blup and learn more about Blup.
 
 <figure><img src="../../.gitbook/assets/Blup Docs Button.png" alt="Blup Docs"><figcaption><p>Blup Docs</p></figcaption></figure>
 
