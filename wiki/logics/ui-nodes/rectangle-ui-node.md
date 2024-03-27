@@ -1,12 +1,17 @@
 # Rectangle UI Node
 
-This node helps to interact with the rectangle created in the UI, this node helps to change various properties associated with the rectangle dynamically. This node is also helpful in capturing various events like on-click or properties changed\updated.
+This node facilitates interaction with UI rectangles, allowing dynamic modification of associated properties. It also captures events like on-click or property changes.
 
 For example, if you wanted to navigate to another page with the click of the rectangle, such types of functionalities can be achieved with the help of this node.
 
 ## How to get rectangle Node.
 
-To get the rectangle node just select any normal rectangle \[not grouped] present on the mobile canvas or pages, then press right-click over the selected rectangle it will open up an arsenal panel in blup designer \[arsenal panel is different for blup lightning] in which you can select the option of edit in blup lightning, as soon you click on the option a rectangle node is generated in the blup lightning in the respective tab.
+![](../../../.gitbook/assets/rectangle.gif)
+
+**Step 1:** Select an ungrouped rectangle on the mobile canvas or pages.
+**Step 2:** Right-click the selected rectangle to open the arsenal panel in Blup Designer.
+**Step 3:** In the arsenal panel (which differs for Blup Logics), choose "Add Logics."
+**Step 4:** This action generates a rectangle node in Blup Logics respective tab.
 
 ## Components of rectangle Nodes.
 

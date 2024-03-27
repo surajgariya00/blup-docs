@@ -6,6 +6,8 @@ This node provides you with all properties that can be changed in a group.
 
 ## How to get the Group Node.
 
+![](../../../.gitbook/assets/group-.gif)
+
 To get the group node first group the multiple elements present on the page or mobile canvas together and then select the group created with the selector toggle, then right-click on the group, arsenal panel of blup designer opens up, select the edit in blup lightning option from the dialog box, this will generate the group Node in blup Lightning.
 
 {% hint style="info" %}
