@@ -6,15 +6,15 @@ This section includes helper functions for handling variables. These functions a
 
 For additional details, you can navigate directly to the desired nodes by clicking on the respective node below.
 
-* [Integer Node](integers.md)
-* [Double Node](double.md)
-* [Boolean Node](boolean.md)
-* [Date-Time Node](date-time.md)
-* [Json Node](json.md)
-* [List Node](list.md)
-* [Map Node](map.md)
-* [String Node](string.md)
-* [Duration Node](duration.md)
+* [Integer Node](integers-nodes.md)
+* [Double Node](double-nodes.md)
+* [Boolean Node](boolean-nodes.md)
+* [Date-Time Node](date-time-nodes.md)
+* [Json Node](json-nodes.md)
+* [List Node](list-nodes.md)
+* [Map Node](map-nodes.md)
+* [String Node](string-nodes.md)
+* [Duration Node](duration-nodes.md)
 
 
 
