@@ -41,7 +41,8 @@
   * [Relational Operators Section](wiki/logics/relational-operators-section.md)
   * [Logical Operators Section](wiki/logics/logical-operators-section.md)
   * [System Node Section](wiki/logics/system-node-section.md)
-  * [Blup Sheet API Node Section](wiki\logics\blup-sheet-api.md)
+  * [SDK Library Section](wiki/logics/sdk-library.md)
+  * [Blup Sheet API Node Section](wiki/logics/blup-sheet-api.md)
 
 * [Backend 🔗](wiki/backend/README.md)
   * [Sheets](wiki/backend/sheets.md)
