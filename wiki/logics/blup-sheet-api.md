@@ -19,11 +19,11 @@ The Blup Sheet API facilitates seamless integration between your backend and use
 
 **Step1:**  Verify the existence of queries within your Blup Backend.
 
-**Step2:** After checking the queries navigate to the Blup Logics console and open Blup Sheets API.
+**Step2:**  After checking the queries navigate to the Blup Logics console and open Blup Sheets API.
 
-**Step3:** Locate and access the Blup Sheets API module.
+**Step3:**  Locate and access the Blup Sheets API module.
 
-**Step4:** Reload queries if necessary, then choose the desired query from the dropdown list. Utilize this query within your application as needed.
+**Step4:**  Reload queries if necessary, then choose the desired query from the dropdown list. Utilize this query within your application as needed.
 
 <div class="container">
   {% tab title="Music" %}
