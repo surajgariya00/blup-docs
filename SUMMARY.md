@@ -23,7 +23,7 @@
     * [Text UI Node](wiki/logics/ui-nodes/text-ui-node.md)
     * [Group UI Node](wiki/logics/ui-nodes/group-ui-node.md)
     * [List UI Node](wiki/logics/ui-nodes/list-ui-node.md)
-    * [Pages](wiki/logics/ui-nodes/pages.md)
+    * [Page ListView UI Node](wiki/logics/ui-nodes/pages.md)
   * [Helper Nodes](wiki/logics/helper-nodes/README.md)
     * [Boolean Nodes](wiki/logics/helper-nodes/boolean-nodes.md)
     * [Date Time Nodes](wiki/logics/helper-nodes/date-time-nodes.md)

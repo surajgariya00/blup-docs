@@ -60,57 +60,57 @@ To get the group node first group the multiple elements present on the page or m
     </tr>
     <tr>
       <td><strong>Lock Aspect Ratio</strong></td>
-      <td>This node locks the aspect ratio of the group just like height and width.</td>
+      <td>This node locks the aspect ratio of the group, similar to setting height and width.</td>
     </tr>
     <tr>
       <td><strong>Is Enable Smart layout</strong></td>
-      <td>This node allow to give a smart layout to your group.</td>
+      <td>This node Enables smart layout for your group.</td>
     </tr>
     <tr>
       <td><strong>Is Consolidated Smart Layout Inner Padding</strong></td>
-      <td>This node give the smart padding from inside.</td>
+      <td>This node Provides smart padding from inside the group.</td>
     </tr><tr>
       <td><strong>S L Padding Left</strong></td>
-      <td>This node point give the smart layout padding from the left side of the group.</td>
+      <td>This node point sets smart layout padding from the left side of the group.</td>
     </tr>
     <tr>
       <td><strong>S L Padding Right</strong></td>
-      <td>This node point give the smart layout padding from the Right side of the group.</td>
+      <td>This node point sets smart layout padding from the right side of the group.</td>
     </tr>
     <tr>
       <td><strong>S L Padding Top</strong></td>
-      <td>This node point give the smart layout padding from the Top side of the group.</td>
+      <td>This node point sets smart layout padding from the top side of the group.</td>
     </tr>
     <tr>
       <td><strong>S L Padding Bottom</strong></td>
-      <td>This node point give the smart layout padding from the Bottom side of the group.</td>
+      <td>This node point sets smart layout padding from the bottom side of the group.</td>
     </tr><tr>
       <td><strong>S L Allignment</strong></td>
-      <td>This give the allignemt horizontally or vertically according to your need.</td>
+      <td>This node determines horizontal or vertical alignment according to your needs.</td>
     </tr><tr>
       <td><strong>S L Direction</strong></td>
       <td>This node gives the direction inside the group.</td>
     </tr>
     <tr>
       <td><strong>S L Gap</strong></td>
-      <td>This node point allow you to give gap inside the group.</td>
+      <td>This node point specifies the direction inside the group.</td>
     </tr>
     <tr>
       <td><strong>S L Spacing</strong></td>
-      <td>This node point allow you to give spcaing between, inside the group.</td>
+      <td>This node point sets the gap inside the group.</td>
     </tr>
     <tr>
       <td><strong>Padding Left</strong></td>
-      <td>This node allows you to adjust the padding from left side of the group</td>
+      <td>This node adjusts the padding from the left side of the group.</td>
     </tr><tr>
       <td><strong>Padding Right</strong></td>
-      <td>This node allows you to adjust the padding from Right side of the group</td>
+      <td>This node adjusts the padding from the right side of the group.</td>
     </tr><tr>
       <td><strong>Padding Top</strong></td>
-      <td>This node allows you to adjust the padding from top side of the group</td>
+      <td>This node adjusts the padding from the top side of the group.</td>
     </tr><tr>
       <td><strong>Padding Bottom</strong></td>
-      <td>This node allows you to adjust the padding from bottom side of the group</td>
+      <td>This node adjusts the padding from the bottom side of the group.</td>
     </tr>
   </tbody>
 </table>
