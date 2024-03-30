@@ -53,3 +53,4 @@ Now that we've covered all the editor functionalities, let's explore the time-sa
 **Ctrl + Shift + R :** Opens Replace in Files dialog
 
 **Ctrl + Mouse left click :** Clicking on a word takes you to its declaration, and if it's the root declaration, it opens the usages for the same word
+
