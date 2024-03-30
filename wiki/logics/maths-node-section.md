@@ -40,7 +40,10 @@ This node is used to perform arithmetic operations like addition, subtraction, m
 <table><thead><tr><th width="124"></th><th></th></tr></thead><tbody><tr><td><strong>Operation Type</strong></td><td>This menu allows you to specify the arithmetic operation you wish to perform on the duration. For instance, if you intend to perform subtraction, select "subtraction" from the drop-down menu.</td></tr><tr><td><strong>"A" node point</strong></td><td>Input for the first duration.</td></tr><tr><td><strong>"B" Node Point</strong></td><td>Input for the second duration.</td></tr><tr><td> <strong>Use Run Trigger</strong></td><td>Adds a run trigger to the node if checked.</td></tr><tr><td> <strong>Results</strong></td><td>Output providing the result of the arithmetic operation.</td></tr></tbody></table>
 
 
+If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
 
+## Music to go with.
+ 
 <div class="container">
   {% tab title="Music" %}
   {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}

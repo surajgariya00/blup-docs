@@ -33,11 +33,11 @@ To get the group node first group the multiple elements present on the page or m
       <td>This node allows you to trigger actions when the it is clicked.</td>
     </tr>
     <tr>
-      <td><strong>Group Properties</strong></td>
-      <td>This node Group properties for the Text such as hide, width, height and many more.</td>
+      <td><strong>Column Properties</strong></td>
+      <td>This node shows Column properties such as hide, width, height and many more.</td>
     </tr>
     <tr>
-      <td><strong>Group Extra Properties</strong></td>
+      <td><strong>Column Extra Properties</strong></td>
       <td>This node offers additional options to customize the Group, such as padding, spacing, aspect ratio and many more.</td>
     </tr><tr>
       <td><strong>Width</strong></td>
@@ -55,66 +55,74 @@ To get the group node first group the multiple elements present on the page or m
       <td><strong>Extra Data</strong></td>
       <td>This input node points help to store data. which can be used in further cases.</td>
     </tr><tr>
-      <td><strong>Edit Group Properties</strong></td>
+      <td><strong>Edit Column Properties</strong></td>
       <td>This checkbox helps to access secondary input node points or Extra properties associated with the group node.</p><p>If the checkbox is checked then the secondary input node points are visible ; if not then they are hidden and cannot be used.</td>
     </tr>
     <tr>
-      <td><strong>Lock Aspect Ratio</strong></td>
-      <td>This node locks the aspect ratio of the group, similar to setting height and width.</td>
-    </tr>
-    <tr>
-      <td><strong>Is Enable Smart layout</strong></td>
-      <td>This node Enables smart layout for your group.</td>
-    </tr>
-    <tr>
-      <td><strong>Is Consolidated Smart Layout Inner Padding</strong></td>
-      <td>This node Provides smart padding from inside the group.</td>
-    </tr><tr>
       <td><strong>S L Padding Left</strong></td>
-      <td>This node point sets smart layout padding from the left side of the group.</td>
+      <td>This node point sets smart layout padding from the left side of the column.</td>
     </tr>
     <tr>
       <td><strong>S L Padding Right</strong></td>
-      <td>This node point sets smart layout padding from the right side of the group.</td>
+      <td>This node point sets smart layout padding from the right side of the column.</td>
     </tr>
     <tr>
       <td><strong>S L Padding Top</strong></td>
-      <td>This node point sets smart layout padding from the top side of the group.</td>
+      <td>This node point sets smart layout padding from the top side of the column.</td>
     </tr>
     <tr>
       <td><strong>S L Padding Bottom</strong></td>
-      <td>This node point sets smart layout padding from the bottom side of the group.</td>
+      <td>This node point sets smart layout padding from the bottom side of the column.</td>
     </tr><tr>
       <td><strong>S L Allignment</strong></td>
       <td>This node determines horizontal or vertical alignment according to your needs.</td>
     </tr><tr>
       <td><strong>S L Direction</strong></td>
-      <td>This node gives the direction inside the group.</td>
+      <td>This node gives the direction inside the column.</td>
     </tr>
     <tr>
       <td><strong>S L Gap</strong></td>
-      <td>This node point specifies the direction inside the group.</td>
+      <td>This node point specifies the direction inside the column.</td>
     </tr>
     <tr>
       <td><strong>S L Spacing</strong></td>
-      <td>This node point sets the gap inside the group.</td>
+      <td>This node point sets the gap inside the column.</td>
     </tr>
     <tr>
       <td><strong>Padding Left</strong></td>
-      <td>This node adjusts the padding from the left side of the group.</td>
+      <td>This node adjusts the padding from the left side of the column.</td>
     </tr><tr>
       <td><strong>Padding Right</strong></td>
-      <td>This node adjusts the padding from the right side of the group.</td>
+      <td>This node adjusts the padding from the right side of the column.</td>
     </tr><tr>
       <td><strong>Padding Top</strong></td>
-      <td>This node adjusts the padding from the top side of the group.</td>
+      <td>This node adjusts the padding from the top side of the column.</td>
     </tr><tr>
       <td><strong>Padding Bottom</strong></td>
-      <td>This node adjusts the padding from the bottom side of the group.</td>
+      <td>This node adjusts the padding from the bottom side of the column.</td>
+    </tr><tr>
+      <td><strong>Radius</strong></td>
+      <td>This node adjusts the radius of the column.</td>
+    </tr><tr>
+      <td><strong>Fill</strong></td>
+      <td>This node help in filling the color to your column.</td>
+    </tr><tr>
+      <td><strong>Border Fill</strong></td>
+      <td>This node help in filling the color to your column border.</td>
+    </tr><tr>
+      <td><strong>Border Width</strong></td>
+      <td>This node help in defining your coumn width.</td>
+    </tr><tr>
+      <td><strong>Shadow Fill</strong></td>
+      <td>This node help in filling the color to your column shadow.</td>
     </tr>
   </tbody>
 </table>
 
+If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
+
+## Music to go with.
+ 
 <div class="container">
   {% tab title="Music" %}
   {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}

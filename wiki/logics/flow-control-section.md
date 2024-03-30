@@ -42,6 +42,10 @@ This node is very similar to the for loop, it helps you to execute some logic re
 <table><thead><tr><th width="159"></th><th></th></tr></thead><tbody><tr><td><strong>Run</strong> </td><td>This input node point acts as a starting point for the node.</td></tr><tr><td><strong>Condition</strong></td><td>This input node point helps you to provide the condition which helps you to start the execution of the loop.</td></tr><tr><td><strong>Exit</strong></td><td>This output node point helps you to define and logic that you want to execute after the loop execution is finished.</td></tr><tr><td><strong>Body</strong></td><td>All the logic that you want to execute repeatedly comes under this node point.</td></tr></tbody></table>
 
 
+If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
+
+## Music to go with.
+ 
 <div class="container">
   {% tab title="Music" %}
   {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
