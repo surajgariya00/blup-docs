@@ -89,7 +89,7 @@ This is the backbone of Blup for Logics Creation.
 
 ## Understanding Node Structure
 
-![](../../.gitbook/assets/node-structure.png)
+![](../../.gitbook/assets/node-flow.png)
 
 All the nodes that are present in the Blup Lightning follow the same node structure or pattern. On the top center of each node, is the name of the node, this name signifies multiple things like which category the node belongs to and what is it's intended task.
 
@@ -109,7 +109,7 @@ There are two types of node points:
 
 These node points as the name suggests are circular in shape and colour-coded, according to the type of data being passed through them thereby, if two node points are to be connected, they need to be of the same color.
 
-![](../../.gitbook/assets/colorSchema.png)
+![](../../.gitbook/assets/nodes-color.png)
 
 **For Example -** A string node point can accept node wire from other string node points only.
 
@@ -133,7 +133,7 @@ For example, in the above Rectangle Node the logic attached to the on-click func
 
 In Some of Cases these output node points also provides you with additional output node point for further flexibility
 
-![](../../.gitbook/assets/functionOutputNodePoints.gif)
+![](../../.gitbook/assets/ui-node.gif)
 
 **For example -** When the on File Picked Function ouput Node point Stretch you can see that new ouput node points are generated that provides you with extra output node point.
 

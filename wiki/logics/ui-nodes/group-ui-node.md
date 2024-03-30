@@ -115,6 +115,21 @@ To get the group node first group the multiple elements present on the page or m
     </tr><tr>
       <td><strong>Shadow Fill</strong></td>
       <td>This node help in filling the color to your column shadow.</td>
+    </tr><tr>
+      <td><strong>Shadow X</strong></td>
+      <td>This node adjust the shadow on the x-axis.</td>
+    </tr><tr>
+      <td><strong>Shadow Y</strong></td>
+      <td>This node adjust the shadow on the y-axis.</td>
+    </tr><tr>
+      <td><strong>Shadow Blur</strong></td>
+      <td>This node guves the blury shadow to your column group.</td>
+    </tr><tr>
+      <td><strong>Dotted Border</strong></td>
+      <td>This node gives the dotted border to your column group.</td>
+    </tr><tr>
+      <td><strong>Layer Blur</strong></td>
+      <td>This node give the blury layer to your group.</td>
     </tr>
   </tbody>
 </table>
