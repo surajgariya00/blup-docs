@@ -1,6 +1,6 @@
 # Pages Properties
 
-<figure><img src="../../../.gitbook/assets/list-ui.gif" alt="Page UI"><figcaption><p>Page UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/page-ui.gif" alt="Page UI"><figcaption><p>Page UI</p></figcaption></figure>
 
 ## Background colour
 
