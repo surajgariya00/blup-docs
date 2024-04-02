@@ -1,5 +1,7 @@
 # Insert Widgets
 
+<figure><img src="../../../.gitbook/assets/insert-widgets.gif" alt="Insert Widgets"><figcaption><p>Insert Widgets</p></figcaption></figure>
+
 Widgets are tools you can use to improve the appearance and user-friendliness of your UI, making it more attractive and readable.
 
 To enhance your UI, simply select a widget from the options provided, then drag and drop it onto your screen. Customize its components, such as size and color, to tailor it to your needs and preferences.
