@@ -2,7 +2,7 @@
 
 TextButton widget is used to create a text-based button that responds to user taps. It provides a simple, flat button style with text and optional icons.
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Text Button"><figcaption><p>Text Button</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/text-button-ui.gif" alt="Text Button"><figcaption><p>Text Button</p></figcaption></figure>
 
 To integrate a TextButton Widget into your UI, follow these steps:
 

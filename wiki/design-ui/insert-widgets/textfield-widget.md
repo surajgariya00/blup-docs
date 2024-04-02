@@ -2,7 +2,7 @@
 
 TextField Widget is highly customizable and supports various features such as input validation, text formatting, and keyboard types.
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="TextField"><figcaption><p>TextField</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/text-field-ui.gif" alt="TextField"><figcaption><p>TextField</p></figcaption></figure>
 
 To integrate a TextField Widget into your UI, follow these steps:
 

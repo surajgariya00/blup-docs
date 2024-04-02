@@ -4,7 +4,7 @@ Checkbox widget is used to represent a toggleable option with two states: checke
 
 <figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Check Box"><figcaption><p>Check Box</p></figcaption></figure>
 
-To utilize an CheckBox in your Flutter UI, adhere to these steps:
+To utilize an CheckBox in your UI, adhere to these steps:
 
 **1.** Drag the CheckBox widget from the Insert menu and drop it into your desired location within your UI.
 

@@ -1,7 +1,7 @@
 # Icon Widget
 
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Icons"><figcaption><p>Icons</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/icon-ui.gif" alt="Icons"><figcaption><p>Icons</p></figcaption></figure>
 
 To utilize an Icon in your UI, adhere to these steps:
 

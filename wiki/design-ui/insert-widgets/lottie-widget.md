@@ -1,6 +1,6 @@
 # Lottie Widget
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Lottie"><figcaption><p>Lottie</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lottie-files-ui.gif" alt="Lottie"><figcaption><p>Lottie</p></figcaption></figure>
 
 Integrating a Lottie animation into your UI is straightforward. Follow these steps to make it happen:
 

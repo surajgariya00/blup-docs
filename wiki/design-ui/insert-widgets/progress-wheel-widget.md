@@ -2,7 +2,7 @@
 
 Progress widgets are used to display progress indicators that visually represent the progress of a task.
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Progress Wheel"><figcaption><p>Progress Wheel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/progress-wheel-ui.gif" alt="Progress Wheel"><figcaption><p>Progress Wheel</p></figcaption></figure>
 
 To utilize an Progress Wheel in your Flutter UI, adhere to these steps:
 

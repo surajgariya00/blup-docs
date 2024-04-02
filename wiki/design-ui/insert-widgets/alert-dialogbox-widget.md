@@ -5,7 +5,8 @@ Alert dialog pops up on the screen to provide important information or to prompt
 Here, By incorporating an alert dialog widget within your application, you can seamlessly integrate prompts or warnings to engage users and guide their interactions.
 
 <figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Alert Dialog"><figcaption><p>Alert Dialog</p></figcaption></figure>
-To utilize an Alert Dialog in your Flutter UI, adhere to these steps:
+
+To utilize an Alert Dialog in your UI, adhere to these steps:
 
 **1.** Drag the Alert dialog widget from the Insert menu and drop it into your desired location within your UI.
 

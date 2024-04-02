@@ -3,7 +3,7 @@
 
 <figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Camera View"><figcaption><p>Camera View</p></figcaption></figure>
 
-To utilize an Camera View in your Flutter UI, adhere to these steps:
+To utilize an Camera View in your UI, adhere to these steps:
 
 **1.** Drag the Camera View widget from the Insert menu and drop it into your desired location within your UI.
 

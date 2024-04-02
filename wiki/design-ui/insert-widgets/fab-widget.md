@@ -1,6 +1,6 @@
 # FAB Widget
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="FAB"><figcaption><p>FAB</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fab-ui.gif" alt="FAB"><figcaption><p>FAB</p></figcaption></figure>
 
 To utilize an FAB(FloatingActionButton) in your  UI, adhere to these steps:
 
