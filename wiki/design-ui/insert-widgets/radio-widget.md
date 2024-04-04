@@ -12,6 +12,69 @@ To utilize an Radio Widget in your Flutter UI, adhere to these steps:
 
 **3.** Implement logic to dynamically control the value of the Radio widget. You can achieve this by binding the value property of the Radio widget to a boolean variable in your code. Based on user interactions or application state changes, update the boolean variable to true or false accordingly. This will dynamically reflect the selected state of the Radio widget.
 
+### Components of Radio Widget
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Align Icons</strong></td>
+      <td>Click icons or use shortcut keys to align Radio Widget. For example, click "Align Left" or use Ctrl+Shift+Left to left-align Radio Widget.</td>
+    </tr>
+    <tr>
+      <td><strong>Postitions</strong></td>
+      <td>Set Radio Widget positions on the X and Y axes of the mobile canvas.</td>
+    </tr> 
+    <tr>
+      <td><strong>Radio Widget Size</strong></td>
+      <td>Specify the width and height of the CheckBox by providing values for width (w) and height (h).</td>
+    </tr> 
+    <tr>
+      <td><strong>Z rotation</strong></td>
+      <td>Rotate the Radio Widget by specifying a rotation value.</td>
+    </tr>
+     <tr>
+      <td><strong>Border Radius</strong></td>
+      <td>Adjust corner curvature by providing a value to create rounded corners. Individual corner adjustments are available by clicking on each corner.</td>
+    </tr>
+    <tr>
+      <td><strong>Margin</strong></td>
+      <td>Provide margin to the Radio Widget from any of the four directions by specifying the margin value.</td>
+    </tr>
+    <tr>
+      <td><strong>Radio Value</strong></td>
+      <td>On giveing value true it will mark the radio widget and on false it will unmark the radio.</td>
+    </tr><tr>
+      <td><strong>Radio Group Value</strong></td>
+      <td>Here you can track the radio value when it is in group.</td>
+    </tr>
+    <tr>
+      <td><strong>Toggleable</strong></td>
+      <td>Whn checking toggleableit will combines a Radio with a text.</td>
+    </tr>
+    <tr>
+      <td><strong>Appearance</strong></td>
+      <td>It will give radio the color according to your need.</td>
+    </tr><tr>
+      <td><strong>Focus Color</strong></td>
+      <td>It will represents the color that is displayed when a widget gains focus</td>
+    </tr>
+    <tr>
+      <td><strong>Hover Color</strong></td>
+      <td>It will represents the color that is displayed when a widget is hovered over by the cursor.</td>
+    </tr>
+    <tr>
+      <td><strong>Visible</strong></td>
+      <td>By checking the checkbox the entire selected radio widget will be hidden.</td>
+    </tr>
+  </tbody>
+</table>
+
 If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
 
 ## Music to go with.

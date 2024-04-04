@@ -10,6 +10,49 @@ To utilize an Progress Wheel in your Flutter UI, adhere to these steps:
 
 **2.** Customize the appearance and behavior of the Progress Wheel by adjusting its properties in the editing section on the right.
 
+### Components of Progress Wheel Widget
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Align Icons</strong></td>
+      <td>Click icons or use shortcut keys to align Progress Wheel. For example, click "Align Left" or use Ctrl+Shift+Left to left-align Progress Wheel.</td>
+    </tr>
+    <tr>
+      <td><strong>Postitions</strong></td>
+      <td>Set Progress Wheel positions on the X and Y axes of the mobile canvas.</td>
+    </tr>
+    <tr>
+      <td><strong>Margin</strong></td>
+      <td>Adjust Progress Wheel margin from top, bottom, left, or right by specifying margin values.</td>
+    </tr>
+    <tr>
+      <td><strong>Progress Indicator color</strong></td>
+      <td>Set the progress indicator according to your need.</td>
+    </tr><tr>
+      <td><strong>Indicator backgroung color</strong></td>
+      <td>Give it a background color</td>
+    </tr>
+    <tr>
+      <td><strong>Value</strong></td>
+      <td>Here you can set the value how much you want to show the progress in the indicator, if you want the loading progress set it to -1.</td>
+    </tr>
+    <tr>
+      <td><strong>Stroke Width</strong></td>
+      <td>Give it the width according to your need.</td>
+    </tr>
+    <tr>
+      <td><strong>Visible</strong></td>
+      <td>By checking the checkbox the entire selected Progress wheel will be hidden.</td>
+    </tr>
+  </tbody>
+</table>
 
 If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
 

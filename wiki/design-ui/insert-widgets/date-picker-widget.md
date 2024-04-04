@@ -12,6 +12,74 @@ Integrating a DatePicker widget into your UI is simple. Follow these steps to ma
 
 **3.** Additionally, you can enhance the DatePicker by specifying properties such as initial date, minimum date, and maximum date. These properties allow you to control the range of dates available for selection and set a default date.
 
+### Components of DatePicker Widget
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Align Icons</strong></td>
+      <td>Click icons or use shortcut keys to align DatePicker Widget. For example, click "Align Left" or use Ctrl+Shift+Left to left-align DatePicker Widget.</td>
+    </tr>
+    <tr>
+      <td><strong>Postitions</strong></td>
+      <td>Set DatePicker Widget positions on the X and Y axes of the mobile canvas.</td>
+    </tr> 
+    <tr>
+      <td><strong>DatePicker Widget Size</strong></td>
+      <td>Specify the width and height of the CheckBox by providing values for width (w) and height (h).</td>
+    </tr> 
+    <tr>
+      <td><strong>Z rotation</strong></td>
+      <td>Rotate the DatePicker Widget by specifying a rotation value.</td>
+    </tr>
+     <tr>
+      <td><strong>Border Radius</strong></td>
+      <td>Adjust corner curvature by providing a value to create rounded corners. Individual corner adjustments are available by clicking on each corner.</td>
+    </tr>
+    <tr>
+      <td><strong>Margin</strong></td>
+      <td>Provide margin to the CheckBox Widget from any of the four directions by specifying the margin value.</td>
+    </tr>
+    <tr>
+      <td><strong>DatePicker show preview</strong></td>
+      <td>On clicking on it you will get the view of the date picker.</td>
+    </tr><tr>
+      <td><strong>Initial Date</strong></td>
+      <td>Give it the date for giving date picker a initial date.</td>
+    </tr>
+   <tr>
+      <td><strong>First Date</strong></td>
+      <td>Give it the date from where calender should start. it basically specify the range of selectable dates.</td>
+    </tr>
+    <tr>
+      <td><strong>Last Date</strong></td>
+      <td>Give it the date where calender should end. it basically specify the range of selectable dates.</td>
+    </tr><tr>
+      <td><strong>Fill</strong></td>
+      <td>It give the date picker a color from inside.</td>
+    </tr>
+   <tr>
+      <td><strong>Border Color</strong></td>
+      <td>	Choose a color to set the DatePicker border color. Adjust the border color from inside, outside, or center of the DatePicker by selecting it from the drop down.</td>
+    </tr>
+   <tr>
+      <td><strong>Shadow</strong></td>
+      <td>Apply a shadow effect to the DatePicker by selecting either a normal or inner shadow type.</td>
+    </tr>
+    <tr>
+      <td><strong>Visible</strong></td>
+      <td>By checking the checkbox the entire DatePicker will be hidden.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
 
 ## Music to go with.
