@@ -14,6 +14,7 @@
     * [Text Properties](wiki/design-ui/properties-panel/text-properties.md)
     * [List Properties](wiki/design-ui/properties-panel/list-properties.md)
     * [Rectangle Properties](wiki/design-ui/properties-panel/rectangle-properties.md)
+  * [Page Canvas](wiki/design-ui/page-canvas.md)
   * [Choose from Assets](wiki/design-ui/choose-from-assets.md)
   * [Right-Click Menu in Design](wiki/design-ui/right-click-menu-in-design.md)
   * [How to use navigate page in Blup](wiki/design-ui/how-to-use-navigate-page-in-blup.md)
