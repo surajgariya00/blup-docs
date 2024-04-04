@@ -59,7 +59,7 @@
       <td><strong>Auto Width</strong></td>
       <td>The width of the text will be adjusted automatically depending on the size of the container housing the selected text.</td>
     </tr><tr>
-      <td><strong>Auto heiight</strong></td>
+      <td><strong>Auto height</strong></td>
       <td>The height of the text will be adjusted automatically depending on the size of the container housing the selected text.</td>
     </tr><tr>
       <td><strong>Fixed size</strong></td>
@@ -67,11 +67,11 @@
     </tr>
     <tr>
       <td><strong>Max Line</strong></td>
-      <td>This property helps you to define the maximum number of lines the selected text can specify for example, if you define the value as 2 then the text can only take up 2 lines.</td>
+      <td>This property helps you to define the maximum number of lines the selected text can specify. For example, if you define the value as 2, then the text can only take up 2 lines.</td>
     </tr>
     <tr>
       <td><strong>Font color</strong></td>
-      <td>Change the color of the text using color picker, hex code, or RGB sliders.</td>
+      <td>Change the color of the text using the color picker, hex code, or RGB sliders.</td>
     </tr>
      <tr>
       <td><strong>Ellipsis, on text overflow</strong></td>

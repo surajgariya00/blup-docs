@@ -2,7 +2,7 @@
 
 Checkbox widget is used to represent a toggleable option with two states: checked and unchecked. Users can tap the checkbox to toggle its state. 
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Check Box"><figcaption><p>Check Box</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/check-box.gif" alt="Check Box"><figcaption><p>Check Box</p></figcaption></figure>
 
 To utilize an CheckBox in your UI, adhere to these steps:
 
@@ -26,7 +26,7 @@ To utilize an CheckBox in your UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set CheckBox Widget positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set CheckBox Widget positions on the X and Y axis of the mobile canvas.</td>
     </tr> 
     <tr>
       <td><strong>CheckBox Widget Size</strong></td>
@@ -49,7 +49,7 @@ To utilize an CheckBox in your UI, adhere to these steps:
       <td>On selecting the value you get the tick and on unselecting it will remove the tick.</td>
     </tr><tr>
       <td><strong>Checkbox Tristate</strong></td>
-      <td> On UnSelecting tristate meaning the checkbox can only be checked or unchecked. However, when check the  tristate, it enables the third state, where the checkbox can be in an indeterminate state.</td>
+      <td>On UnSelecting tristate meaning the checkbox can only be checked or unchecked. However, when checking the tristate, it enables the third state, where the checkbox can be in an indeterminate state.</td>
     </tr>
     <tr>
       <td><strong>Icon Color</strong></td>
@@ -64,7 +64,7 @@ To utilize an CheckBox in your UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Hover Color</strong></td>
-      <td>It will represents the color that is displayed when a widget is hovered over by the cursor.</td>
+      <td>It will represent the color that is displayed when a widget is hovered over by the cursor.</td>
     </tr>
     <tr>
       <td><strong>Visible</strong></td>

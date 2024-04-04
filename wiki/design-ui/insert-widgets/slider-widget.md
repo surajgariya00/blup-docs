@@ -2,7 +2,7 @@
 
 Slider widget is used to allow users to select a value from a range by dragging a thumb along a track. It's commonly used for selecting a value within a range, such as volume control or brightness adjustment. 
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Slider"><figcaption><p>Slider</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/slider.gif" alt="Slider"><figcaption><p>Slider</p></figcaption></figure>
 
 To utilize an Slider in your Flutter UI, adhere to these steps:
 
@@ -26,36 +26,36 @@ To utilize an Slider in your Flutter UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set Slider Widget positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set Slider Widget positions on the X and Y axis of the mobile canvas.</td>
     </tr>
     <tr>
       <td><strong>Margin</strong></td>
-      <td>Adjust  Slider Widget margin from top, bottom, left, or right by specifying margin values.</td>
+      <td>Adjust Slider Widget margin from top, bottom, left, or right by specifying margin values.</td>
     </tr>
     <tr>
       <td><strong>Slider value</strong></td>
-      <td>Set the slider value how much you want to show the range in the slider according to your need.</td>
+      <td>Set the slider value to determine the range shown in the slider according to your needs.</td>
     </tr><tr>
       <td><strong>Label</strong></td>
-      <td>Give it a label text according to your need.</td>
+      <td>Assign a label text to the slider according to your needs.</td>
     </tr>
     <tr>
       <td><strong>Min & Max</strong></td>
-      <td>Set the minimum and maximum range in the silder for showing your data progress.</td>
+      <td>Set the minimum and maximum range in the slider to represent your data progress.</td>
     </tr>
     <tr>
       <td><strong>Divisions</strong></td>
-      <td>Set the number of divisions you want to show in your silder.</td>
+      <td>Set the number of divisions you want to show in your slider.</td>
     </tr> <tr>
       <td><strong>Slider Color</strong></td>
-      <td>This will give the color to your slider according to your need.</td>
+      <td>This will give the color to your slider according to your needs.</td>
     </tr> <tr>
       <td><strong>Slider Background Color</strong></td>
-      <td>This will give the background color to your slider according to your need.</td>
+      <td>This will give the background color to your slider according to your needs.</td>
     </tr>
     <tr>
       <td><strong>Visible</strong></td>
-      <td>By checking the checkbox the entire selected slider widget will be hidden.</td>
+      <td>By checking the checkbox, the entire selected slider widget will be hidden.</td>
     </tr>
   </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 Radio widget is used to create radio buttons, which allow users to select one option from a set of mutually exclusive options. Radio buttons are typically used when there are a limited number of choices and only one selection is allowed at a time.
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Radio Button"><figcaption><p>Radio Button</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/radio.gif" alt="Radio Button"><figcaption><p>Radio Button</p></figcaption></figure>
 
 To utilize an Radio Widget in your Flutter UI, adhere to these steps:
 
@@ -28,7 +28,7 @@ To utilize an Radio Widget in your Flutter UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set Radio Widget positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set Radio Widget positions on the X and Y axis of the mobile canvas.</td>
     </tr> 
     <tr>
       <td><strong>Radio Widget Size</strong></td>
@@ -48,29 +48,29 @@ To utilize an Radio Widget in your Flutter UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Radio Value</strong></td>
-      <td>On giveing value true it will mark the radio widget and on false it will unmark the radio.</td>
+      <td>Set the value to true to mark the radio widget, and false to unmark it.</td>
     </tr><tr>
       <td><strong>Radio Group Value</strong></td>
       <td>Here you can track the radio value when it is in group.</td>
     </tr>
     <tr>
       <td><strong>Toggleable</strong></td>
-      <td>Whn checking toggleableit will combines a Radio with a text.</td>
+      <td>When checked, combines a Radio with text.</td>
     </tr>
     <tr>
       <td><strong>Appearance</strong></td>
-      <td>It will give radio the color according to your need.</td>
+      <td>Give the radio widget a color according to your needs.</td>
     </tr><tr>
       <td><strong>Focus Color</strong></td>
-      <td>It will represents the color that is displayed when a widget gains focus</td>
+      <td>Represents the color displayed when a widget gains focus.</td>
     </tr>
     <tr>
       <td><strong>Hover Color</strong></td>
-      <td>It will represents the color that is displayed when a widget is hovered over by the cursor.</td>
+      <td>Represents the color displayed when a widget is hovered over by the cursor.</td>
     </tr>
     <tr>
       <td><strong>Visible</strong></td>
-      <td>By checking the checkbox the entire selected radio widget will be hidden.</td>
+      <td>By checking the checkbox, the entire selected radio widget will be hidden.</td>
     </tr>
   </tbody>
 </table>

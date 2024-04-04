@@ -27,7 +27,7 @@ Integrating a Lottie animation into your UI is straightforward. Follow these ste
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set Lottie positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set Lottie positions on the X and Y axis of the mobile canvas.</td>
     </tr> 
     <tr>
       <td><strong>Lottie Size</strong></td>
@@ -47,23 +47,23 @@ Integrating a Lottie animation into your UI is straightforward. Follow these ste
     </tr>
     <tr>
       <td><strong>Lottie Properites</strong></td>
-      <td>Here you provide the Loffite files assets according to your need.</td>
+      <td>Here you provide the Lottie files assets according to your need.</td>
     </tr>
     <tr>
       <td><strong>Repeat</strong></td>
-      <td>When Checking the repeat it will keep on repeating the lottie animation</td>
+      <td>When checking the repeat option, it will keep on repeating the Lottie animation.</td>
     </tr>
     <tr>
       <td><strong>Reverse</strong></td>
-      <td>When Checking the reverse it will reverse the animtaion.</td>
+      <td>When checking the reverse option, it will reverse the animation.</td>
     </tr>
     <tr>
       <td><strong>Fill color</strong></td>
-      <td>By fill color you can provide the background color to the lottie widget.</td>
+      <td>By fill color, you can provide the background color to the Lottie widget.</td>
     </tr>
      <tr>
       <td><strong>Border Color</strong></td>
-      <td>	Choose a color to set the widget border color. Adjust the border color from inside, outside, or center of the widget by selecting it from the drop down.</td>
+      <td>Choose a color to set the widget border color. Adjust the border color from inside, outside, or center of the widget by selecting it from the drop-down.</td>
     </tr>
     <tr>
       <td><strong>Border Width</strong></td>

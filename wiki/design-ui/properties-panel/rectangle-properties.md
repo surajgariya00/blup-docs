@@ -17,7 +17,7 @@
       <td>Click icons or use shortcut keys to align text. For example, click "Align Left" or use Ctrl+Shift+Left to left-align text.</td>
     </tr>
     <tr>
-      <td><strong>Postitions</strong></td>
+      <td><strong>Positions</strong></td>
       <td>Set Container positions on the X and Y axis of the mobile canvas.</td>
     </tr> 
     <tr>
@@ -41,7 +41,7 @@
       <td>Choose a color to fill the container's interior.</td>
     </tr><tr>
       <td><strong>Border Color</strong></td>
-      <td>	Choose a color to set the container's border color. Adjust the border color from inside, outside, or center of the container by selecting it from the drop down.</td>
+      <td>Choose a color to set the container's border color. Adjust the border color from inside, outside, or center of the container by selecting it from the drop down.</td>
     </tr>
     <tr>
       <td><strong>Border Width</strong></td>

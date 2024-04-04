@@ -32,17 +32,17 @@ Integrating a Progress Bar into your UI is essential for indicating progress or 
     </tr>
     <tr>
       <td><strong>Margin</strong></td>
-      <td>Adjust Progress bar Widget margin from top, bottom, left, or right by specifying margin values.</td>
+      <td>Adjust the Progress Bar Widget margin from the top, bottom, left, or right by specifying margin values.</td>
     </tr>
     <tr>
       <td><strong>Progress bar value</strong></td>
-      <td>Set the Progress bar value to determine the range shown in the Progress bar according to your needs. If you want to show it as a loading indicator, use the value -1.</td>
+      <td>Set the Progress Bar value to determine the range shown in the Progress Bar according to your needs. If you want to show it as a loading indicator, use the value -1.</td>
     </tr> <tr>
       <td><strong>Progress bar Color</strong></td>
-      <td>This will give the color to your Progress bar according to your need.</td>
+      <td>This will give the color to your Progress Bar according to your need.</td>
     </tr> <tr>
       <td><strong>Progress bar Background Color</strong></td>
-      <td>This will give the background color to your Progress bar according to your need.</td>
+      <td>This will give the background color to your Progress Bar according to your need.</td>
     </tr>
     <tr>
       <td><strong>Visible</strong></td>

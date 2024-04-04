@@ -2,7 +2,7 @@
 
 Switch widget is used to create a toggle switch that allows users to toggle between two states: on and off. It's commonly used to represent binary options such as enabling/disabling a feature or setting.
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Switch"><figcaption><p>Switch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/switch.gif" alt="Switch"><figcaption><p>Switch</p></figcaption></figure>
 
 To integrate a Switch Widget into your UI, follow these steps:
 
@@ -26,11 +26,11 @@ To integrate a Switch Widget into your UI, follow these steps:
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set Switch Widget positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set Switch Widget positions on the X and Y axis of the mobile canvas.</td>
     </tr>
     <tr>
       <td><strong>Margin</strong></td>
-      <td>Adjust  Switch Widget margin from top, bottom, left, or right by specifying margin values.</td>
+      <td>Adjust Switch Widget margin from top, bottom, left, or right by specifying margin values.</td>
     </tr>
     <tr>
       <td><strong>Swtich value</strong></td>
@@ -45,7 +45,7 @@ To integrate a Switch Widget into your UI, follow these steps:
     </tr>
     <tr>
       <td><strong>Hover Color</strong></td>
-      <td>Give it a color according to your need when user hover a cursor on Switch it will change color.</td>
+      <td>Give it a color according to your need when the user hovers a cursor on the Switch; it will change color.</td>
     </tr> <tr>
       <td><strong>Active Color</strong></td>
       <td>This will give the color to your track of Switch when it is active.</td>

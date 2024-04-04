@@ -40,7 +40,7 @@ Integrating a Multi Choice Dialog into your UI provides users with a convenient 
     </tr>
      <tr>
       <td><strong>Border Radius</strong></td>
-      <td> Adjust corner curvature by providing a value to create rounded corners. Individual corner adjustments are available by clicking on each corner.</td>
+      <td>Adjust corner curvature by providing a value to create rounded corners. Individual corner adjustments are available by clicking on each corner.</td>
     </tr>
     <tr>
       <td><strong>Margin</strong></td>

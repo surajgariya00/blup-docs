@@ -2,7 +2,7 @@
 
  AppBar widget is a fundamental component used to create the top app bar, which typically contains the application's title, navigation icons, action buttons, and other relevant information. 
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="App Bar"><figcaption><p>App Bar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/appbar.gif" alt="App Bar"><figcaption><p>App Bar</p></figcaption></figure>
 
 To utilize an AppBar in your UI, adhere to these steps:
 
@@ -31,8 +31,8 @@ To utilize an AppBar in your UI, adhere to these steps:
       <td>Set AppBar positions on the X and Y axes of the mobile canvas.</td>
     </tr> 
     <tr>
-      <td><strong>Container Size</strong></td>
-      <td>Specify the width and height of the Dialog box by providing values for width (W) and height (H).</td>
+      <td><strong>Appbar Size</strong></td>
+      <td>Specify the width and height of the Appbar widget by providing values for width (W) and height (H).</td>
     </tr> 
     <tr>
       <td><strong>Z rotation</strong></td>
@@ -44,7 +44,7 @@ To utilize an AppBar in your UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Margin</strong></td>
-      <td>Provide margin to the text from any of the four directions by specifying the margin value.</td>
+      <td>Provide margin to the Appbar from any of the four directions by specifying the margin value.</td>
     </tr>
     <tr>
       <td><strong>Color</strong></td>
@@ -89,7 +89,7 @@ To utilize an AppBar in your UI, adhere to these steps:
       <td>Define the height between lines of AppBar text.</td>
     </tr><tr>
       <td><strong>Left Align</strong></td>
-      <td>  This option aligns the AppBar text from the left.</td>
+      <td>This option aligns the AppBar text from the left.</td>
     </tr><tr>
       <td><strong>Centre Align</strong></td>
       <td>This option aligns the AppBar text to the centre.</td>

@@ -26,26 +26,26 @@ To utilize an Progress Wheel in your Flutter UI, adhere to these steps:
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set Progress Wheel positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set Progress Wheel positions on the X and Y axis of the mobile canvas.</td>
     </tr>
     <tr>
       <td><strong>Margin</strong></td>
-      <td>Adjust Progress Wheel margin from top, bottom, left, or right by specifying margin values.</td>
+      <td>Adjust the Progress Wheel margin from the top, bottom, left, or right by specifying margin values.</td>
     </tr>
     <tr>
       <td><strong>Progress Indicator color</strong></td>
-      <td>Set the progress indicator according to your need.</td>
+      <td>Set the color of the progress indicator according to your need.</td>
     </tr><tr>
       <td><strong>Indicator backgroung color</strong></td>
-      <td>Give it a background color</td>
+      <td>Give the indicator a background color.</td>
     </tr>
     <tr>
       <td><strong>Value</strong></td>
-      <td>Here you can set the value how much you want to show the progress in the indicator, if you want the loading progress set it to -1.</td>
+      <td>Set the value to determine how much progress you want to show in the indicator. If you want the loading progress, set it to -1.</td>
     </tr>
     <tr>
       <td><strong>Stroke Width</strong></td>
-      <td>Give it the width according to your need.</td>
+      <td>Define the width of the indicator's stroke according to your need.</td>
     </tr>
     <tr>
       <td><strong>Visible</strong></td>

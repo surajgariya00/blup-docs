@@ -2,7 +2,7 @@
 
 Dropdown widget is used to display a dropdown menu with a list of selectable options. Users can choose one option from the list by tapping on the dropdown button, and the selected option is displayed as the current value of the dropdown.
 
-<figure><img src="../../../.gitbook/assets/alert-dialog.gif" alt="Drop Down"><figcaption><p>Drop Down</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/drop-down.gif" alt="Drop Down"><figcaption><p>Drop Down</p></figcaption></figure>
 
 Integrating a DropDown Menu widget into your UI is straightforward. Follow these steps to make it happen:
 
@@ -28,7 +28,7 @@ Integrating a DropDown Menu widget into your UI is straightforward. Follow these
     </tr>
     <tr>
       <td><strong>Postitions</strong></td>
-      <td>Set DropDown Widget positions on the X and Y axes of the mobile canvas.</td>
+      <td>Set DropDown Widget positions on the X and Y axis of the mobile canvas.</td>
     </tr> 
     <tr>
       <td><strong>DropDown Menu Widget Size</strong></td>
