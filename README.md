@@ -22,7 +22,64 @@ layout:
 
 # Home 🏠
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><a data-mention href="wiki/design-ui/">design-ui</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="wiki/logics/">logics</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="wiki/backend/">backend</a></td><td></td><td></td></tr><tr><td align="center"><a data-mention href="wiki/publish-to-stores-ship/">publish-to-stores-ship</a></td><td></td><td></td></tr><tr><td align="center"><a href="https://www.youtube.com/watch?v=QHQiDpPJYcQ&#x26;list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&#x26;ab_channel=Blup">Youtube Tutorials </a>▶️</td><td></td><td></td></tr><tr><td align="center"><a href="https://blup.in/downloads">Download Blup </a>⬇️</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th align="center"></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a data-mention href="wiki/design-ui/">design-ui</a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><a data-mention href="wiki/logics/">logics</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a data-mention href="wiki/backend/">backend</a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a data-mention href="wiki/blup-code-editor/"> Code Editor 🧑‍💻</a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a data-mention href="wiki/publish-to-stores-ship/">publish-to-stores-ship</a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=QHQiDpPJYcQ&#x26;list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&#x26;ab_channel=Blup">Youtube Tutorials ▶️</a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://blup.in/downloads">Download Blup ⬇️ </a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Guide to Blup documentation
 
