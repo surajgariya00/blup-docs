@@ -19,8 +19,6 @@ layout:
 
 # Blup Code Editor
 
-
-
 Let’s explore the **Code Editor** section in **Blup**, your Low Code IDE for Flutter app development. 🚀
 
 Our versatile code editor is designed to empower developers with the flexibility to code in any language by supporting various file extensions.
@@ -31,8 +29,8 @@ Explore the possibilities and streamline your development process with Blup’s 
 
 The Code Editor is divided into two parts. Let’s understand each one of them in detail:
 
-1. [**File Explorer:**](page-1.md) Located on the left side of the editor, the file explorer resembles what you’d find in tools like Android Studio or Visual Studio Code. It serves as a gateway to your project files.
-2. [**Editor Area:** ](page-2.md)This is your coding space, functioning like a traditional editor with a custom-built color scheme for both light and dark modes, enhancing readability and appearance.
+1. [**File Explorer:**](file-explorer.md) Located on the left side of the editor, the file explorer resembles what you’d find in tools like Android Studio or Visual Studio Code. It serves as a gateway to your project files.
+2. [**Editor Area:** ](editor-area.md)This is your coding space, functioning like a traditional editor with a custom-built color scheme for both light and dark modes, enhancing readability and appearance.
 
 <figure><img src="../../.gitbook/assets/Blup Code Editor.png" alt=""><figcaption><p>Blup Code Editor</p></figcaption></figure>
 
