@@ -52,7 +52,7 @@ layout:
     </tr>
     <tr>
       <td align="center">
-        <a data-mention href="wiki/blup-code-editor/">blup-code-editor</a>
+        <a data-mention href="wiki/logics/">logics</a>
       </td>
       <td></td>
       <td></td>
