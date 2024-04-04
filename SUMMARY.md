@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home.🏠](README.md)
+* [Home 🏠](README.md)
 
 ## Wiki
 
@@ -43,7 +43,6 @@
   * [System Node Section](wiki/logics/system-node-section.md)
   * [SDK Library Section](wiki/logics/sdk-library.md)
   * [Blup Sheet API Node Section](wiki/logics/blup-sheet-api.md)
-
 * [Backend 🔗](wiki/backend/README.md)
   * [Sheets](wiki/backend/sheets.md)
   * [SQL](wiki/backend/sql.md)
