@@ -52,7 +52,7 @@ layout:
     </tr>
     <tr>
       <td align="center">
-        <a data-mention href="wiki/blup-code-editor/">blup-code-editor</a>
+        <a data-mention href="wiki/blup-code-editor/">backend</a>
       </td>
       <td></td>
       <td></td>
@@ -66,7 +66,7 @@ layout:
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.youtube.com/watch?v=QHQiDpPJYcQ&#x26;list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&#x26;ab_channel=Blup">Youtube Tutorials ▶️</a>
+        <a href="https://www.youtube.com/watch?v=QHQiDpPJYcQ&#x26;list=PLMXGDzhAj1zuUJa2AN4zONbqOnAtLmhTL&#x26;ab_channel=Blup">Youtube Tutorials ▶️ </a>
       </td>
       <td></td>
       <td></td>
