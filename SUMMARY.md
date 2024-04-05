@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Home.🏠](README.md)
+* [Home 🏠](README.md)
 
 ## Wiki
 
 * [Design (UI) ✏️](wiki/design-ui/README.md)
   * [Blup Top Bar](wiki/design-ui/blup-top-bar.md)
-  * [Status Bar](wiki/design-ui/status-bar.md)
+  * [Blup Menu Bar](wiki/design-ui/blup-menu-bar.md)
   * [Pages/Layers Panel](wiki/design-ui/pages-layers-panel.md)
   * [Toolkit](wiki/design-ui/tools-section.md)
   * [Insert Panel](wiki/design-ui/insert-widgets/README.md)
@@ -37,6 +37,7 @@
     * [Text Properties](wiki/design-ui/properties-panel/text-properties.md)
     * [List Properties](wiki/design-ui/properties-panel/list-properties.md)
     * [Rectangle Properties](wiki/design-ui/properties-panel/rectangle-properties.md)
+  * [Page Canvas](wiki/design-ui/page-canvas.md)
   * [Choose from Assets](wiki/design-ui/choose-from-assets.md)
   * [Right-Click Menu in Design](wiki/design-ui/right-click-menu-in-design.md)
   * [How to use navigate page in Blup](wiki/design-ui/how-to-use-navigate-page-in-blup.md)
@@ -66,11 +67,12 @@
   * [System Node Section](wiki/logics/system-node-section.md)
   * [SDK Library Section](wiki/logics/sdk-library.md)
   * [Blup Sheet API Node Section](wiki/logics/blup-sheet-api.md)
-
 * [Backend 🔗](wiki/backend/README.md)
   * [Sheets](wiki/backend/sheets.md)
   * [SQL](wiki/backend/sql.md)
-* [Blup Code Editor](wiki/blup-code-editor.md)
+* [Blup Code Editor](wiki/blup-code-editor/README.md)
+  * [File Explorer](wiki/blup-code-editor/file-explorer.md)
+  * [Editor Area](wiki/blup-code-editor/editor-area.md)
 * [Publish to stores 🚀(Ship)](wiki/publish-to-stores-ship/README.md)
   * [iOS Cloud Build 😮‍💨](wiki/publish-to-stores-ship/ios-cloud-build/README.md)
     * [Configure ⚙️](wiki/publish-to-stores-ship/ios-cloud-build/configure.md)
