@@ -5,7 +5,9 @@
 ## What is the use of Get And Set Local Variable
 
 The terms "Get" and "Set" are commonly used in the context of managing the state of a widget. 
+
 **Get:** To retrieve or access the value of a local variable within a screen, you simply use its name.
+
 **Set:** To update the value of a local variable within a screen, you typically use a function or method, often triggered by user interaction.
 
 ## How to use Get And Set Local Variable.

@@ -1,6 +1,6 @@
 # How to Use Google Maps in Blup
 
-<figure><img src=".gitbook/assets/google-map-setting.png" alt="Google Map"><figcaption><p>Google Maps</p></figcaption></figure>
+<figure><img src=".gitbook/assets/map-view.gif" alt="Google Map"><figcaption><p>Google Maps</p></figcaption></figure>
 
 1\. **Get Google Maps API Key:** Obtain an API key from Google Maps for your application.
 
@@ -13,7 +13,7 @@
 5\. **Run the App:** Once you've configured the Map View widget, run your app to see the Google Maps integration in action.
 
 {% hint style="info" %}
-<mark style="color:blue;">Note: To get the Google Map API key [click here](https://developers.google.com/maps/documentation/javascript/get-api-key).</mark>
+<mark style="color:blue;">Note: To know how to get Google API key [Click Here](https://developers.google.com/maps/documentation/javascript/get-api-key).</mark>
 {% endhint %}
 
 

@@ -1,5 +1,18 @@
 # How To Use Google SignIn in Blup
 
+To integrate Google Sign-In into your app, follow these steps:
+
+1. **Create a UI**: Design a user interface (UI) where you want to incorporate the Google Sign-In button. This UI should include a button or any other widget to trigger the sign-in process.
+
+2. **Implement Logic**: In the logic of the widget associated with the UI, add the Social Login can select the Google in it.
+
+3. **Trigger Google Sign-In**: On the click event of the button or widget in your UI, trigger the Google Sign-In process. This can be done by calling the appropriate method provided by the Google Sign-In SDK.
+
+4. **Navigate to Google Sign-In**: When the user triggers the sign-in process, navigate to the Google Sign-In screen or flow. This is typically handled by the Google Sign-In SDK, which provides a standard sign-in interface that users are familiar with.
+
+5. **Auto Save User**: After successful sign-in, you can optionally save the user's information, such as their email or profile picture, for future use. This can be done using local storage or by sending the user data to the backend for storage.
+
+
 <figure><img src=".gitbook/assets/google-signin.gif" alt="Google SignIn"><figcaption><p>Google SignIn</p></figcaption></figure>
 
 If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
