@@ -13,6 +13,10 @@
 4\. Once you've configured the camera, click on the "Run" button to check the camera functionality.
 Test the camera by capturing photos or videos as needed.
 
+{% hint style="info" %}
+<mark style="color:blue;">Note: If you want to learn more about the Camera components, [Click Here](wiki/design-ui/insert-widgets/cameraview-widget.md).</mark>
+{% endhint %}
+
 
 If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
 
