@@ -12,8 +12,11 @@ To integrate Google Sign-In into your app, follow these steps:
 
 5. **Auto Save User**: After successful sign-in, you can optionally save the user's information, such as their email or profile picture, for future use. This can be done using local storage or by sending the user data to the backend for storage.
 
+{% hint style="info" %}
+<mark style="color:blue;">Note: To know how to get google-services.json [Click Here](https://support.google.com/firebase/answer/7015592?hl=en#zippy=%2Cin-this-article).</mark>
+{% endhint %}
 
-<figure><img src=".gitbook/assets/google-signin.gif" alt="Google SignIn"><figcaption><p>Google SignIn</p></figcaption></figure>
+<figure><img src=".gitbook/assets/google-singin-.gif" alt="Google SignIn"><figcaption><p>Google SignIn</p></figcaption></figure>
 
 If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
 

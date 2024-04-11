@@ -1,6 +1,6 @@
 # How To Use Splash Screen In Blup
 
-<figure><img src=".gitbook/assets/splash-screen.gif" alt="Splash Screen"><figcaption><p>Splash Screen</p></figcaption></figure>
+<figure><img src=".gitbook/assets/logo-.gif" alt="Splash Screen"><figcaption><p>Splash Screen</p></figcaption></figure>
 
 1\. **Set Up Splash Screen:** Navigate to your app settings. Look for the option to set up the splash screen.
 
