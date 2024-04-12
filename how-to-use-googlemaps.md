@@ -6,7 +6,7 @@
 
 2\. **Add API Key to App Settings:** Go to the Google Maps API keys section in your app settings and add the API key you obtained.
 
-3\. **Add Map View Widget:** Now click on Insert tab and add a Map View widget to the screen where you want to display the map. You can adjust its height, width, and initial coordinates according to your requirements.
+3\. **Add Map View Widget:** To add a map to your UI screen, go to the Insert tab and choose the Map View widget. You can then adjust its size and where it shows up on the screen. If you need more help, check out the Google Map Component guide [here](wiki\design-ui\insert-widgets\mapview-widget.md).
 
 4\. **Set Initial Coordinates:** Specify the initial coordinates that you want to show when the app starts. This determines the initial position and zoom level of the map.
 

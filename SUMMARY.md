@@ -89,5 +89,4 @@
 * [How to know Debug prints in blup](how-to-know-debug-prints.md)
 * [How to use Google sign in in Blup](how-to-use-google-signin.md)
 * [Creating sign up/ sign in in Blup](create-signin-signup.md)
-* [Add 2 nodes - Get/ Set Local Variable](add-two-nodes.md)
 
