@@ -97,7 +97,7 @@ Here is a simplified approach to creating the UI for a screen that displays all 
 ![](../../.gitbook/assets/todo-form-3.gif)
 
 
-### 2. Set Up Data Storage{#set-up-data-storage}
+### 2. Set Up Data Storage {#set-up-data-storage}
 
 In this section, you will set up data storage by creating a table and writing queries for creating, uploading, reading, and deleting data.
 
