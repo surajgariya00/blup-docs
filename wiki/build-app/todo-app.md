@@ -10,8 +10,6 @@ The steps to build the app are as follows:
 - [1. Design the User Interface](#design-the-user-interface)
 - [2. Set Up Data Storage](#set-up-data-storage)
 - [3. Implement Logic](#implement-logic)
-- [4. Connect Logic and Data](#connect-logic-and-data)
-- [5. Test and Run the App](#test-and-run-the-app)
 
 
 ### 1. Design the User Interface {#design-the-user-interface}
@@ -36,7 +34,7 @@ Here is a simplified approach to creating the UI for a screen that displays all 
 
 ![](../../.gitbook/assets/todo-1.gif)
 
-2.Add Text Elements:
+2. Add Text Elements:
 
 - Add Text widgets to display information such as the date or a title.
 
@@ -76,9 +74,11 @@ Here is a simplified approach to creating the UI for a screen that displays all 
 
 - Customize the container by setting its background color, padding, and other properties.
 
+#### 1.2 Building TODO Form
+
 ![](../../.gitbook/assets/todo-form-1.gif)
 
-7. Add Input Fields and Button:
+1. Add Input Fields and Button:
 
 - Add a TextField widget to take input for the task title or description.
 
@@ -88,7 +88,7 @@ Here is a simplified approach to creating the UI for a screen that displays all 
 
 ![](../../.gitbook/assets/todo-form-2.gif)
 
-8. Customize Text and Placeholder:
+2. Customize Text and Placeholder:
 
 - Add a placeholder text (hint text) to the TextField to guide the user on what to enter.
 
@@ -138,4 +138,68 @@ Just select all(*) from the table to get all the data.
 
 ### 3. Implement Logic {#implement-logic}
 
+In this section we implement the logic for the UI and connect them them with the backend.
 
+#### 3.1 Adding logics to the UI
+
+1. Navigate to the Form Screen:
+
+- Right-click on the FAB (Floating Action Button) and choose "Add Logic."
+
+- Add a "Page Navigator" node and connect the FAB's "On Click" event to the "Run" event of the Page Navigator node.
+
+![](../../.gitbook/assets/todo-navigatorr.gif)
+
+
+2. Filling Out the Form Screen:
+
+- For each text field, right-click and select "Add Logic" to open the text field node. 
+
+- Connect the "On Text Changed" event of each text field to its own function.
+
+- Extract the text from each text field and connect it to the BlupSheet API query for "Add_task" to store the text field data.
+
+- Add logic to the button: connect its "On Click" event to the "Run" event to trigger the BlupSheet API.
+
+- Check the status of the BlupSheet API using "On Success" and "On Failure" events. Log any responses in the Debug console.
+
+-If the API call is successful, navigate back to the Home Page by attaching the navigator to the "On Success" event of the BlupSheet API.
+
+![](../../.gitbook/assets/todo-form.gif)
+
+
+3. Show data to the Home Screen:
+
+![](../../.gitbook/assets/todo-logic.png)
+
+- Open a BlupSheet API and select "task_details" to get the data from the form.
+
+- Check if the API is working by attaching its "On Success" and "On Failure" events to their respective functions and taking debug prints.
+
+- If the API is working perfectly, use a List Node.
+
+- Connect the output node ("New List") to the List length node to find the length of the list.
+
+- Attach "New List" to the List ElementAt node to access each element's index.
+
+- Connect the List length output node ("Length") to the item count of the List view.
+
+- Connect the output node ("Item and Run Trigger") of List ElementAt to the Get Value node.
+
+- Attach the outputs (value) to the text of your List view to display the data in the list.
+
+![](../../.gitbook/assets/todo-listview.gif)
+
+
+If you have any ideas to make Blup better you can share them through our [Discord community channel ](https://discord.com/channels/940632966093234176/965313562425823303)
+
+## Music to go with.
+ 
+<div class="container">
+  {% tab title="Music" %}
+  {% embed url="https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=2c7f55bd3f944878" %}
+  Lofi music
+  {% endembed %}
+  {% endtab %}
+  {% endtabs %}
+</div>
