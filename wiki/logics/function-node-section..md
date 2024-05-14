@@ -509,7 +509,7 @@ This Firebase Signup node allows you to connect with Firebase for authentication
 </table>
 
 {% hint style="info" %}
-<mark style="color:blue;">Note: To know about google-service.json and how to use [Click here](https://firebase.google.com/docs/android/setup#add-config-file) .</mark>
+<mark style="color:blue;">Note: To know about google-service.json and how to use [Click here](https://firebase.google.com/docs/android/setup) .</mark>
 {% endhint %}
 
 ## Firebase Verify
